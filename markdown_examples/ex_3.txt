@@ -1,0 +1,13 @@
+| Location/ Premises Number, Building Number | Addresses                                         | Building    | Personal Property | Business Income | Deductible | Valuation        |
+|--------------------------------------------|--------------------------------------------------|-------------|-------------------|-----------------|------------|------------------|
+| Location 1 Building 1                      | 266 E Lafayette Frontage Rd, Saint Paul, MN, 55107-1217 |             | $262,750          |                 | $2,500     | Replacement Cost |
+| Location 2 Building 1                      | 1 Leech St, Saint Paul, MN, 55102-2317           | $1,465,600  | $525,500          |                 | $2,500     | Replacement Cost |
+| Location 3 Building 1                      | 5377 W 16Th St, St Louis Park, MN, 55416-1736    |     | $525,500          |                 | $2,500     | Replacement Cost |
+| Location 4 Building 1                      | 498 Selby Ave, Saint Paul, MN, 55102-1727        |     | $525,500          |                 | $2,500     | Replacement Cost |
+| Location 5 Building 1                      | 253 Kellogg Blvd W, Saint Paul, MN, 55102-5510   |   | $1,051,000        |                 | $2,500     | Replacement Cost |
+| Location 6 Building 1                      | 200 University Ave E Fl 4Th, Saint Paul, MN, 55101-2507 |      | $21,020           |                 | $2,500     | Replacement Cost |
+| Location 7 Building 1                      | 1012 Diffley Rd, Eagan, MN, 55123-1778           |     | $525,500          |                 | $2,500     | Replacement Cost |
+| Location 8 Building 1                      | 1930 Donegal Dr Ste 100, Woodbury, MN, 55125-4871 |     | $367,850          |                 | $2,500     | Replacement Cost |
+| Location 9 Building 1                      | 7585 France Ave S, Edina, MN, 55435-4704         |     | $367,850          |                 | $2,500     | Replacement Cost |
+| Location 10 Building 1                     | 350 N 5Th St, Minneapolis, MN, 55401-7588        |     | $367,850          |                 | $2,500     | Replacement Cost          |
+| Location 11 Building 1                     | 360 N 5Th St Ste 175, Minneapolis, MN, 55401-7589 |   | $550,000          |                 | $2,500     |  Replacement Cost                |

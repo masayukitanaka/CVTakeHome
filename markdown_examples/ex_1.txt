@@ -1,0 +1,4 @@
+
+| Location/ Premises Number, Building Number | Addresses                                      | Building | Personal Property | Business Income | Deductible | Valuation        |
+|--------------------------------------------|------------------------------------------------|----------|-------------------|-----------------|------------|------------------|
+| Location 1 Building 1                      | 4201 Zarthan Ave S, St Louis Park, MN, 55416-3127 |          | $10,000           |                 | $500       | Replacement Cost |
