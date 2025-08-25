@@ -1,0 +1,31 @@
+[
+  {
+    "page_number": 3,
+    "summary": "This page includes a continuation of specific exclusions in liability coverage and outlines policy conditions including a waiver of transfer of rights of recovery against others. It defines roles for additional insured parties and includes a schedule for premises and protective devices.",
+    "full_text": "Text will be extracted separately",
+    "tables_and_figures": [
+      {
+        "type": "table",
+        "description": "Schedule of Additional Insured and Premises",
+        "content": "807 BROADWAY REVIVAL, LLC AND HILLCREST DEVELOPMENT, LLLP; 2424 KENNEDY ST NE, MINNEAPOLIS, MN 55413; Name of Person Or Organization (Additional Insured) and Designation of Premises (Part Leased To You); Policy No: NBP1555904G"
+      }
+    ],
+    "key_information": {
+      "insured_property": "807 BROADWAY, Minneapolis, MN",
+      "coverage_details": "The coverage is primary and non-contributory if certain conditions are met.",
+      "dates": "Effective Date: 10/05/2024",
+      "amounts": "",
+      "addresses": "2424 Kennedy St NE, Minneapolis, MN 55413"
+    },
+    "relationships": {
+      "continues_from_previous": "Additional Marsh Manager or Lessors exclusions described.",
+      "continues_to_next": "Reviews further modifications to insurance provisions.",
+      "references": "References section on Common Policy Conditions and Section II - Liability."
+    },
+    "document_structure": {
+      "section_title": "ADDITIONAL INSURED - MANAGERS OR LESSORS OF PREMISES",
+      "subsections": [],
+      "page_type": "endorsement or policy modification"
+    }
+  }
+]

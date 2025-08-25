@@ -1,0 +1,31 @@
+[
+  {
+    "page_number": 10,
+    "summary": "This page of the insurance document describes protective devices or services provisions. It outlines requirements for maintaining various types of protective equipment and systems, including automatic sprinkler systems and fire alarms. Exclusions from coverage are specified if these safeguards are not properly maintained.",
+    "full_text": "Text will be extracted separately",
+    "tables_and_figures": [
+      {
+        "type": "table",
+        "description": "Table listing protective safeguards required under the policy",
+        "content": "\"P-1\" Automatic Sprinkler System, \"P-2\" Automatic Fire Alarm, \"P-3\" Security Service, \"P-4\" Service Contract, \"P-5\" Smoke/Heat Detectors, \"P-6\" Circuit Breakers, \"P-7\" Burglar Alarm, \"P-8\" Surge Protectors, \"P-9\" Refrigeration Maintenance Contract, \"P-10\" Fire Suppression System."
+      }
+    ],
+    "key_information": {
+      "insured_property": "N/A",
+      "coverage_details": "Protection systems are required for coverage to be effective; lack of maintenance voids the coverage.",
+      "dates": "10/05/2024 as the effective date of the policy",
+      "amounts": "N/A",
+      "addresses": "Not specified on this page"
+    },
+    "relationships": {
+      "continues_from_previous": "Continuation of protective devices discussions",
+      "continues_to_next": "Further details on protective measures and related exclusions",
+      "references": "References made to the importance of maintaining listed protective systems"
+    },
+    "document_structure": {
+      "section_title": "Protective Devices or Services Provisions",
+      "subsections": [],
+      "page_type": "content"
+    }
+  }
+]

@@ -1,607 +1,511 @@
 [
   {
     "page_number": 1,
-    "summary": "The document begins with an endorsement that modifies the insurance provided under the commercial auto and businessowners coverage forms. It clarifies exclusions for certain coverage types and states conditions under which other parties may be insured.",
-    "full_text": "However, the coverage provided by this endorsement does not apply to any coverage provided for an “auto” on a “non-owned auto”, “hired auto”, uninsured motorists coverage, underinsured motorists coverage, personal injury protection, property protection or similar no-fault coverage by whatever name called and/or an “auto” coverage of any type. All other terms and conditions of this policy remain unchanged. This endorsement is a part of your policy and takes effect on the effective date of your policy unless another effective date is shown. This endorsement modifies insurance provided under the following: BUSINESSOWNERS COVERAGE FORM UNITED STATES LIABILITY INSURANCE GROUP WAYNE, PENNSYLVANIA Primary And Non-Contributory - Written Contract BP 172 (10-13) Page 1 of 1",
-    "tables_and_figures": [],
+    "summary": "The page introduces changes to the insurance policy, highlighting new endorsements related to liability coverage under the Businessowners Coverage Form. The policy is customized for specific circumstances involving additional insured parties.",
+    "full_text": "As a policyholder through USLI, you have access to many free and discounted services that will assist you in operating\nand growing your business through the Business Resource Center (BRC). Consider the following services and associated\ncost savings when deciding where to place your insurance!\nCybersecurity Property Safety\n• Complimentary access to eRiskHub®, a data breach • Free workplace safety and occupational health\nprevention and response resource that will help you consultation\nunderstand your exposure to a data breach and the • Tips for building maintenance, fire prevention\nimportance of a response plan\nand water safety\n• Best practice checklists for securing personal and\nIndustry-specific Resources For:\npayment card information, plus tips on protecting\nagainst cyberattacks • Health, wellness and sports\n• Hospitality, food and beverage\nBackground Checks and Screenings\n• Nonprofits and social services\n• Discounted background checks, including\n• Residential and rental properties\nmulti-court criminal database searches, county\ncriminal searches and more (first background • Retail and professional services\ncheck is free) • Youth services and child care\n• Best practices for performing a background check • ... and more!\n• Discounted tenant and drug screenings and motor\nvehicle reports (MVRs)\nTry our cost-savings calculator\nDisaster Preparation and Recovery\nto see how much you could save!\n• Guidance on preparing for natural disasters and\nserve weather\n• Business planning and recovery toolkit\n• Sample incident reporting form and disaster loan\nassistance resource ONLINE LEARNING\nHuman Resources Need help training your new\n• Free PeopleSystems’ human resources consultation employees?\nhelpline to be used for personnel issues, including Properly preparing new employees can be\nharassment and discrimination, the Family and time-consuming and expensive. We offer a variety of\nMedical Leave Act, disability, wage and hours free and discounted industry-specific training and\nregulations and more certifications to help you save time and money!\n• Online library with information, forms and articles\npertaining to human resources Topics include:\n• Discounted HR and payroll management system • Food manager and handler safety\nby PrimePoint • Liquor safety\n• Discounted employee workplace assessment by • CPR, first aid and concussion\nTalogy, previously PSI Caliper\n• Sexual harassment\n• Resources for recruiting, interviewing and\n• Leadership and professional development\nterminating employees\nMarketing\n• Resources marketing via email and social media,\nFor a full list of vendors,\ncapturing leads and building surveys\n• Free and discounted stock imagery sites and photo discounts and resources,\nand video editing programs\nvisit bizresourcecenter.com.\n• Discount stationery, signage, promotional items\nand gifts\nBRC-Quote and Policy 12/23",
+    "tables_and_figures": [
+      {
+        "type": "table",
+        "description": "Schedule of endorsements and additional insured entities with effective dates",
+        "content": "BP 04 02 01 06 with details on designation of premises and entities covered"
+      }
+    ],
     "key_information": {
-      "insured_property": null,
-      "coverage_details": "Excludes coverage for non-owned auto, hired auto, uninsured/underinsured motorist, personal injury protection.",
-      "dates": null,
-      "amounts": null,
-      "addresses": null
+      "insured_property": "807 Broadway Revival, LLC",
+      "coverage_details": "Covers managers or lessors of premises",
+      "dates": "Effective Date: 10/05/2024",
+      "amounts": "Not specified",
+      "addresses": "2424 Kennedy St NE, Minneapolis, MN 55413"
     },
     "relationships": {
-      "continues_from_previous": "General policy terms are modified.",
-      "continues_to_next": "Detailed terms continue.",
-      "references": null
+      "continues_from_previous": "Introduction of policy modifications",
+      "continues_to_next": "Further details on coverage endorsements",
+      "references": "References previous policy terms, parts of the Businessowners Coverage Form"
     },
     "document_structure": {
-      "section_title": "Endorsement",
-      "subsections": [],
+      "section_title": "THIS ENDORSEMENT CHANGES THE POLICY",
+      "subsections": [
+        "Additional Insured - Managers or Lessors of Premises"
+      ],
       "page_type": "content"
     },
-    "analyzed_at": "2025-08-24T16:17:51.188989"
+    "analyzed_at": "2025-08-24T18:07:05.400184"
   },
   {
     "page_number": 2,
-    "summary": "This page contains a detailed schedule for additional insureds, particularly managers or lessors involved, and specifies additional exclusions from the insurance coverage.",
-    "full_text": "807 BROADWAY REVIVAL, LLC AND HILLCREST DEVELOPMENT, LLLP 2424 KENNEDY ST NE MINNEAPOLIS, MN 55413 10/05/2024 Effective Date: Name of Person or Organization (Additional Insured): Designation of Premises (Part Leased To You) POLICY NUMBER: NBP1555904G BP 04 02 01 06 BUSINESSOWNERS THIS ENDORSEMENT CHANGES THE POLICY. PLEASE READ IT CAREFULLY. This endorsement modifies insurance provided under the following: BUSINESSOWNERS COVERAGE FORM SCHEDULE ADDITIONAL INSURED - MANAGERS OR LESSORS OF PREMISES Copyright, ISO Properties, Inc., 2004 Page 1 of 1 BP 04 02 01 06 *Information required to complete this Schedule, if not shown above, will be shown in the Declarations A. The following is added to Paragraph C. WHO IS AN INSURED in Section II - Liability: 3. The person or organization shown in the Schedule is also an insured, but only with respect to liability arising out of the ownership, maintenance or use that part of the premises leased to you and shown in the Schedule B. The following exclusions are added to Section II - Liability: This insurance does not apply to: 1. Any “occurrence” that takes place after you cease to be a tenant in the premises described in the Schedule 2. Structural alterations, new construction or demolition operations performed by or for the person or organization designated in the Schedule.",
-    "tables_and_figures": [],
+    "summary": "Continues with detailed conditions for coverage exclusions relating to specific incidents such as vandalism or equipment breakdown. Emphasizes the policyholder's responsibility in maintaining protective safeguards.",
+    "full_text": "24/7 Claim Reporting\nIn our continuing effort to provide you with excellent claim service, you may now report a claim\nand get claim assistance 24 hours a day/7 days a week.\nFor claim reporting, call toll free 1-888-875-5231 or visit\nUSLI.COM and select the “report a claim” option.\nFor emergency claims requiring immediate assistance, please use the toll free option. Your call will\nbe referred to a claims professional who will respond within an hour of your call with direction and\nassistance.\nThank you for placing your trust in our company. We pledge to work hard every day to earn\nand maintain that trust.\nUSLI.COM\n888-523-5545\nCRF 12/16",
+    "tables_and_figures": [
+      {
+        "type": "figure",
+        "description": "List of conditions affecting insurance coverage",
+        "content": "Conditions under which coverage does not apply due to failure to maintain protective safeguards."
+      }
+    ],
     "key_information": {
-      "insured_property": "807 BROADWAY REVIVAL, LLC AND HILLCREST DEVELOPMENT, LLLP, 2424 KENNEDY ST NE, MINNEAPOLIS, MN 55413",
-      "coverage_details": "Additional insured for managers or lessors, coverage specifics for designated premises.",
-      "dates": "10/05/2024",
-      "amounts": null,
-      "addresses": "2424 KENNEDY ST NE, MINNEAPOLIS, MN 55413"
+      "insured_property": "Not directly specified",
+      "coverage_details": "Excludes coverage for vandalism and equipment breakdown if safeguards are not maintained",
+      "dates": "Relevant to policy's effective date",
+      "amounts": "Not specified",
+      "addresses": "Implicitly for insured locations"
     },
     "relationships": {
-      "continues_from_previous": "Endorsement specifications.",
-      "continues_to_next": "Further specification of insured parties.",
-      "references": null
+      "continues_from_previous": "Coverage exclusions in detail",
+      "continues_to_next": "Finalizing endorsements and conditions",
+      "references": "Exclusions discussed are related to previous general terms"
     },
     "document_structure": {
-      "section_title": "Endorsement Schedule",
-      "subsections": [],
+      "section_title": "Coverage Exclusions based on Protective Safeguards",
+      "subsections": [
+        "Exclusion Details for Various Coverage Incidents"
+      ],
       "page_type": "content"
     },
-    "analyzed_at": "2025-08-24T16:17:51.189050"
+    "analyzed_at": "2025-08-24T18:07:05.400197"
   },
   {
     "page_number": 3,
-    "summary": "Contains information on business coverage specifics, including descriptions of premises and coverage limits like business income, personal property, and liability expenses.",
-    "full_text": "DESCRIPTION OF PREMISES Prem Bldg Location, Construction, Occupancy and Other Information Territory Fire Code 1 807 Broadway St Ne, Minneapolis, MN 55413 Covered Causes of Loss: Special Construction: Frame 1 Protection Class 6 001 0757 Description: Non-Profit Directors and Officers Square Footage: Special Deductible: None Special Deductible Type: Coinsurance % or Monthly Indemnity LIMITS OF INSURANCE COVERAGES PROVIDED - INSURANCE AT THE DESCRIBED PREMISES APPLIES ONLY FOR COVERAGES FOR WHICH A LIMIT OF INSURANCE IS SHOWN Prem Bldg Coverage + Valuation Premium Deductible 1 1 Business Income and Extra Expense $16,552 $0 Included 1 1 Business Personal Property $5,000 $1,000 RC Included MINIMUM PREMIUM FOR PROPERTY COVERAGE PART: $50 TOTAL PREMIUM FOR PROPERTY COVERAGE PART: MP - minimum premium + Valuation: ACV - Actual Cash Value; RC - Replacement Cost; RC/ACV - Replacement Cost/ACV Roof FBV - Functional Building Value; AA - Agreed Amount; ALS - Actual Loss Sustained $50 MP 12:01 STANDARD TIME 10/05/2024 Effective Date: NBP1555904G BUSINESSOWNERS PROPERTY COVERAGE PART DECLARATIONS Policy No. Copyright, ISO Commercial Risk Services, Inc., 1983, 1984, 1988 Includes copyrighted material of ISO Commercial Risk Services, Inc., with its permission. THESE DECLARATIONS ARE PART OF THE POLICY DECLARATIONS CONTAINING THE NAME OF THE INSURED AND THE POLICY PERIOD.",
-    "tables_and_figures": [],
+    "summary": "Page details the exclusions tied to specific protective safeguard failures, including obligations for reporting and maintaining these safeguards. It further clarifies responsibilities of the insured with examples.",
+    "full_text": "Privacy Notice At Collection\nWe may need to collect certain personal information to provide you with our services and products. For information\non how we store, use and protect personal information, please see our Privacy Policy accessible on our website,\nhttps://www.usli.com/privacy-policy/.\nPrivacy Notice 11/21 – USLI page 1 of 1",
+    "tables_and_figures": [
+      {
+        "type": "figure",
+        "description": "Protective safeguards and corresponding exclusions",
+        "content": "Descriptions of various protective safeguards such as 'P-3', 'P-6', etc., and implications on coverage."
+      }
+    ],
     "key_information": {
-      "insured_property": "807 Broadway St Ne, Minneapolis, MN 55413",
-      "coverage_details": "Business income, extra expense, personal property coverage.",
-      "dates": "10/05/2024",
-      "amounts": "$16,552 business income and extra expense, $5,000 business personal property",
-      "addresses": "807 Broadway St Ne, Minneapolis, MN 55413"
+      "insured_property": "Not directly specified",
+      "coverage_details": "Highlights exclusions due to failure to maintain safeguards",
+      "dates": "Effective: 10/05/2024",
+      "amounts": "Not specified",
+      "addresses": "Implicitly for insured locations"
     },
     "relationships": {
-      "continues_from_previous": "Details on coverage specifics.",
-      "continues_to_next": "Business and insured details continued.",
-      "references": null
+      "continues_from_previous": "Detailed exclusions and safeguard descriptions",
+      "continues_to_next": "Further conditions in policy specifics",
+      "references": "Related to previous pages with overall liability details"
     },
     "document_structure": {
-      "section_title": "Property Declarations",
-      "subsections": [],
+      "section_title": "Exclusions and Conditions",
+      "subsections": [
+        "Protective Safeguards Descriptions",
+        "Exclusions Linked to Safeguards"
+      ],
       "page_type": "content"
     },
-    "analyzed_at": "2025-08-24T16:17:51.189057"
+    "analyzed_at": "2025-08-24T18:07:05.400200"
   },
   {
     "page_number": 4,
-    "summary": "Includes policy declarations for a nonprofit corporation and the various premium components of the insurance policy. It highlights renewal of previous policies and indicates total payable premiums.",
-    "full_text": "FORM OF BUSINESS: BUSINESS DESCRIPTION: 12:01 A.M. STANDARD TIME AT YOUR MAILING ADDRESS SHOWN ABOVE IN CONSIDERATION OF THE RENEWAL PREMIUM STATED BELOW, EXPIRING POLICY NUMBER NBP1555904F IS RENEWED THIS POLICY CONSISTS OF THE FOLLOWING COVERAGE PARTS FOR WHICH A PREMIUM IS INDICATED. NAMED INSURED AND ADDRESS: Renewal of Number POLICY DECLARATIONS 10/05/2024 10/05/2025 Non-Profit Corporation Non-Profit Directors and Officers *** RENEWAL CERTIFICATE *** United States Liability Insurance Company 1190 Devon Park Drive, Wayne, Pennsylvania 19087 A Member Company of United States Liability Insurance Group Agent:  TWIN CITY GROUP (4317) 4500 Park Glen Road, Suite 400 Minneapolis, MN 55416 Issued: 08/23/2024 1:53 PM By: THIS PREMIUM MAY BE SUBJECT TO ADJUSTMENT. Direct Bill Policy FOR THE POLICY PERIOD STATED ABOVE. PLEASE ATTACH THIS RENEWAL CERTIFICATE TO YOUR EXPIRING POLICY. PREMIUM Businessowners Liability Coverage Part $411.00 Businessowners Property Coverage Part $50.00 Fire Safety Surcharge $0.33 TOTAL: $461.33",
-    "tables_and_figures": [],
+    "summary": "Concludes the description of policy structure focusing on liability exclusions. Introduces common policy conditions and emphasizes the importance of waiver and exclusion clauses.",
+    "full_text": "USLI.COM\n888-523-5545\nNote About Loss Control\nDear Valued Policyholder,\nSlips, trips and falls are among the most frequent causes of loss. What might surprise you is that, many times, they result in claims and\njudgments in the hundreds of thousands of dollars, which ultimately impact your insurance premium. In most instances, these claims can\nbe lessened or prevented entirely simply by addressing the most common causes of such losses listed below.\nMost Common Causes\nu(cid:3) Spills, wet or icy walking surfaces\nu(cid:3) Uneven or worn floors/carpets/steps/sidewalks\nu(cid:3) Inadequate or poorly maintained lighting\nu(cid:3) Obstructed views\nu(cid:3) Poor housekeeping - Excess clutter/trash in walkways or near open flames or hot surfaces\nWe encourage you to please take the time to periodically inspect your premises to see if any of these conditions exist and work to\neliminate them where possible. Your efforts may save you money on future insurance premiums and, quite possibly, save your business.\nThank you for choosing and trusting us to help protect your business!\n“An ounce of prevention is worth a pound of cure.”\n-Benjamin Franklin\nRegards,\nThomas P. Nerney\nChairman, President and CEO\nLoss Control 4/19",
+    "tables_and_figures": [
+      {
+        "type": "table",
+        "description": "Common policy conditions and waiver of rights",
+        "content": "Includes waiver details and how they affect recovery rights"
+      }
+    ],
     "key_information": {
-      "insured_property": "Logan Park Neighborhood Association",
-      "coverage_details": "Renewal of insurance policy for businessowners coverage including liability and property.",
-      "dates": "Policy period from 10/05/2024 to 10/05/2025",
-      "amounts": "Total premium $461.33",
-      "addresses": "4500 Park Glen Road, Suite 400, Minneapolis, MN 55416"
+      "insured_property": "Not directly specified",
+      "coverage_details": "Waiver of transfer of rights of recovery against others",
+      "dates": "Effective Date: 10/05/2024",
+      "amounts": "Not specified",
+      "addresses": "Implicitly for insured locations"
     },
     "relationships": {
-      "continues_from_previous": "Premium and policy details continue.",
-      "continues_to_next": "Further policy details and coverage specifics.",
-      "references": "Renewal of previous policy NBP1555904F"
+      "continues_from_previous": "Coverage and exclusion detailing",
+      "continues_to_next": "Document completes with general policy commentary",
+      "references": "Completes the summaries of coverage adjustments and conditions"
     },
     "document_structure": {
-      "section_title": "Policy Declarations",
-      "subsections": [],
+      "section_title": "Common Policy Conditions",
+      "subsections": [
+        "Transfer of Rights of Recovery",
+        "Waiver Details"
+      ],
       "page_type": "content"
     },
-    "analyzed_at": "2025-08-24T16:17:51.189062"
+    "analyzed_at": "2025-08-24T18:07:05.400202"
   },
   {
     "page_number": 5,
-    "summary": "This page contains a schedule and description of premises including their construction type and occupancy details. It specifies coverage details such as business income and extra expense, business personal property, with respective premium and deductible amounts.",
-    "full_text": "DESCRIPTION OF PREMISES\n\nPrem Bldg Location, Construction, Occupancy and Other Information Territory Fire Code\n1 807 Broadway St Ne, Minneapolis, MN 55413\n\nCovered Causes of Loss: Special\nConstruction: Frame\n1\nProtection Class 6\n001 0757\nDescription: Non-Profit Directors and Officers\nSquare Footage:\n\nSpecial Deductible: None Special Deductible Type:\nCoinsurance % or \nMonthly Indemnity\n\nLimits of \nInsurance\nCOVERAGES PROVIDED - INSURANCE  AT THE DESCRIBED PREMISES APPLIES ONLY FOR COVERAGES FOR WHICH A LIMIT OF INSURANCE IS SHOWN\n\nPrem Bldg Coverage + Valuation PremiumDeductible\n1 1 Business Income and Extra Expense $16,552 $0 Included\n1 1 Business Personal Property $5,000 $1,000 RC Included\n\nMINIMUM PREMIUM FOR PROPERTY COVERAGE PART: $50\nTOTAL PREMIUM FOR PROPERTY COVERAGE PART:\nMP - minimum premium\n+ Valuation: ACV - Actual Cash Value; RC - Replacement Cost; RC/ACV - Replacement Cost/ACV Roof\nFBV - Functional Building Value; AA - Agreed Amount; ALS - Actual Loss Sustained\n$50 MP\n12:01 STANDARD TIME\n10/05/2024Effective Date:NBP1555904G\nBUSINESSOWNERS PROPERTY COVERAGE PART DECLARATIONS\nPolicy No.\n\nCopyright, ISO Commercial Risk Services, Inc., 1983, 1984, 1988\nIncludes copyrighted material of ISO Commercial Risk Services, Inc., with its permission.\n\nTHESE DECLARATIONS ARE PART OF THE POLICY DECLARATIONS CONTAINING THE NAME OF THE INSURED AND THE POLICY PERIOD.\n\nBPP150 (02/09) Page 1 Of 1\n\nLOSS PAYABLE(S): NONE\n\nSee Endorsement EOD (01/95)\nCoverage Form(s)/Part(s) and Endorsement(s) made a part of this policy at time of issue:\nCoverage Form(s)/Part(s) and Endorsement(s) made a part of this policy at time of issue:\nSee Form EOD (01/95)\n\nLIMITS OF INSURANCE\nLiability and Medical Expenses $1,000,000\nMedical Expense (per person) $5,000\nDamages To Premises Rented To You (Any One Premises) $100,000\nLIABILITY DEDUCTIBLE $0\nAn Aggregate Limit of Liability applies to this Coverage as defined in SECTION II - LIABILITY, paragraph D.4. of the\nBusinessowners Coverage Form.\n\nLOCATIONS OF ALL PREMISES YOU OWN, RENT OR OCCUPY\nLocation Address Territory\n1 807 Broadway St Ne, Minneapolis, MN 55413 001\n\nPREMIUM COMPUTATION\nRate Advance Premium\nLoc Classification Code No. Premium Basis Pr/Co All Other Pr/Co All Other\n1 Membership Organization (Charity) - no premises \nowned or leased - Not-for-Profit only\n41670 14 Per Members 0.000 1.482 $0 $21\n1 Waiver of Rights of Recovery 49956 If Any 0.000 0.000 Included Included\n1 Additional Insured - Designated Person 49950 1 Per Additional \nInsured\n0.000 50.000 $0 $50\n1 Blanket Special Events Liability - Non-Profit \nOrganizations\n00041 Flat 0.000 240.000 $0 $240\n1 Additional Insured - Managers or Lessors of \nPremises\n49950 1 Per Additional \nInsured\n0.000 50.000 $0 $50",
-    "tables_and_figures": [
-      {
-        "type": "table",
-        "description": "Description of Premises with coverage and premium details",
-        "content": "Prem Bldg Location: 807 Broadway St Ne, Minneapolis, MN 55413\nCovered Causes of Loss: Special\nConstruction: Frame\nProtection Class 6\nDescription: Non-Profit Directors and Officers\nBusiness Income and Extra Expense: $16,552\nBusiness Personal Property: $5,000\nPremium Deductible: $0, $1,000\nCoverage Parts and Endorsements: ACV, RC, RC/ACV Roof"
-      }
-    ],
+    "summary": "This page primarily includes insurance coverage information such as exclusions for specific liabilities and substances like perfluoroalkyl and polyfluoroalkyl. It also notifies the policyholder about their choices regarding terrorism insurance coverage.",
+    "full_text": "Page 1 content will be extracted separately.",
+    "tables_and_figures": [],
     "key_information": {
-      "insured_property": "807 Broadway St Ne, Minneapolis, MN 55413",
-      "coverage_details": "Business Income and Extra Expense, Business Personal Property",
-      "dates": "Effective Date: 10/05/2024",
-      "amounts": "$16,552, $5,000, $1,000, $50 MP",
-      "addresses": "807 Broadway St Ne, Minneapolis, MN 55413"
+      "insured_property": null,
+      "coverage_details": "Exclusions for specific liabilities and substances, including terrorism exclusion.",
+      "dates": null,
+      "amounts": null,
+      "addresses": null
     },
     "relationships": {
-      "continues_from_previous": "N/A",
-      "continues_to_next": "May continue with additional coverage details",
-      "references": "Section II - LIABILITY, Endorsement EOD"
+      "continues_from_previous": null,
+      "continues_to_next": "Further details on insurance coverage and terrorism insurance options.",
+      "references": null
     },
     "document_structure": {
-      "section_title": "BUSINESSOWNERS PROPERTY COVERAGE PART DECLARATIONS",
+      "section_title": "Liability Coverage Exclusions",
       "subsections": [
-        "DESCRIPTION OF PREMISES",
-        "COVERAGES PROVIDED",
-        "PREMIUM COMPUTATION"
+        "Exclusions",
+        "Terrorism Insurance Options"
       ],
       "page_type": "content"
     },
-    "analyzed_at": "2025-08-24T16:19:03.089848"
+    "analyzed_at": "2025-08-24T18:08:09.760623"
   },
   {
     "page_number": 6,
-    "summary": "This page describes the coverage for 'insured losses' under statutory coverage limits for terrorism acts and outlines the terms under which terrorism insurance can be rejected or chosen by the policyholder.",
-    "full_text": "Coverage for \"insured losses”, as defined in the Act, is subject to the coverage terms, conditions, amounts \nand limits in this policy applicable to losses arising from events other than acts of terrorism.\n\nYou should know that the Act, as amended, contains a $100 billion cap that limits U.S. Government \nreimbursement, as well as insurers' liability, for losses resulting from certified acts of terrorism when the \namount of such losses in any one calendar year exceeds $100 billion. If the aggregate insured losses for \nall insurers exceed $100 billion in any one calendar year, your coverage may be reduced. \n\nYou should also know that, under federal law, you are not required to purchase coverage for losses caused \nby certified acts of terrorism.\n\nREJECTION OR SELECTION OF TERRORISM INSURANCE COVERAGE\n\nNote: In the states of California, Georgia, Hawaii, Illinois, Iowa, Maine, North Carolina, Oregon, \nWashington, West Virginia and Wisconsin, our terrorism exclusion makes an exception for fire losses \nresulting from an Act of Terrorism. In these states, if you decline to purchase Terrorism Coverage, you still \nhave coverage for fire losses resulting from an Act of Terrorism. \n\nPlease “X” one of the boxes below and return this notice to the Company.\n\n100\nDate\n\nNamed Insured\n\nAuthorized Signature\n\nApplicant Name (Print) \n\nTRIADN RENEWAL (12-20) 1of1Page",
-    "tables_and_figures": [],
+    "summary": "This page discusses provisions related to protective devices and services necessary for maintaining coverage. It specifies various systems required for insurance, like sprinkler systems and alarms.",
+    "full_text": "Page 2 content will be extracted separately.",
+    "tables_and_figures": [
+      {
+        "type": "table",
+        "description": "Schedule of Protective Devices and their descriptions.",
+        "content": "1) Automatic Sprinkler System; 2) Automatic Fire Alarm; etc."
+      }
+    ],
     "key_information": {
       "insured_property": null,
-      "coverage_details": "Coverage for insured losses, terrorism insurance",
+      "coverage_details": "Requirements for protective safeguards systems.",
       "dates": null,
-      "amounts": "Coverage limits up to $100 billion",
+      "amounts": null,
       "addresses": null
     },
     "relationships": {
-      "continues_from_previous": "Policy coverages and limitations",
-      "continues_to_next": "Terrorism insurance selection or rejection process details",
-      "references": "Federal Terrorism Risk Insurance Program Reauthorization Act"
+      "continues_from_previous": "Continuation of policy requirements for protective systems.",
+      "continues_to_next": "Further exclusions and policy conditions.",
+      "references": null
     },
     "document_structure": {
-      "section_title": "Disclosure Notice of Terrorism Insurance Coverage",
+      "section_title": "Protective Devices or Services",
       "subsections": [
-        "REJECTION OR SELECTION OF TERRORISM INSURANCE COVERAGE"
+        "Protective Safeguards Schedule"
       ],
       "page_type": "content"
     },
-    "analyzed_at": "2025-08-24T16:19:03.089871"
+    "analyzed_at": "2025-08-24T18:08:09.760631"
   },
   {
     "page_number": 7,
-    "summary": "This page amends Section II - Liability by adding exclusions for perfluoroalkyl and polyfluoroalkyl substances, detailing the chemical definitions and conditions under which these exclusions apply. It also includes references to a notice of terrorism exclusion.",
-    "full_text": "Section II – Liability is amended as follows:  \nA. The following is added to Paragraph B. \nExclusions: \nThis insurance does not apply to: \nPerfluoroalkyl And Polyfluoroalkyl \nSubstances\n\na. \"Bodily injury\" or \"property damage\" which \nwould not have occurred, or \"personal and \nadvertising injury\" which would not have \ntaken place, in whole or in part, but for the \nactual, alleged, threatened or suspected \ninhalation, ingestion, absorption, \nconsumption, discharge, dispersal, \nseepage, migration, release or escape of, \ncontact with, exposure to, existence of, or \npresence of, any \"perfluoroalkyl or \npolyfluoroalkyl substances\". \n\nb. Any loss, cost or expense arising, in whole \nor in part, out of the abating, testing for, \nmonitoring, cleaning up, removing, \ncontaining, treating, detoxifying, \nneutralizing, remediating or disposing of, or \nin any way responding to or assessing the \neffects of, \"perfluoroalkyl or polyfluoroalkyl \nsubstances\", by any insured or by any other \nperson or entity.\n\nB. The following is added to Paragraph F. Liability \nAnd Medical Expenses Definitions: \n\"Perfluoroalkyl or polyfluoroalkyl substances\" \nmeans any:  \n\n1. Chemical or substance that contains one or \nmore alkyl carbons on which hydrogen atoms \nhave been partially or completely replaced by \nfluorine atoms, including but not limited to: \n\na. Polymer, oligomer, monomer or nonpolymer \nchemicals and their homologues, isomers, \ntelomers, salts, derivatives, precursor \nchemicals, degradation products or by-\nproducts; \n\nb. Perfluoroalkyl acids (PFAA), such as \nperfluorooctanoic acid (PFOA) and its salts, \nor perfluorooctane sulfonic acid (PFOS) and \nits salts; \n\nc. Perfluoropolyethers (PFPE); \nd. Fluorotelomer-based substances; or \ne. Side-chain fluorinated polymers; or \n2. Good or product, including containers, \n\nmaterials, parts or equipment furnished in \nconnection with such goods or products, that \nconsists of or contains any chemical or \nsubstance described in Paragraph B.1.  \n\nNTE (12-20)  Page 1 of 1 \n\nNOTICE OF TERRORISM EXCLUSION \n\nYou were notified that under the federal Terrorism Risk Insurance Program Reauthorization Act \nof 2019 (\"The Act\"), that you had a right to purchase insurance coverage for losses arising out of \nacts of terrorism, as defined in Section 102(1) of the Act.\n\nYou opted not to purchase this coverage.\n\nThe War and/or Terrorism Exclusion that is a part of this policy is therefore in full force and\neffect.",
+    "summary": "Details on waivers of rights of recovery and additional insured parties. Also covers policy endorsements changing the coverage for certain perfluoroalkyl and polyfluoroalkyl substances.",
+    "full_text": "Page 3 content will be extracted separately.",
     "tables_and_figures": [],
     "key_information": {
       "insured_property": null,
-      "coverage_details": "Liability exclusions for perfluoroalkyl and polyfluoroalkyl substances",
-      "dates": null,
+      "coverage_details": "Waivers and additional insured specifics.",
+      "dates": "10/05/2024",
       "amounts": null,
-      "addresses": null
-    },
-    "relationships": {
-      "continues_from_previous": "Previous policy coverages and exclusions",
-      "continues_to_next": "Notice on terrorism exclusions",
-      "references": "Federal Terrorism Risk Insurance Program Reauthorization Act of 2019"
-    },
-    "document_structure": {
-      "section_title": "Section II – Liability Amendments",
-      "subsections": [
-        "EXCLUSIONS for perfluoroalkyl and polyfluoroalkyl substances"
-      ],
-      "page_type": "content"
-    },
-    "analyzed_at": "2025-08-24T16:19:03.089873"
-  },
-  {
-    "page_number": 8,
-    "summary": "This page lists various exclusions and endorsements related to the policy including those for cyber incidents, fiduciary liability, and more. It mentions the effective policy date and the structure for Forms and Endorsements.",
-    "full_text": "BP-101 Exclusion of Certified Acts of Terrorism (Coverage for Certain Fire \nLosses)\n\n12/20\n\nBP-107 Actual Cash Value Definition04/08\n\nBP-11 Exclusion - Fiduciary Liability And Financial Services05/04\n\nBP-115 Protective Devices Or Services Provisions07/08\n\nBP-15 Business Income And Extra Expense Limit07/04\n\nBP-152 Separation Of Insureds Clarification Endorsement08/10\n\nBP-165 Exclusion - Specific Activities, Events or Conditions or Over 2,500 \nPeople\n\n05/18\n\nBP-168 Exclusion - Injury To Performers Or Entertainers11/11\n\nBP-172 Primary And Non-Contributory - Written Contract10/13\n\nBP-179 NBP Amendment of Liquor Liability Exclusion12/17\n\nBP-193 Limits Of Insurance Under Multiple Coverage Parts08/14\n\nBP-40 Molestation Or Abuse Exclusion03/11\n\nBP-48 Exclusion Asbestos, Lead Contamination, Absolute Pollution, Mold, \nFungus, Bacteria, Virus And Organic Pathogen\n\n05/16\n\nBP-49 Absolute Exclusion For Pollution, Organic Pathogen, Silica, Asbestos \nAnd Lead\n\n01/13\n\nBP-500 Bodily Injury Exclusion - All Employees, Volunteer Workers, Temporary \nWorkers, Casual Laborers, Contractors and Subcontractors\n\n11/18\n\nBP-58 Animal Exclusion05/07\n\nBP-59 Exclusion - Athletic Activity Or Sport Participants02/13\n\nBP-60 Exclusion For Bleacher Collapse05/07\n\nBP-65 Exclusion For Mechanical Rides05/07\n\nBP-88 Expanded Definition Of Bodily Injury04/06\n\nBP-90 Amended Definition11/10\n\nBP-95 Exclusion For Climbing, Rebounding And Interactive Games And \nDevices\n\n05/07\n\nBP-96 Exclusion For Firearms, Fireworks And Other Pyrotechnic Devices05/07\n\nBP-97 Exclusion For Event Vendor/Exhibitor & Contractor05/07\n\nBP0003 Businessowners Coverage Form01/10\n\nBP0125 Minnesota Changes01/10\n\nBP0402 Additional Insured - Managers Or Lessors Of Premises01/06\n\nBP0417 Employment-Related Practices Exclusion01/10\n\nBP0448 Additional Insured - Designated Person Or Organization01/06\n\nBP0497 Waiver Of Transfer Of Rights Of Recovery Against Others To Us01/06\n\nBP1505 Exclusion - Access Or Disclosure Of Confidential Or Personal \nInformation And Data -Related Liability - Limited Bodily Injury Exception \nNot Included\n\n05/14\n\nBP1560 Cyber Incident Exclusion02/21\n\nFORMS AND ENDORSEMENTS\n\nEXTENSION OF DECLARATIONS\n\nPolicy No. NBP1555904G Effective Date: 10/05/2024\n\n12:01 AM STANDARD TIME AT YOUR MAILING ADDRESS\n\nAll other terms and conditions remain unchanged.EOD (01/95) Page of1 2\n\nEndorsements marked with an asterisk (*) have been added to this policy or have a new edition date and are attached with this certificate.\n\n\nFORMS AND ENDORSEMENTS\n\nEXTENSION OF DECLARATIONS\n\nPolicy No. NBP1555904G Effective Date: 10/05/2024\n\n12:01 AM STANDARD TIME AT YOUR MAILING ADDRESS\n\n* BP1591 Exclusion - Perfluoroalkyl and Polyfluoralkyl Substances (PFAS)12/23\n\nJacket Policy Jacket07/19\n\nNotice-\nCyberIncidentExcl-\nBP\n\nCyber Incident Exclusion Endorsement - Advisory Notice to Policyholder01/21\n\nNTE Notice of Terrorism Exclusion12/20\n\nAll other terms and conditions remain unchanged.EOD (01/95) Page of2 2\n\nEndorsements marked with an asterisk (*) have been added to this policy or have a new edition date and are attached with this certificate.",
-    "tables_and_figures": [],
-    "key_information": {
-      "insured_property": null,
-      "coverage_details": "Exclusions for cyber incidents, fiduciary liabilities, and more",
-      "dates": "Effective Date: 10/05/2024",
-      "amounts": null,
-      "addresses": null
-    },
-    "relationships": {
-      "continues_from_previous": "Previous exclusions and endorsements",
-      "continues_to_next": null,
-      "references": "Various exclusions such as BP-101, BP-115, BP-40, BP-500"
-    },
-    "document_structure": {
-      "section_title": "FORMS AND ENDORSEMENTS",
-      "subsections": [
-        "List of Exclusions and Endorsements",
-        "EXTENSION OF DECLARATIONS"
-      ],
-      "page_type": "content"
-    },
-    "analyzed_at": "2025-08-24T16:19:03.089875"
-  },
-  {
-    "page_number": 9,
-    "summary": "This page outlines the protective devices or safeguards necessary for the insurance policy, including requirements for systems like automatic sprinklers and central station alarms. It also details the additional premium and the effective date.",
-    "full_text": "LOSS PAYABLE(S): NONE See Endorsement EOD (01/95) Coverage Form(s)/Part(s) and Endorsement(s) made a part of this policy at time of issue: Coverage Form(s)/Part(s) and Endorsement(s) made a part of this policy at time of issue: See Form EOD (01/95) LIMITS OF INSURANCE Liability and Medical Expenses $1,000,000 Medical Expense (per person) $5,000 Damages To Premises Rented To You (Any One Premises) $100,000 LIABILITY DEDUCTIBLE $0 An Aggregate Limit of Liability applies to this Coverage as defined in SECTION II - LIABILITY, paragraph D.4. of the Businessowners Coverage Form. LOCATIONS OF ALL PREMISES YOU OWN, RENT OR OCCUPY Location Address Territory 1 807 Broadway St Ne, Minneapolis, MN 55413 001 PREMIUM COMPUTATION Rate Advance Premium Loc Classification Code No. Premium Basis Pr/Co All Other Pr/Co All Other 1 Membership Organization (Charity) - no premises owned or leased - Not-for-Profit only 41670 14 Per Members 0.000 1.482 $0 $21 1 Waiver of Rights of Recovery 49956 If Any 0.000 0.000 Included Included 1 Additional Insured - Designated Person 49950 1 Per Additional Insured 0.000 50.000 $0 $50 1 Blanket Special Events Liability - Non-Profit Organizations 00041 Flat 0.000 240.000 $0 $240 1 Additional Insured - Managers or Lessors of Premises 49950 1 Per Additional Insured 0.000 50.000 $0 $50 1 Primary and Non-Contributory - Written Contract 44448 1 Person Or Organization 0.000 50.000 $0 $50 MINIMUM PREMIUM FOR GENERAL LIABILITY COVERAGE PART: $345 TOTAL PREMIUM FOR GENERAL LIABILITY COVERAGE PART: (This Premium may be subject to adjustment.) $411 MP - minimum premium NBP1555904G BUSINESSOWNERS GENERAL LIABILITY COVERAGE PART DECLARATIONS Effective Date: 10/05/2024 12:01 STANDARD TIME Policy No. Copyright, ISO Commercial Risk Services, Inc., 1983, 1984, 1988 Includes copyrighted material of ISO Commercial Risk Services, Inc., with its permission. THESE DECLARATIONS ARE PART OF THE POLICY DECLARATIONS CONTAINING THE NAME OF THE INSURED AND THE POLICY PERIOD. BPL150 (02/09) Page 1 Of 1 This page has been intentionally left blank. PROTECTIVE DEVICES OR SERVICES PROVISIONS SCHEDULE The following is added to the policy: A. Protective Safeguards 1. You are required to have and maintain the protective devices or services listed in the Schedule above. 2. The protective safeguards to which this endorsement applies are identified by the following symbols: a. “P-1” Automatic Sprinkler System, including related supervisory services. Automatic Sprinkler System means: 1) Any automatic fire protective or extinguishing system, including connected: a) Sprinklers and discharge nozzles; b) Ducts, pipes, valves and fittings; c) Tanks, their components parts and supports; and d) Pumps and private fire protection mains. 2) When supplied from an automatic fire protective system: a) Non-automatic fire protective systems; and b) Hydrants, standpipes and outlets. b. “P-2” Automatic Fire Alarm, protecting the entire building, that is: 1) Connected to a central station; or 2) Reporting to a public or private fire alarm station. c. “P-3” Security Service, with a recording system or watch clock making hourly rounds covering the entire building, when the premises are not in actual operations. d. “P-4” Service Contract with a privately owned fire department providing fire protection service to the described premises. e. “P-5” Functioning and operational smoke/heat detectors in all units or occupancies. f. “P-6” All Electrical in on functioning and operational circuit breakers. g. “P-7” Functioning and operational central station burglar alarm with a monitoring contract. h. “P-8” Functioning and operational surge protectors on all computer and audio-video equipment. i. “P-9” Refrigeration maintenance contract on all refrigeration equipment. j. “P-10” Functioning and operational automatic fire suppression system per NFPA #96 on all cooking equipment.",
-    "tables_and_figures": [
-      {
-        "type": "table",
-        "description": "Table listing protective devices with codes and descriptions",
-        "content": "a. “P-1” Automatic Sprinkler System b. “P-2” Automatic Fire Alarm c. “P-3” Security Service d. “P-4” Private fire department e. “P-5” Smoke/heat detectors"
-      }
-    ],
-    "key_information": {
-      "insured_property": "807 Broadway St Ne, Minneapolis, MN 55413",
-      "coverage_details": "Liability and Medical Expenses $1,000,000",
-      "dates": "Effective Date: 10/05/2024",
-      "amounts": "Medical Expense (per person) $5,000",
-      "addresses": "807 Broadway St Ne, Minneapolis, MN 55413"
-    },
-    "relationships": {
-      "continues_from_previous": "Details of insurance coverage limits",
-      "continues_to_next": "Explanation of safeguards and requirements",
-      "references": "Section II - LIABILITY, paragraph D.4"
-    },
-    "document_structure": {
-      "section_title": "PROTECTIVE DEVICES OR SERVICES PROVISIONS",
-      "subsections": [
-        "Protective Safeguards"
-      ],
-      "page_type": "content"
-    },
-    "analyzed_at": "2025-08-24T16:19:54.836100"
-  },
-  {
-    "page_number": 10,
-    "summary": "This page provides further information on the specific types of protective safeguards required such as automatic sprinkler systems and fire alarms, and their corresponding identifiers. It details the obligation to maintain these systems for the policy.",
-    "full_text": "LOSS PAYABLE(S): NONE See Endorsement EOD (01/95) Coverage Form(s)/Part(s) and Endorsement(s) made a part of this policy at time of issue: Coverage Form(s)/Part(s) and Endorsement(s) made a part of this policy at time of issue: See Form EOD (01/95) LIMITS OF INSURANCE Liability and Medical Expenses $1,000,000 Medical Expense (per person) $5,000 Damages To Premises Rented To You (Any One Premises) $100,000 LIABILITY DEDUCTIBLE $0 An Aggregate Limit of Liability applies to this Coverage as defined in SECTION II - LIABILITY, paragraph D.4. of the Businessowners Coverage Form. LOCATIONS OF ALL PREMISES YOU OWN, RENT OR OCCUPY Location Address Territory 1 807 Broadway St Ne, Minneapolis, MN 55413 001 PREMIUM COMPUTATION Rate Advance Premium Loc Classification Code No. Premium Basis Pr/Co All Other Pr/Co All Other 1 Membership Organization (Charity) - no premises owned or leased - Not-for-Profit only 41670 14 Per Members 0.000 1.482 $0 $21 1 Waiver of Rights of Recovery 49956 If Any 0.000 0.000 Included Included 1 Additional Insured - Designated Person 49950 1 Per Additional Insured 0.000 50.000 $0 $50 1 Blanket Special Events Liability - Non-Profit Organizations 00041 Flat 0.000 240.000 $0 $240 1 Additional Insured - Managers or Lessors of Premises 49950 1 Per Additional Insured 0.000 50.000 $0 $50 1 Primary and Non-Contributory - Written Contract 44448 1 Person Or Organization 0.000 50.000 $0 $50 MINIMUM PREMIUM FOR GENERAL LIABILITY COVERAGE PART: $345 TOTAL PREMIUM FOR GENERAL LIABILITY COVERAGE PART: (This Premium may be subject to adjustment.) $411 MP - minimum premium NBP1555904G BUSINESSOWNERS GENERAL LIABILITY COVERAGE PART DECLARATIONS Effective Date: 10/05/2024 12:01 STANDARD TIME Policy No. Copyright, ISO Commercial Risk Services, Inc., 1983, 1984, 1988 Includes copyrighted material of ISO Commercial Risk Services, Inc., with its permission. THESE DECLARATIONS ARE PART OF THE POLICY DECLARATIONS CONTAINING THE NAME OF THE INSURED AND THE POLICY PERIOD. BPL150 (02/09) Page 1 Of 1 This page has been intentionally left blank. PROTECTIVE DEVICES OR SERVICES PROVISIONS SCHEDULE The following is added to the policy: A. Protective Safeguards 1. You are required to have and maintain the protective devices or services listed in the Schedule above. 2. The protective safeguards to which this endorsement applies are identified by the following symbols: a. “P-1” Automatic Sprinkler System, including related supervisory services. Automatic Sprinkler System means: 1) Any automatic fire protective or extinguishing system, including connected: a) Sprinklers and discharge nozzles; b) Ducts, pipes, valves and fittings; c) Tanks, their components parts and supports; and d) Pumps and private fire protection mains. 2) When supplied from an automatic fire protective system: a) Non-automatic fire protective systems; and b) Hydrants, standpipes and outlets. b. “P-2” Automatic Fire Alarm, protecting the entire building, that is: 1) Connected to a central station; or 2) Reporting to a public or private fire alarm station. c. “P-3” Security Service, with a recording system or watch clock making hourly rounds covering the entire building, when the premises are not in actual operations. d. “P-4” Service Contract with a privately owned fire department providing fire protection service to the described premises. e. “P-5” Functioning and operational smoke/heat detectors in all units or occupancies. f. “P-6” All Electrical in on functioning and operational circuit breakers. g. “P-7” Functioning and operational central station burglar alarm with a monitoring contract. h. “P-8” Functioning and operational surge protectors on all computer and audio-video equipment. i. “P-9” Refrigeration maintenance contract on all refrigeration equipment. j. “P-10” Functioning and operational automatic fire suppression system per NFPA #96 on all cooking equipment.",
-    "tables_and_figures": [
-      {
-        "type": "table",
-        "description": "Detailed table of protective safeguards required",
-        "content": "a. “P-1” Automatic Sprinkler System b. “P-2” Automatic Fire Alarm c. “P-3” Security Service d. “P-4” Service Contract e. “P-5” Smoke/heat detectors"
-      }
-    ],
-    "key_information": {
-      "insured_property": "807 Broadway St Ne, Minneapolis, MN 55413",
-      "coverage_details": "Liability and Medical Expenses $1,000,000",
-      "dates": "Effective Date: 10/05/2024",
-      "amounts": "Medical Expense (per person) $5,000",
-      "addresses": "807 Broadway St Ne, Minneapolis, MN 55413"
-    },
-    "relationships": {
-      "continues_from_previous": "Explanation of insurance premium breakdown",
-      "continues_to_next": "Details on maintaining protective devices",
-      "references": "PROTECTIVE DEVICES OR SERVICES PROVISIONS"
-    },
-    "document_structure": {
-      "section_title": "PROTECTIVE DEVICES OR SERVICES PROVISIONS",
-      "subsections": [
-        "Protective Safeguards"
-      ],
-      "page_type": "content"
-    },
-    "analyzed_at": "2025-08-24T16:19:54.836151"
-  },
-  {
-    "page_number": 11,
-    "summary": "This page elaborates on different classifications of events and objects like terrorism, and outlines exclusions including specific professions and operations. It also provides examples of premium calculations and necessary safeguards.",
-    "full_text": "....",
-    "tables_and_figures": [
-      {
-        "type": "table",
-        "description": "Insurance classifications and corresponding codes",
-        "content": "Classifications include Membership Organization, Waiver of Rights of Recovery, Additional Insured..."
-      }
-    ],
-    "key_information": {
-      "insured_property": "807 Broadway St Ne, Minneapolis, MN 55413",
-      "coverage_details": "Different exclusions and specific coverages",
-      "dates": "Effective Date: 10/05/2024",
-      "amounts": "Various premium calculations",
-      "addresses": "807 Broadway St Ne, Minneapolis, MN 55413"
-    },
-    "relationships": {
-      "continues_from_previous": "Protective safeguards descriptions",
-      "continues_to_next": "Specific responsibilities of the insured",
-      "references": "Exclusions and endorsements"
-    },
-    "document_structure": {
-      "section_title": "GENERAL EXCLUSIONS",
-      "subsections": [
-        "Exclusions",
-        "Endorsements"
-      ],
-      "page_type": "content"
-    },
-    "analyzed_at": "2025-08-24T16:19:54.836154"
-  },
-  {
-    "page_number": 12,
-    "summary": "The page discusses terrorism insurance options, giving policyholders the choice to accept or reject coverage for acts of terrorism. It includes details on government-provided reimbursements for terrorist acts under federal law.",
-    "full_text": "....",
-    "tables_and_figures": [
-      {
-        "type": "table",
-        "description": "Terrorism Insurance Option Selections",
-        "content": "Option to decline or purchase coverage with respective costs"
-      }
-    ],
-    "key_information": {
-      "insured_property": "807 Broadway St Ne, Minneapolis, MN 55413",
-      "coverage_details": "Terrorism insurance options and exclusions",
-      "dates": "Return form by 11/04/2024",
-      "amounts": "Premiums related to terrorism coverage",
-      "addresses": "807 Broadway St Ne, Minneapolis, MN 55413"
-    },
-    "relationships": {
-      "continues_from_previous": "General policy exclusions",
-      "continues_to_next": "References to policyholder disclosures",
-      "references": "Federal insurance coverage acts"
-    },
-    "document_structure": {
-      "section_title": "TERRORISM INSURANCE COVERAGE",
-      "subsections": [
-        "Policyholder Disclosure"
-      ],
-      "page_type": "content"
-    },
-    "analyzed_at": "2025-08-24T16:19:54.836156"
-  },
-  {
-    "page_number": 13,
-    "summary": "This page contains the waiver of transfer of rights of recovery against others. It also includes information about additional insured parties and specific exclusions regarding perfluoroalkyl substances.",
-    "full_text": "807 BROADWAY REVIVAL, LLC AND HILLCREST DEVELOPMENT, LLLP \n\n2424 KENNEDY ST NE \nMINNEAPOLIS, MN 55413 \n\nEffective Date: 10/05/2024 \n\nName of Person Or Organization: \n\nPolicy Number: NBP1555904GPOLICY NUMBER: BP 04 97 01 06 \n\nBUSINESSOWNERS \n\nWAIVER OF TRANSFER OF RIGHTS OF RECOVERY AGAINST OTHERS TO US \n\nThis endorsement modifies insurance provided under the following: \n\nBUSINESSOWNERS COVERAGE FORM \n\nSCHEDULE \nISO Properties, Inc., 2004BP 04 97 01 06 \n\nInformation required to complete this Schedule, if not shown above, will be shown in the Declarations. \n\nParagraph K. Transfer Of Rights Of Recovery Against Others To Us in Section III - Common Policy Conditions is amended by the addition of the following: We waive any right of recovery we may have against the person or organization shown in the Schedule above because of payments we make for injury or damage arising out of your ongoing operations or \"your work\" done under a contract with that person or organization and included in the \"products-completed operations hazard\". This waiver applies only to the person or organization shown in the Schedule above. \n\nBUSINESSOWNERS BP 15 91 12 23 \n\nTHIS ENDORSEMENT CHANGES THE POLICY. PLEASE READ IT CAREFULLY. \n\nEXCLUSION – PERFLUOROALKYL AND POLYFLUOROALKYL SUBSTANCES (PFAS) \n\nThis endorsement modifies insurance provided under the following: \n\nBUSINESSOWNERS COVERAGE FORM \n\nSection II – Liability is amended as follows: A. The following is added to Paragraph B. \n\nExclusions: This insurance does not apply to: Perfluoroalkyl And Polyfluoroalkyl Substances \n\na. \"Bodily injury\" or \"property damage\" which would not have occurred, or \"personal and advertising injury\" which would not have taken place, in whole or in part, but for the actual, alleged, threatened or suspected inhalation, ingestion, absorption, consumption, discharge, dispersal, seepage, migration, release or escape of, contact with, exposure to, existence of, or presence of, any \"perfluoroalkyl or polyfluoroalkyl substances\". \n\nb. Any loss, cost or expense arising, in whole or in part, out of the abating, testing for, monitoring, cleaning up, removing, containing, treating, detoxifying, neutralizing, remediating or disposing of, or in any way responding to or assessing the effects of, \"perfluoroalkyl or polyfluoroalkyl substances\", by any insured or by any other person or entity. \n\nB. The following is added to Paragraph F. Liability And Medical Expenses Definitions: \"Perfluoroalkyl or polyfluoroalkyl substances\" means any: \n\n1. Chemical or substance that contains one or more alkyl carbons on which hydrogen atoms have been partially or completely replaced by fluorine atoms, including but not limited to: \n\na. Polymer, oligomer, monomer or nonpolymer chemicals and their homologues, isomers, telomers, salts, derivatives, precursor chemicals, degradation products or by-products;",
-    "tables_and_figures": [],
-    "key_information": {
-      "insured_property": "807 BROADWAY REVIVAL, LLC AND HILLCREST DEVELOPMENT, LLLP",
-      "coverage_details": "Waiver of transfer of recovery rights; exclusion of PFAS substances",
-      "dates": "Effective Date: 10/05/2024",
-      "amounts": null,
-      "addresses": "2424 KENNEDY ST NE, MINNEAPOLIS, MN 55413"
-    },
-    "relationships": {
-      "continues_from_previous": "General document structure and insurance details",
-      "continues_to_next": "Further endorsements and policy specifics",
-      "references": null
-    },
-    "document_structure": {
-      "section_title": null,
-      "subsections": [
-        "Waiver of Transfer of Rights of Recovery",
-        "Exclusion of Perfluoroalkyl and Polyfluoroalkyl Substances"
-      ],
-      "page_type": "content"
-    },
-    "analyzed_at": "2025-08-24T16:21:17.482914"
-  },
-  {
-    "page_number": 14,
-    "summary": "Policyholder updates regarding terrorism insurance coverage are detailed here. It informs the policyholder about opting in or out of terrorism insurance coverage.",
-    "full_text": "Policy No.: NBP1555904G \n\nDear Policyholder, \n\nTerrorism Insurance Coverage is not included with this policy because you elected not to purchase this coverage on your expiring policy. \n\nIf you wish to purchase Terrorism Insurance Coverage on this policy, you must complete the attached form and return it to your local Retail Agent no later than 11/04/2024. \n\nUpon receipt of your completed form, we will endorse your policy to include Terrorism Insurance Coverage for the additional cost noted on the attached form. \n\nI decline to purchase Terrorism Coverage. I understand that I will have no coverage for losses arising from acts of Terrorism. \n\nLOGAN PARK NEIGHBORHOOD ASSOCIATIONOn File with the Company \n\nI elect to purchase coverage for certified acts of Terrorism for a premium of $ \n\nPOLICYHOLDER DISCLOSURE NOTICE OF TERRORISM INSURANCE COVERAGE \n\nYou are hereby notified that under the Terrorism Risk Insurance Act (\"the Act\"), as amended, you have a right to purchase insurance coverage for losses arising out of acts of terrorism. As defined in Section, 102 (1) of the Act: The term “act of terrorism” means any act or acts that are certified by the Secretary of the Treasury, in consultation with the Secretary of Homeland Security, and the Attorney General of the United States, to be an act of terrorism; to be a violent act or an act that is dangerous to human life, property, or infrastructure; to have resulted in damage within the United States, or outside the United States in the case of certain air carriers or vessels or the premises of a United States mission; and to have been committed by an individual or individuals, as part of an effort to coerce the civilian population of the United States or to influence the policy or affect the conduct of the United States Government by coercion. \n\nYou should know that any coverage for losses caused by certified acts of terrorism is partially reimbursed by the United States under a formula established by federal law. Under this formula, the United States reimburses 80% of covered terrorism losses exceeding the statutorily established deductible paid by the insurance company providing the coverage. The premium charged for this coverage is provided below and does not include any charges for the portion of loss covered by the federal government under the Act. \n\nCoverage for \"insured losses”, as defined in the Act, is subject to the coverage terms, conditions, amounts and limits in this policy applicable to losses arising from events other than acts of terrorism. \n\nYou should know that the Act, as amended, contains a $100 billion cap that limits U.S. Government reimbursement, as well as insurers' liability, for losses resulting from certified acts of terrorism when the amount of such losses in any one calendar year exceeds $100 billion. If the aggregate insured losses for all insurers exceed $100 billion in any one calendar year, your coverage may be reduced. \n\nYou should also know that, under federal law, you are not required to purchase coverage for losses caused by certified acts of terrorism.",
-    "tables_and_figures": [],
-    "key_information": {
-      "insured_property": null,
-      "coverage_details": "Opt-in/opt-out of terrorism insurance coverage",
-      "dates": "Coverage selection deadline: 11/04/2024",
-      "amounts": null,
-      "addresses": "LOGAN PARK NEIGHBORHOOD ASSOCIATION"
-    },
-    "relationships": {
-      "continues_from_previous": "Insurance coverages and endorsements",
-      "continues_to_next": "Further notices and detailed provisions regarding insurance policies",
-      "references": "Terrorism Risk Insurance Act"
-    },
-    "document_structure": {
-      "section_title": "POLICYHOLDER DISCLOSURE NOTICE OF TERRORISM INSURANCE COVERAGE",
-      "subsections": [
-        "Terrorism Insurance Coverage Opt-in/Opt-out"
-      ],
-      "page_type": "content"
-    },
-    "analyzed_at": "2025-08-24T16:21:17.482948"
-  },
-  {
-    "page_number": 15,
-    "summary": "This page discusses the impact and prevention of slips, trips, and falls, emphasizing the importance of loss control to reduce insurance premiums.",
-    "full_text": "Loss Control 4/19 \n\nNote About Loss Control \n\nDear Valued Policyholder, \n\nSlips, trips and falls are among the most frequent causes of loss. What might surprise you is that, many times, they result in claims and judgments in the hundreds of thousands of dollars, which ultimately impact your insurance premium. In most instances, these claims can be lessened or prevented entirely simply by addressing the most common causes of such losses listed below. \n\nMost Common Causes \n\nu Spills, wet or icy walking surfaces \nu Uneven or worn floors/carpets/steps/sidewalks \nu Inadequate or poorly maintained lighting \nu Obstructed views \nu Poor housekeeping - Excess clutter/trash in walkways or near open flames or hot surfaces \n\nWe encourage you to please take the time to periodically inspect your premises to see if any of these conditions exist and work to eliminate them where possible. Your efforts may save you money on future insurance premiums and, quite possibly, save your business. \n\nThank you for choosing and trusting us to help protect your business! \n\n“An ounce of prevention is worth a pound of cure.” \n\n-Benjamin Franklin \n\nRegards, \n\nThomas P. Nerney Chairman, President and CEO \n\nUNITED STATES LIABILITY INSURANCE GROUP WAYNE, PENNSYLVANIA",
-    "tables_and_figures": [],
-    "key_information": {
-      "insured_property": null,
-      "coverage_details": "Emphasis on loss control measures",
-      "dates": null,
-      "amounts": null,
-      "addresses": null
-    },
-    "relationships": {
-      "continues_from_previous": "Policyholder notices and information",
-      "continues_to_next": "Official policy declaration details and endorsements",
-      "references": null
-    },
-    "document_structure": {
-      "section_title": "Note About Loss Control",
-      "subsections": [
-        "Most Common Causes"
-      ],
-      "page_type": "content"
-    },
-    "analyzed_at": "2025-08-24T16:21:17.482952"
-  },
-  {
-    "page_number": 16,
-    "summary": "This page includes policy declarations for a renewed policy period covering business liability and property, along with corresponding premiums.",
-    "full_text": "USLI.COM 888-523-5545 \n\nLOSS PAYABLE(S): NONE \n\nSee Endorsement EOD (01/95) \n\nCoverage Form(s)/Part(s) and Endorsement(s) made a part of this policy at time of issue: \n\nLimits Of Insurance \n\nLiability and Medical Expenses $1,000,000 \n\nMedical Expense (per person) $5,000 \n\nDamages To Premises Rented To You (Any One Premises) $100,000 \n\nLIABILITY DEDUCTIBLE $0 \n\nAn Aggregate Limit of Liability applies to this Coverage as defined in SECTION II - LIABILITY, paragraph D.4. of the Businessowners Coverage Form. \n\nLOCATIONS OF ALL PREMISES YOU OWN, RENT OR OCCUPY \n\nLocation Address Territory \n\n1 807 Broadway St Ne, Minneapolis, MN 55413 001 \n\nPREMIUM COMPUTATION \n\nRate Advance Premium \n\nLoc Classification Code No. Premium Basis Pr/Co All Other Pr/Co All Other \n\n1 Membership Organization (Charity) - no premises owned or leased - Not-for-Profit only \n\n41670 14 Per Members 0.000 1.482 $0 $21 \n\n1 Waiver of Rights of Recovery 49956 If Any 0.000 0.000 Included Included \n\n1 Additional Insured - Designated Person 49950 1 Per Additional Insured \n\n0.000 50.000 $0 $50 \n\n1 Blanket Special Events Liability - Non-Profit Organizations \n\n00041 Flat 0.000 240.000 $0 $240 \n\n1 Additional Insured - Managers or Lessors of Premises \n\n49950 1 Per Additional Insured \n\n0.000 50.000 $0 $50 \n\n1 Primary and Non-Contributory - Written Contract 44448 1 Person Or \n\nOrganization \n\n0.000 50.000 $0 $50 \n\nMINIMUM PREMIUM FOR GENERAL LIABILITY COVERAGE PART: $345 TOTAL PREMIUM FOR GENERAL LIABILITY COVERAGE PART: (This Premium may be subject to adjustment.) \n\n$411 MP - minimum premium",
-    "tables_and_figures": [
-      {
-        "type": "table",
-        "description": "Premium computation and classification breakdowns.",
-        "content": "Rate Advance Premium \n\nLoc Classification Code No. Premium Basis Pr/Co All Other Pr/Co All Other \n\n1 Membership Organization (Charity) - no premises owned or leased - Not-for-Profit only \n\n41670 14 Per Members 0.000 1.482 $0 $21 \n\n1 Waiver of Rights of Recovery 49956 If Any 0.000 0.000 Included Included \n\n1 Additional Insured - Designated Person 49950 1 Per Additional Insured \n\n0.000 50.000 $0 $50 \n\n1 Blanket Special Events Liability - Non-Profit Organizations \n\n00041 Flat 0.000 240.000 $0 $240 \n\n1 Additional Insured - Managers or Lessors of Premises \n\n49950 1 Per Additional Insured \n\n0.000 50.000 $0 $50 \n\n1 Primary and Non-Contributory - Written Contract 44448 1 Person Or \n\nOrganization \n\n0.000 50.000 $0 $50"
-      }
-    ],
-    "key_information": {
-      "insured_property": "807 Broadway St NE, Minneapolis, MN 55413",
-      "coverage_details": "Renewed coverage period for business liability and property",
-      "dates": "Policy period from: 10/05/2024 to 10/05/2025",
-      "amounts": "Liability and Medical Expenses $1,000,000, Medical Expense (per person) $5,000, Damages To Premises Rented To You $100,000",
       "addresses": "807 Broadway St NE, Minneapolis, MN 55413"
     },
     "relationships": {
-      "continues_from_previous": "Loss control and safety notices",
-      "continues_to_next": "Coverage specifics and other policy endorsements",
+      "continues_from_previous": "Further details on policy endorsements.",
+      "continues_to_next": "Continuation of policy endorsements and terms.",
       "references": null
     },
     "document_structure": {
-      "section_title": "POLICY DECLARATIONS",
+      "section_title": "Endorsements and Waivers",
       "subsections": [
-        "Premium Computation"
+        "Waiver of Rights",
+        "Additional Insured"
       ],
       "page_type": "content"
     },
-    "analyzed_at": "2025-08-24T16:21:17.482956"
+    "analyzed_at": "2025-08-24T18:08:09.760633"
+  },
+  {
+    "page_number": 8,
+    "summary": "The page lists specific endorsements such as exclusions for various events and activities and amends certain coverage forms.",
+    "full_text": "Page 4 content will be extracted separately.",
+    "tables_and_figures": [
+      {
+        "type": "list",
+        "description": "Endorsements and exclusions list",
+        "content": "Exclusion for Certified Acts of Terrorism, Exclusion of Fiduciary Liability, etc."
+      }
+    ],
+    "key_information": {
+      "insured_property": null,
+      "coverage_details": "Endorsements for exclusions and policy modifications.",
+      "dates": null,
+      "amounts": null,
+      "addresses": null
+    },
+    "relationships": {
+      "continues_from_previous": "Continues listing of policy endorsements and forms.",
+      "continues_to_next": "Further details on additional forms and conditions.",
+      "references": null
+    },
+    "document_structure": {
+      "section_title": "Forms and Endorsements",
+      "subsections": [
+        "List of Amendments"
+      ],
+      "page_type": "appendix"
+    },
+    "analyzed_at": "2025-08-24T18:08:09.760635"
+  },
+  {
+    "page_number": 9,
+    "summary": "Includes policyholder notifications regarding terrorism insurance, specifically the option to purchase coverage and conditions under which it applies.",
+    "full_text": "UNITED STATES LIABILITY INSURANCE GROUP\nWAYNE, PENNSYLVANIA\nDISCLOSURE NOTICE OF TERRORISM INSURANCE COVERAGE\nRENEWALS\nPolicy No.: NBP1555904G\nDear Policyholder,\nTerrorism Insurance Coverage is not included with this policy because you elected not to purchase this\ncoverage on your expiring policy.\nIf you wish to purchase Terrorism Insurance Coverage on this policy, you must complete the attached\nform and return it to your local Retail Agent no later than 11/04/2024.\nUpon receipt of your completed form, we will endorse your policy to include Terrorism Insurance\nCoverage for the additional cost noted on the attached form.",
+    "tables_and_figures": [],
+    "key_information": {
+      "insured_property": null,
+      "coverage_details": "Terrorism insurance option details.",
+      "dates": null,
+      "amounts": null,
+      "addresses": null
+    },
+    "relationships": {
+      "continues_from_previous": "More information on terrorism exclusions.",
+      "continues_to_next": "Continuation of terrorism insurance details.",
+      "references": null
+    },
+    "document_structure": {
+      "section_title": "Terrorism Insurance Notification",
+      "subsections": [],
+      "page_type": "notification"
+    },
+    "analyzed_at": "2025-08-24T18:08:09.760637"
+  },
+  {
+    "page_number": 10,
+    "summary": "Detailed declaration of premises covered under the policy, including conditions, covered losses, and premium specifics.",
+    "full_text": "POLICYHOLDER DISCLOSURE NOTICE OF\nTERRORISM INSURANCE COVERAGE\nYou are hereby notified that under the Terrorism Risk Insurance Act (\"the Act\"), as amended, you have a\nright to purchase insurance coverage for losses arising out of acts of terrorism. As defined in Section, 102\n(1) of the Act: The term “act of terrorism” means any act or acts that are certified by the Secretary of the\nTreasury, in consultation with the Secretary of Homeland Security, and the Attorney General of the United\nStates, to be an act of terrorism; to be a violent act or an act that is dangerous to human life, property, or\ninfrastructure; to have resulted in damage within the United States, or outside the United States in the case\nof certain air carriers or vessels or the premises of a United States mission; and to have been committed\nby an individual or individuals, as part of an effort to coerce the civilian population of the United States or to\ninfluence the policy or affect the conduct of the United States Government by coercion.\nYou should know that any coverage for losses caused by certified acts of terrorism is partially reimbursed\nby the United States under a formula established by federal law. Under this formula, the United States\nreimburses 80% of covered terrorism losses exceeding the statutorily established deductible paid by the\ninsurance company providing the coverage. The premium charged for this coverage is provided below and\ndoes not include any charges for the portion of loss covered by the federal government under the Act.\nCoverage for \"insured losses”, as defined in the Act, is subject to the coverage terms, conditions, amounts\nand limits in this policy applicable to losses arising from events other than acts of terrorism.\nYou should know that the Act, as amended, contains a $100 billion cap that limits U.S. Government\nreimbursement, as well as insurers' liability, for losses resulting from certified acts of terrorism when the\namount of such losses in any one calendar year exceeds $100 billion. If the aggregate insured losses for\nall insurers exceed $100 billion in any one calendar year, your coverage may be reduced.\nYou should also know that, under federal law, you are not required to purchase coverage for losses caused\nby certified acts of terrorism.\nREJECTION OR SELECTION OF TERRORISM INSURANCE COVERAGE\nNote: In the states of California, Georgia, Hawaii, Illinois, Iowa, Maine, North Carolina, Oregon,\nWashington, West Virginia and Wisconsin, our terrorism exclusion makes an exception for fire losses\nresulting from an Act of Terrorism. In these states, if you decline to purchase Terrorism Coverage, you still\nhave coverage for fire losses resulting from an Act of Terrorism.\nPlease “X” one of the boxes below and return this notice to the Company.\nI decline to purchase Terrorism Coverage. I understand that I will have no coverage for losses\narising from acts of Terrorism.\nI elect to purchase coverage for certified acts of Terrorism for a premium\nof $100 .\nOn File with the Company LOGAN PARK NEIGHBORHOOD ASSOCIATION\nApplicant Name (Print) Named Insured\nAuthorized Signature Date\nTRIADN RENEWAL (12-20) Page 1of 1",
+    "tables_and_figures": [
+      {
+        "type": "table",
+        "description": "Coverage details and premium computations.",
+        "content": "Business Income and Extra Expense coverage, Business Personal Property amounts, etc."
+      }
+    ],
+    "key_information": {
+      "insured_property": "807 Broadway St NE, Minneapolis",
+      "coverage_details": "Details on business income and personal property coverage.",
+      "dates": "Effective Date: 10/05/2024",
+      "amounts": "Business Income: $16,552, Personal Property: $5,000",
+      "addresses": "807 Broadway St NE, Minneapolis, MN 55413"
+    },
+    "relationships": {
+      "continues_from_previous": "Begins declaration section.",
+      "continues_to_next": "Additional declaration elements.",
+      "references": null
+    },
+    "document_structure": {
+      "section_title": "Premises Declaration",
+      "subsections": [
+        "Coverage Details",
+        "Premium Computation"
+      ],
+      "page_type": "declarations"
+    },
+    "analyzed_at": "2025-08-24T18:08:09.760639"
+  },
+  {
+    "page_number": 11,
+    "summary": "Outlines cybersecurity resource offerings and training opportunities included for policyholders, focusing on data breach prevention and operational safety.",
+    "full_text": "NBP1555904F *** RENEWAL CERTIFICATE ***\nRenewal of Number Direct Bill Policy\nUnited States Liability Insurance Company\nPOLICY DECLARATIONS\n1190 Devon Park Drive, Wayne, Pennsylvania 19087\nNo. NBP1555904G A Member Company of United States Liability Insurance Group\nNAMED INSURED AND ADDRESS:\nLOGAN PARK NEIGHBORHOOD ASSOCIATION\n807 BROADWAY ST NE, STE 70\nMINNEAPOLIS, MN 55413\nPOLICY PERIOD: (MO. DAY YR.) From: 10/05/2024 To: 10/05/2025 12:01 A.M. STANDARD TIME AT YOUR\nMAILING ADDRESS SHOWN ABOVE\nFORM OF BUSINESS: Non-Profit Corporation\nBUSINESS DESCRIPTION: Non-Profit Directors and Officers\nIN CONSIDERATION OF THE RENEWAL PREMIUM STATED BELOW, EXPIRING POLICY NUMBER NBP1555904F IS RENEWED\nFOR THE POLICY PERIOD STATED ABOVE. PLEASE ATTACH THIS RENEWAL CERTIFICATE TO YOUR EXPIRING POLICY.\nTHIS POLICY CONSISTS OF THE FOLLOWING COVERAGE PARTS FOR WHICH A PREMIUM IS INDICATED.\nTHIS PREMIUM MAY BE SUBJECT TO ADJUSTMENT.\nPREMIUM\nBusinessowners Liability Coverage Part $411.00\nBusinessowners Property Coverage Part $50.00\nFire Safety Surcharge $0.33\nTOTAL: $461.33\nCoverage Form(s) and Endorsement(s) made a part of this policy at time of issue\nSee Endorsement EOD (1/95)\nAgent: TWIN CITY GROUP (4317) Issued: 08/23/2024 1:53 PM\n4500 Park Glen Road, Suite 400\nMinneapolis, MN 55416\nBy:\nAuthorized Representative\nTHESE DECLARATIONS TOGETHER WITH THE COMMON POLICY CONDITIONS, COVERAGE PART DECLARATIONS,\nCOVERAGE PART COVERAGE FORM(S) AND FORMS AND ENDORSEMENTS, IF ANY, ISSUED TO FORM A PART\nUPC (08-07) THEREOF, COMPLETE THE ABOVE NUMBERED POLICY. Page 1 of 1",
+    "tables_and_figures": [],
+    "key_information": {
+      "insured_property": null,
+      "coverage_details": "Services for cybersecurity and employee training.",
+      "dates": null,
+      "amounts": null,
+      "addresses": null
+    },
+    "relationships": {
+      "continues_from_previous": "Cybersecurity resources and training information.",
+      "continues_to_next": "Additional training and resources.",
+      "references": null
+    },
+    "document_structure": {
+      "section_title": "Training and Resources",
+      "subsections": [
+        "Cybersecurity",
+        "Employee Training"
+      ],
+      "page_type": "appendix"
+    },
+    "analyzed_at": "2025-08-24T18:08:09.760641"
+  },
+  {
+    "page_number": 12,
+    "summary": "Continues to provide information on supplementary services and cost-saving measures available to policyholders, including marketing support and claim processing details.",
+    "full_text": "EXTENSION OF DECLARATIONS\nPolicy No. NBP1555904G Effective Date: 10/05/2024\n12:01 AM STANDARD TIME AT YOUR MAILING ADDRESS\nFORMS AND ENDORSEMENTS\nThe following forms apply to multiple coverage parts\nEndt# Revised Description of Endorsements\nBP-101 12/20 Exclusion of Certified Acts of Terrorism (Coverage for Certain Fire\nLosses)\nBP-107 04/08 Actual Cash Value Definition\nBP-11 05/04 Exclusion - Fiduciary Liability And Financial Services\nBP-115 07/08 Protective Devices Or Services Provisions\nBP-15 07/04 Business Income And Extra Expense Limit\nBP-152 08/10 Separation Of Insureds Clarification Endorsement\nBP-165 05/18 Exclusion - Specific Activities, Events or Conditions or Over 2,500\nPeople\nBP-168 11/11 Exclusion - Injury To Performers Or Entertainers\nBP-172 10/13 Primary And Non-Contributory - Written Contract\nBP-179 NBP 12/17 Amendment of Liquor Liability Exclusion\nBP-193 08/14 Limits Of Insurance Under Multiple Coverage Parts\nBP-40 03/11 Molestation Or Abuse Exclusion\nBP-48 05/16 Exclusion Asbestos, Lead Contamination, Absolute Pollution, Mold,\nFungus, Bacteria, Virus And Organic Pathogen\nBP-49 01/13 Absolute Exclusion For Pollution, Organic Pathogen, Silica, Asbestos\nAnd Lead\nBP-500 11/18 Bodily Injury Exclusion - All Employees, Volunteer Workers, Temporary\nWorkers, Casual Laborers, Contractors and Subcontractors\nBP-58 05/07 Animal Exclusion\nBP-59 02/13 Exclusion - Athletic Activity Or Sport Participants\nBP-60 05/07 Exclusion For Bleacher Collapse\nBP-65 05/07 Exclusion For Mechanical Rides\nBP-88 04/06 Expanded Definition Of Bodily Injury\nBP-90 11/10 Amended Definition\nBP-95 05/07 Exclusion For Climbing, Rebounding And Interactive Games And\nDevices\nBP-96 05/07 Exclusion For Firearms, Fireworks And Other Pyrotechnic Devices\nBP-97 05/07 Exclusion For Event Vendor/Exhibitor & Contractor\nBP0003 01/10 Businessowners Coverage Form\nBP0125 01/10 Minnesota Changes\nBP0402 01/06 Additional Insured - Managers Or Lessors Of Premises\nBP0417 01/10 Employment-Related Practices Exclusion\nBP0448 01/06 Additional Insured - Designated Person Or Organization\nBP0497 01/06 Waiver Of Transfer Of Rights Of Recovery Against Others To Us\nBP1505 05/14 Exclusion - Access Or Disclosure Of Confidential Or Personal\nInformation And Data -Related Liability - Limited Bodily Injury Exception\nNot Included\nBP1560 02/21 Cyber Incident Exclusion\nEndorsements marked with an asterisk (*) have been added to this policy or have a new edition date and are attached with this certificate.\nEOD (01/95) All other terms and conditions remain unchanged. Page 1 of 2",
+    "tables_and_figures": [],
+    "key_information": {
+      "insured_property": null,
+      "coverage_details": "Policyholder services and support information.",
+      "dates": null,
+      "amounts": null,
+      "addresses": null
+    },
+    "relationships": {
+      "continues_from_previous": "Continuation of resources and support services.",
+      "continues_to_next": "Final notes on premium adjustments and policy details.",
+      "references": null
+    },
+    "document_structure": {
+      "section_title": "Policyholder Support Services",
+      "subsections": [],
+      "page_type": "appendix"
+    },
+    "analyzed_at": "2025-08-24T18:08:09.760643"
+  },
+  {
+    "page_number": 9,
+    "summary": "Analysis failed: JSON parse error - Expecting value: line 1 column 1 (char 0)",
+    "full_text": "",
+    "tables_and_figures": [],
+    "key_information": {},
+    "relationships": {},
+    "document_structure": {
+      "page_type": "error"
+    },
+    "error": "JSON parse error: Expecting value: line 1 column 1 (char 0)",
+    "analyzed_at": "2025-08-24T18:08:50.667957"
+  },
+  {
+    "page_number": 13,
+    "summary": "Analysis failed: JSON parse error - Expecting value: line 1 column 1 (char 0)",
+    "full_text": "",
+    "tables_and_figures": [],
+    "key_information": {},
+    "relationships": {},
+    "document_structure": {
+      "page_type": "error"
+    },
+    "error": "JSON parse error: Expecting value: line 1 column 1 (char 0)",
+    "analyzed_at": "2025-08-24T18:09:28.411051"
   },
   {
     "page_number": 17,
-    "summary": "This page includes policy conditions regarding the maintenance and operation of electrical systems and fire protection. Specific systems like P-6 for circuit breakers and P-5 for smoke detectors are mentioned.",
-    "full_text": "Page 1 of 3BP 115 (07/08) Includes copyrighted material of Insurance Services Office, Inc. reprinted with permission\nk. \"P-15\" Any item on a display rack with a sales price of $250 or more must be affixed with a security sensor or must be chained and locked to a rack.\nl. \"P-16\" The building is protected from lightning with an approved NFPA 780 installation.\nm. \"P-17\" Flammable liquids must be stored in NFPA #30 approved cabinets.\nn. \"P-18\" No smoking signs must be posted and enforced.\no. \"P-21\" The protective system described in the schedule.\nThe following is added to Paragraph B. Exclusions in Section I - Property:\nWith respects to “P-1”, “P-2”, “P-3”, “P-4”. “P-5”, “P-6”, “P-8”, “P-10”, “P-16”, “P-17”, and “P-18”, we will not pay for loss or damage caused by or resulting from fire if, prior to the fire, you: p. Knew of any suspension or impairment in any protective safeguard listed in the Schedule above and failed to notify us of that fact; or q. Failed to maintain any protective safeguard listed in the Schedule above, and over which you had control, in complete working order.",
-    "tables_and_figures": [],
+    "summary": "The page contains an endorsement modifying insurance under the Businessowners Coverage Form, specifying coverage details for additional insured parties. It includes specific exclusions for 'perfluoroalkyl or polyfluoroalkyl substances'.",
+    "full_text": "POLICY NUMBER: NBP1555904G BUSINESSOWNERS\nBP 04 02 01 06\nTHIS ENDORSEMENT CHANGES THE POLICY. PLEASE READ IT CAREFULLY.\nADDITIONAL INSURED - MANAGERS OR LESSORS OF\nPREMISES\nThis endorsement modifies insurance provided under the following:\nBUSINESSOWNERS COVERAGE FORM\nSCHEDULE\nName of Person or Organization (Additional Insured):\nEffective Date: 10/05/2024\n807 BROADWAY REVIVAL, LLC AND HILLCREST DEVELOPMENT, LLLP\n2424 KENNEDY ST NE\nMINNEAPOLIS, MN 55413\nDesignation of Premises (Part Leased To You)\n**IInnffoorrmmaattiioonn rreeqquuiirreedd ttoo ccoommpplleettee tthhiiss SScchheedduullee,, iiff nnoott sshhoowwnn aabboovvee,, wwiillll bbee sshhoowwnn iinn tthhee DDeeccllaarraattiioonnss\nA. The following is added to Paragraph C. WHO IS AN B. The following exclusions are added to Section II -\nINSURED in Section II - Liability: Liability:\n3. The person or organization shown in the Schedule is This insurance does not apply to:\nalso an insured, but only with respect to liability 1. Any “occurrence” that takes place after you cease\narising out of the ownership, maintenance or use to be a tenant in the premises described in the\nthat part of the premises leased to you and shown in Schedule\nthe Schedule 2. Structural alterations, new construction or\ndemolition operations performed by or for the\nperson or organization designated in the Schedule\nBBPP 0044 0022 0011 0066 CCooppyyrriigghhtt,, IISSOO PPrrooppeerrttiieess,, IInncc..,, 22000044 PPaaggee 11 ooff 11",
+    "tables_and_figures": [
+      {
+        "type": "table",
+        "description": "Schedule Table",
+        "content": "Outline of the person or organization name for additional insured and modified rights of recovery."
+      }
+    ],
     "key_information": {
-      "insured_property": null,
-      "coverage_details": "The policy details exclusions related to protective device maintenance.",
-      "dates": null,
-      "amounts": null,
-      "addresses": null
+      "insured_property": "807 Broadway Revival, LLC and Hillcrest Development, LLLP",
+      "coverage_details": "Additional insured coverage with exclusions for 'perfluoroalkyl or polyfluoroalkyl substances'.",
+      "dates": "10/05/2024",
+      "amounts": "Not specified",
+      "addresses": "2424 Kennedy St NE, Minneapolis, MN 55413"
     },
     "relationships": {
-      "continues_from_previous": null,
-      "continues_to_next": "Details on protective systems and fire safety continue on this and the next page.",
-      "references": null
+      "continues_from_previous": "General liability insurance continuity and modifications.",
+      "continues_to_next": "Detailed exclusions for insured substances.",
+      "references": "Businessowners Coverage Form, Waiver of Transfer of Rights of Recovery."
     },
     "document_structure": {
-      "section_title": "Protective Devices or Services Provisions",
+      "section_title": "Endorsement Modifications",
       "subsections": [
-        "P-15",
-        "P-16",
-        "P-17",
-        "P-18"
+        "Schedule",
+        "Exclusions"
       ],
-      "page_type": "content"
+      "page_type": "endorsement or content"
     },
-    "analyzed_at": "2025-08-24T16:21:55.707274"
+    "analyzed_at": "2025-08-24T18:10:43.407590"
   },
   {
     "page_number": 18,
-    "summary": "Instructions and enforcement details about smoke detectors, fire alarm systems, and protective safeguards are outlined. The obligations to maintain these systems to ensure coverage are emphasized.",
-    "full_text": "Page 2 of 3BP 115 (07/08) Includes copyrighted material of Insurance Services Office, Inc. reprinted with permission\nWith respect to “P-3”, “P-7”and “P-15”, we will not pay for loss or damage caused by or resulting from vandalism, burglary, theft or any other act of stealing if, prior to the vandalism, burglary, theft or any other act of stealing, you: a. Knew of any suspension or impairment in any protective safeguard listed in the Schedule above and failed to notify us of that fact; or b. Failed to maintain any protective safeguard listed in the Schedule above, and over which you had control, in complete working order.\nWith respect to “P-6” and “P-8” we will not pay for loss or damage caused by or resulting from “equipment breakdown”, electrical disturbance or expediting expenses as a result of an electrical disturbance if, prior to the “equipment breakdown” you: a. Knew of any suspension or impairment in any protective safeguard listed in the Schedule above and failed to notify us of that fact; or b. Failed to maintain any protective safeguard listed in the Schedule above, and over which you had control, in complete working order.",
+    "summary": "This page outlines protective safeguard requirements and conditions under the Businessowners policy. Detailed exclusions and conditions for maintaining safety equipment are defined.",
+    "full_text": "POLICY NUMBER: NBP1555904G BUSINESSOWNERS\nBP 04 48 01 06\nTHIS ENDORSEMENT CHANGES THE POLICY. PLEASE READ IT CAREFULLY.\nADDITIONAL INSURED - DESIGNATED PERSON\nOR ORGANIZATION\nThis endorsement modifies insurance provided under the following:\nBUSINESSOWNERS COVERAGE FORM\nSCHEDULE\nName of Additional Insured Person(s) Or Organization(s):\nEffective Date: 10/05/2024\nTHE CITY OF MINNEAPOLIS\n350 SOUTH 5TH STREET\nMINNEAPOLIS, MN 55415\nInformation required to complete this Schedule, if not shown above, will be shown in the Declarations.\nThe following is added to ParagraphC. Who is An\nInsured in Section II - Liability:\n3. Any person(s) or organization(s) shown in the\nSchedule is also an additional insured, but only\nwith respect to liability for “bodily injury”,\n“property damage” or “personal and advertising\ninjury” caused, in whole or in part, by your acts or\nomissions or the acts or omissions of those\nacting on your behalf in the performance of your\nongoing operations or in connection with your\npremises owned by or rented to you.\nBP 04 48 01 06 © ISO Properties, Inc., 2004 Page 1of 1",
     "tables_and_figures": [],
     "key_information": {
-      "insured_property": null,
-      "coverage_details": "Exclusions apply for vandalism, burglary, and equipment breakdown due to non-maintenance of safeguards.",
-      "dates": null,
-      "amounts": null,
-      "addresses": null
+      "insured_property": "Protection Safeguards applicable to insured properties.",
+      "coverage_details": "Conditions for safeguard maintenance to ensure coverage.",
+      "dates": "Effective from the date of the policy",
+      "amounts": "Not specified",
+      "addresses": "Not specified"
     },
     "relationships": {
-      "continues_from_previous": "Continuation of exclusions regarding protective safeguards.",
-      "continues_to_next": "Further details on exclusions and obligations for maintenance.",
-      "references": null
+      "continues_from_previous": "Exclusions related to protective safeguards.",
+      "continues_to_next": "Continuation of exclusions related to safeguards and policies.",
+      "references": "Protective Safeguards and Safety Equipment requirements."
     },
     "document_structure": {
-      "section_title": null,
+      "section_title": "Protective Safeguard Conditions",
       "subsections": [
-        "Protection from vandalism and theft"
+        "Conditions and Requirements",
+        "Exclusions"
       ],
-      "page_type": "content"
+      "page_type": "terms and conditions"
     },
-    "analyzed_at": "2025-08-24T16:21:55.707293"
+    "analyzed_at": "2025-08-24T18:10:43.407607"
   },
   {
     "page_number": 19,
-    "summary": "Continuation of exclusions related to equipment breakdown and spoilage, stressing on the need for maintaining protective safeguards.",
-    "full_text": "Page 3 of 3BP 115 (07/08) Includes copyrighted material of Insurance Services Office, Inc. reprinted with permission\nWith respect to “P-9” we will not pay for loss or damage caused by or resulting from “equipment breakdown”, spoilage or expediting expenses as a result of spoilage if, prior to the “equipment breakdown” you: a. Knew of any suspension or impairment in any protective safeguard listed in the Schedule above and failed to notify us of that fact; or b. Failed to maintain any protective safeguard listed in the Schedule above, and over which you had control, in complete working order.\nAll other terms and conditions of this policy remain unchanged. This endorsement is a part of your policy and takes effect on the effective date of your policy unless another effective date is shown.",
+    "summary": "The page provides detailed loss conditions related to specific protective safeguards. Requirements for operational and maintenance compliance are emphasized, specifying punitive actions in cases of non-compliance.",
+    "full_text": "POLICY NUMBER: NBP1555904G BUSINESSOWNERS\nBP 04 97 01 06\nWAIVER OF TRANSFER OF RIGHTS OF RECOVERY\nAGAINST OTHERS TO US\nThis endorsement modifies insurance provided under the following:\nBUSINESSOWNERS COVERAGE FORM\nSCHEDULE\nName of Person Or Organization:\nEffective Date: 10/05/2024\n807 BROADWAY REVIVAL, LLC AND HILLCREST DEVELOPMENT, LLLP\n2424 KENNEDY ST NE\nMINNEAPOLIS, MN 55413\nInformation required to complete this Schedule, if not shown above, will be shown in the Declarations.\nParagraph K. Transfer Of Rights Of Recovery\nAgainst Others To Us in Section III - Common\nPolicy Conditions is amended by the addition of\nthe following:\nWe waive any right of recovery we may have\nagainst the person or organization shown in the\nSchedule above because of payments we make for\ninjury or damage arising out of your ongoing\noperations or \"your work\" done under a contract\nwith that person or organization and included in the\n\"products-completed operations hazard\". This\nwaiver applies only to the person or organization\nshown in the Schedule above.\nBP 04 97 01 06 ISO Properties, Inc., 2004",
     "tables_and_figures": [],
     "key_information": {
-      "insured_property": null,
-      "coverage_details": "Focus on obligations for receptors of insurance to maintain equipment to avoid coverage exclusions.",
-      "dates": null,
-      "amounts": null,
-      "addresses": null
+      "insured_property": "Compliance requirements for protective equipment.",
+      "coverage_details": "Loss payment exclusions due to failure in equipment maintenance.",
+      "dates": "Not specified",
+      "amounts": "Not specified",
+      "addresses": "Not specified"
     },
     "relationships": {
-      "continues_from_previous": "Further exclusions and maintenance obligations related to equipment breakdown.",
-      "continues_to_next": null,
-      "references": null
+      "continues_from_previous": "Continuation of punitive measures for safeguard compliance failures.",
+      "continues_to_next": "Discusses the impact of compliance on loss payment.",
+      "references": "Protective safeguards related to insurance loss payments."
     },
     "document_structure": {
-      "section_title": null,
+      "section_title": "Loss Condition Specifications",
       "subsections": [
-        "Exclusions for equipment maintenance"
+        "Preventive Maintenance Failures",
+        "Loss Payment Conditions"
       ],
-      "page_type": "content"
+      "page_type": "terms and conditions"
     },
-    "analyzed_at": "2025-08-24T16:21:55.707295"
+    "analyzed_at": "2025-08-24T18:10:43.407611"
   },
   {
     "page_number": 20,
-    "summary": "Coverage declarations detailing limits and specific coverage aspects are presented, including premiums and deductibles.",
-    "full_text": "LOSS PAYABLE(S): NONE\nSee Endorsement EOD (01/95)\nCoverage Form(s)/Part(s) and Endorsement(s) made a part of this policy at time of issue:\nLiability and Medical Expenses $1,000,000\nMedical Expense (per person) $5,000\nDamages To Premises Rented To You (Any One Premises) $100,000\nLIABILITY DEDUCTIBLE $0\nAn Aggregate Limit of Liability applies to this Coverage as defined in SECTION II - LIABILITY, paragraph D.4. of the Businessowners Coverage Form.\nLOCATIONS OF ALL PREMISES YOU OWN, RENT OR OCCUPY\nLocation Address Territory\n1 807 Broadway St Ne, Minneapolis, MN 55413 001\nPREMIUM COMPUTATION\nRate Advance Premium\nLoc Classification Code No. Premium Basis Pr/Co All Other Pr/Co All Other\n1 Membership Organization (Charity) - no premises owned or leased - Not-for-Profit only\n41670 14 Per Members 0.000 1.482 $0 $21",
+    "summary": "This page highlights additional endorsements for the insurance policy, focusing on liability exclusion for specific substances and the impact on policy coverage.",
+    "full_text": "BUSINESSOWNERS\nBP 15 91 12 23\nTHIS ENDORSEMENT CHANGES THE POLICY. PLEASE READ IT CAREFULLY.\nEXCLUSION – PERFLUOROALKYL AND\nPOLYFLUOROALKYL SUBSTANCES (PFAS)\nThis endorsement modifies insurance provided under the following:\nBUSINESSOWNERS COVERAGE FORM\nSection II – Liability is amended as follows: B. The following is added to Paragraph F. Liability\nAnd Medical Expenses Definitions:\nA. The following is added to Paragraph B.\nExclusions: \"Perfluoroalkyl or polyfluoroalkyl substances\"\nmeans any:\nThis insurance does not apply to:\n1. Chemical or substance that contains one or\nPerfluoroalkyl And Polyfluoroalkyl\nmore alkyl carbons on which hydrogen atoms\nSubstances\nhave been partially or completely replaced by\na. \"Bodily injury\" or \"property damage\" which fluorine atoms, including but not limited to:\nwould not have occurred, or \"personal and\na. Polymer, oligomer, monomer or nonpolymer\nadvertising injury\" which would not have\nchemicals and their homologues, isomers,\ntaken place, in whole or in part, but for the\ntelomers, salts, derivatives, precursor\nactual, alleged, threatened or suspected\nchemicals, degradation products or by-\ninhalation, ingestion, absorption,\nproducts;\nconsumption, discharge, dispersal,\nseepage, migration, release or escape of, b. Perfluoroalkyl acids (PFAA), such as\ncontact with, exposure to, existence of, or perfluorooctanoic acid (PFOA) and its salts,\npresence of, any \"perfluoroalkyl or or perfluorooctane sulfonic acid (PFOS) and\npolyfluoroalkyl substances\". its salts;\nb. Any loss, cost or expense arising, in whole c. Perfluoropolyethers (PFPE);\nor in part, out of the abating, testing for,\nd. Fluorotelomer-based substances; or\nmonitoring, cleaning up, removing,\ncontaining, treating, detoxifying, e. Side-chain fluorinated polymers; or\nneutralizing, remediating or disposing of, or 2. Good or product, including containers,\nin any way responding to or assessing the materials, parts or equipment furnished in\neffects of, \"perfluoroalkyl or polyfluoroalkyl connection with such goods or products, that\nsubstances\", by any insured or by any other consists of or contains any chemical or\nperson or entity. substance described in Paragraph B.1.\nBP 15 91 12 23 © Insurance Services Office, Inc., 2023 Page 1 of 1",
     "tables_and_figures": [],
     "key_information": {
-      "insured_property": "807 Broadway St Ne, Minneapolis, MN 55413",
-      "coverage_details": "Liability and medical expenses coverage, specifics of policy terms.",
-      "dates": "Effective Date: 10/05/2024",
-      "amounts": "Liability and Medical Expenses $1,000,000, Medical Expense (per person) $5,000, Damages To Premises Rented To You $100,000",
-      "addresses": "807 Broadway St Ne, Minneapolis, MN 55413"
+      "insured_property": "Exclusion applies broadly to policy coverages.",
+      "coverage_details": "Amendment highlights exclusions of certain substances from coverage.",
+      "dates": "Effective within policy period.",
+      "amounts": "Not specified",
+      "addresses": "Not specified"
     },
     "relationships": {
-      "continues_from_previous": null,
-      "continues_to_next": "Declaration and premium details continue comprehensively.",
-      "references": null
+      "continues_from_previous": "Coverage exclusions regarding specific hazardous substances.",
+      "continues_to_next": "Further details on exclusions derived from federal acts.",
+      "references": "Businessowners Coverage Form, Federal Risk Insurance Act implications."
     },
     "document_structure": {
-      "section_title": "Coverage Declarations",
+      "section_title": "Endorsement Additions and Federal Compliance",
       "subsections": [
-        "Liability Coverage",
-        "Premiums"
+        "Substance Exclusions",
+        "Coverage Modifications"
       ],
-      "page_type": "content"
+      "page_type": "endorsement"
     },
-    "analyzed_at": "2025-08-24T16:21:55.707297"
+    "analyzed_at": "2025-08-24T18:10:43.407614"
   },
   {
     "page_number": 21,
-    "summary": "This page outlines insurance policy endorsements and coverage, focusing primarily on the policyholder's election or rejection of Terrorism Insurance Coverage for the policy period starting October 5, 2024. It informs the holder about notices under the federal Terrorism Risk Insurance Program Reauthorization Act.",
-    "full_text": "Policy No.: NBP1555904G Dear Policyholder, Terrorism Insurance Coverage is not included with this policy because you elected not to purchase this coverage on your expiring policy. If you wish to purchase Terrorism Insurance Coverage on this policy, you must complete the attached form and return it to your local Retail Agent no later than 11/04/2024. Upon receipt of your completed form, we will endorse your policy to include Terrorism Insurance Coverage for the additional cost noted on the attached form. I decline to purchase Terrorism Coverage. I understand that I will have no coverage for losses arising from acts of Terrorism. LOGAN PARK NEIGHBORHOOD ASSOCIATIONOn File with the Company I elect to purchase coverage for certified acts of Terrorism for a premium of $ POLICYHOLDER DISCLOSURE NOTICE OF TERRORISM INSURANCE COVERAGE You are hereby notified that under the Terrorism Risk Insurance Act (\"the Act\"), as amended, you have a right to purchase insurance coverage for losses arising out of acts of terrorism. As defined in Section, 102(1) of the Act: The term “act of terrorism” means any act or acts that are certified by the Secretary of the Treasury, in consultation with the Secretary of Homeland Security, and the Attorney General of the United States, to be an act of terrorism; to be a violent act or an act that is dangerous to human life, property, or infrastructure; to have resulted in damage within the United States, or outside the United States in the case of certain air carriers or vessels or the premises of a United States mission; and to have been committed by an individual or individuals, as part of an effort to coerce the civilian population of the United States or to influence the policy or affect the conduct of the United States Government by coercion. Coverage for \"insured losses”, as defined in the Act, is subject to the coverage terms, conditions, amounts and limits in this policy applicable to losses arising from events other than acts of terrorism. You should know that any coverage for losses caused by certified acts of terrorism is partially reimbursed by the United States under a formula established by federal law. Under this formula, the United States reimburses 80% of covered terrorism losses exceeding the statutorily established deductible paid by the insurance company providing the coverage. The premium charged for this coverage is provided below and does not include any charges for the portion of loss covered by the federal government under the Act. You should know that the Act, as amended, contains a $100 billion cap that limits U.S. Government reimbursement, as well as insurers' liability, for losses resulting from certified acts of terrorism when the amount of such losses in any one calendar year exceeds $100 billion. If the aggregate insured losses for all insurers exceed $100 billion in any one calendar year, your coverage may be reduced. You should also know that, under federal law, you are not required to purchase coverage for losses caused by certified acts of terrorism.",
+    "summary": "Analysis failed: JSON parse error - Expecting value: line 1 column 2 (char 1)",
+    "full_text": "[Analysis]\n2. **Page 21**: [Analysis]\n3. **Page 22**: [Analysis]\n4. **Page 23 to End**: [Analysis]",
     "tables_and_figures": [],
-    "key_information": {
-      "insured_property": "Not explicitly mentioned",
-      "coverage_details": "Terrorism Insurance Coverage Rejection",
-      "dates": "Effective Date: 10/05/2024, Must respond by 11/04/2024",
-      "amounts": "Not specified, as the premium amount for terrorism coverage is not provided.",
-      "addresses": "LOGAN PARK NEIGHBORHOOD ASSOCIATION"
-    },
-    "relationships": {
-      "continues_from_previous": "General condition notifications",
-      "continues_to_next": "Related to other policy documents discussing endorsements",
-      "references": "Terrorism Risk Insurance Program Reauthorization Act"
-    },
+    "key_information": {},
+    "relationships": {},
     "document_structure": {
-      "section_title": "POLICYHOLDER DISCLOSURE NOTICE OF TERRORISM INSURANCE COVERAGE",
-      "subsections": [],
-      "page_type": "content"
+      "page_type": "error"
     },
-    "analyzed_at": "2025-08-24T16:22:44.030672"
-  },
-  {
-    "page_number": 22,
-    "summary": "The conclusion of notices relating to terrorism coverage states federal law requirements and the consequences of not purchasing this coverage. Additionally, it notes exceptions existing under various state laws.",
-    "full_text": "REJECTION OR SELECTION OF TERRORISM INSURANCE COVERAGE Note: In the states of California, Georgia, Hawaii, Illinois, Iowa, Maine, North Carolina, Oregon, Washington, West Virginia and Wisconsin, our terrorism exclusion makes an exception for fire losses resulting from an Act of Terrorism. In these states, if you decline to purchase Terrorism Coverage, you still have coverage for fire losses resulting from an Act of Terrorism. Please “X” one of the boxes below and return this notice to the Company. 100 Date Named Insured Authorized Signature Applicant Name (Print) TRIADN RENEWAL (12-20) 1of1Page. Coverage Form(s) and Endorsement(s) made a part of this policy at time of issue See Endorsement EOD (1/95) Authorized Representative NBP1555904F No. NBP1555904G LOGAN PARK NEIGHBORHOOD ASSOCIATION 807 BROADWAY ST NE, STE 70 MINNEAPOLIS, MN 55413 POLICY PERIOD: (MO. DAY YR.) From: To: FORM OF BUSINESS: BUSINESS DESCRIPTION: 12:01 A.M. STANDARD TIME AT YOUR MAILING ADDRESS SHOWN ABOVE IN CONSIDERATION OF THE RENEWAL PREMIUM STATED BELOW, EXPIRING POLICY NUMBER NBP1555904F IS RENEWED THIS POLICY CONSISTS OF THE FOLLOWING COVERAGE PARTS FOR WHICH A PREMIUM IS INDICATED. NAMED INSURED AND ADDRESS: Renewal of Number POLICY DECLARATIONS 10/05/2024 10/05/2025 Non-Profit Corporation Non-Profit Directors and Officers *** RENEWAL CERTIFICATE *** United States Liability Insurance Company 1190 Devon Park Drive, Wayne, Pennsylvania 19087 A Member Company of United States Liability Insurance Group Agent: TWIN CITY GROUP (4317) 4500 Park Glen Road, Suite 400 Minneapolis, MN 55416 Issued: 08/23/2024 1:53 PM By: THIS PREMIUM MAY BE SUBJECT TO ADJUSTMENT. Direct Bill Policy FOR THE POLICY PERIOD STATED ABOVE. PLEASE ATTACH THIS RENEWAL CERTIFICATE TO YOUR EXPIRING POLICY. PREMIUM Businessowners Liability Coverage Part $411.00 Businessowners Property Coverage Part $50.00 Fire Safety Surcharge $0.33 TOTAL: $461.33 UPC (08-07) THESE DECLARATIONS TOGETHER WITH THE COMMON POLICY CONDITIONS, COVERAGE PART DECLARATIONS, COVERAGE PART COVERAGE FORM(S) AND FORMS AND ENDORSEMENTS, IF ANY, ISSUED TO FORM A PART THEREOF, COMPLETE THE ABOVE NUMBERED POLICY.",
-    "tables_and_figures": [],
-    "key_information": {
-      "insured_property": null,
-      "coverage_details": "Refers to selection or rejection of Terrorism Insurance Coverage",
-      "dates": "Effective Date: 10/05/2024 to 10/05/2025",
-      "amounts": "Businessowners Liability Coverage Part: $411.00, Businessowners Property Coverage Part: $50.00, Fire Safety Surcharge: $0.33, TOTAL: $461.33",
-      "addresses": "807 BROADWAY ST NE, STE 70, MINNEAPOLIS, MN 55413"
-    },
-    "relationships": {
-      "continues_from_previous": "Discussion on terrorism coverage rejection or acceptance",
-      "continues_to_next": "N/A as this is the last page discussed",
-      "references": "Various state laws regarding terrorism coverage"
-    },
-    "document_structure": {
-      "section_title": "REJECTION OR SELECTION OF TERRORISM INSURANCE COVERAGE",
-      "subsections": [],
-      "page_type": "content"
-    },
-    "analyzed_at": "2025-08-24T16:22:44.030689"
+    "error": "JSON parse error: Expecting value: line 1 column 2 (char 1)",
+    "analyzed_at": "2025-08-24T18:13:19.856623"
   }
 ]

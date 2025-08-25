@@ -1,0 +1,110 @@
+```json
+[
+  {
+    "page_number": 9,
+    "summary": "This page outlines exclusions under the liability coverage related to protective safeguards. It specifies conditions under which the insurance will not cover certain losses, such as those caused by equipment breakdown or theft, if specific safeguards were not maintained.",
+    "full_text": "Text will be extracted separately",
+    "tables_and_figures": [
+      {
+        "type": "table",
+        "description": "Exclusions related to protective safeguards",
+        "content": "The table lists different conditions like P-3, P-7, P-15, and their associated exclusions if safeguards are impaired."
+      }
+    ],
+    "key_information": {
+      "insured_property": "None specifically mentioned",
+      "coverage_details": "Exclusions under liability coverage for protective safeguards",
+      "dates": "10/05/2024 as the effective date",
+      "amounts": "None specified",
+      "addresses": "807 BROADWAY REVIVAL, LLC AND HILLCREST DEVELOPMENT, LLLP, 2424 KENNEDY ST NE, MINNEAPOLIS, MN 55413"
+    },
+    "relationships": {
+      "continues_from_previous": "Continuation of exclusions in the policy",
+      "continues_to_next": "Likely continues exclusions or conditions",
+      "references": "Refers to exclusions and conditions in the policy related to specific equipment and safeguard impairments"
+    },
+    "document_structure": {
+      "section_title": "Protective Safeguards Exclusions",
+      "subsections": ["Conditions P-3, P-7, P-15"],
+      "page_type": "content"
+    }
+  },
+  {
+    "page_number": 10,
+    "summary": "This page contains the waiver of transfer of rights of recovery against others. It specifies when rights of recovery may be waived and the conditions under which these waivers apply.",
+    "full_text": "Text will be extracted separately",
+    "tables_and_figures": [],
+    "key_information": {
+      "insured_property": "None specifically mentioned",
+      "coverage_details": "Waiver of rights recovery conditions",
+      "dates": "Effective from 10/05/2024",
+      "amounts": "None specified",
+      "addresses": "807 BROADWAY REVIVAL, LLC, 2424 KENNEDY ST NE, MINNEAPOLIS, MN 55413"
+    },
+    "relationships": {
+      "continues_from_previous": "Continuation from policy conditions",
+      "continues_to_next": "May extend to other endorsement conditions",
+      "references": "Linked to policy endorsements and conditions"
+    },
+    "document_structure": {
+      "section_title": "Waiver of Recovery Rights Endorsement",
+      "subsections": ["Conditions for waivers"],
+      "page_type": "content"
+    }
+  },
+  {
+    "page_number": 11,
+    "summary": "The page details an exclusion policy specifically for 'Perfluoroalkyl And Polyfluoroalkyl Substances (PFAS)'. It outlines the bodily injuries, property damage, and costs not covered by the insurance due to these substances.",
+    "full_text": "Text will be extracted separately",
+    "tables_and_figures": [],
+    "key_information": {
+      "insured_property": "Property related to PFAS exclusion",
+      "coverage_details": "Exclusions involving PFAS",
+      "dates": "Effective from 10/05/2024",
+      "amounts": "None specified",
+      "addresses": "None specifically mentioned"
+    },
+    "relationships": {
+      "continues_from_previous": "Related to chemical exclusions",
+      "continues_to_next": "May continue with more specific exclusions",
+      "references": "Specific to liability exclusions in the policy"
+    },
+    "document_structure": {
+      "section_title": "PFAS Exclusion",
+      "subsections": ["Liability coverage exclusions"],
+      "page_type": "content"
+    }
+  },
+  {
+    "page_number": 12,
+    "summary": "This page contains the renewal certificate for the Businessowners policy, listing coverage parts and premium details for the policy period. It briefly mentions the non-inclusion of terrorism insurance unless specifically purchased.",
+    "full_text": "Text will be extracted separately",
+    "tables_and_figures": [
+      {
+        "type": "table",
+        "description": "Policy coverage and premium details",
+        "content": "Details of coverage parts and corresponding premiums"
+      }
+    ],
+    "key_information": {
+      "insured_property": "None mentioned",
+      "coverage_details": "Businessowners coverage, property and liability",
+      "dates": "Policy period from 10/05/2024 to 10/05/2025",
+      "amounts": {
+        "Premium": "$461.33"
+      },
+      "addresses": "LOGAN PARK NEIGHBORHOOD ASSOCIATION, 807 BROADWAY ST NE, STE 70, MINNEAPOLIS, MN 55413"
+    },
+    "relationships": {
+      "continues_from_previous": "Continuation of policy renewal terms",
+      "continues_to_next": "Likely followed by detailed policy terms",
+      "references": "References expiring policy and its renewal"
+    },
+    "document_structure": {
+      "section_title": "Policy Renewal Certificate",
+      "subsections": ["Coverage Parts", "Premium Details"],
+      "page_type": "content"
+    }
+  }
+]
+```

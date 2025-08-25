@@ -1,0 +1,32 @@
+[
+  {
+    "page_number": 10,
+    "summary": "This page of the insurance document describes protective devices or services provisions. It outlines requirements for maintaining various types of protective equipment and systems, including automatic sprinkler systems and fire alarms. Exclusions from coverage are specified if these safeguards are not properly maintained.",
+    "full_text": "BUSINESSOWNERS PROPERTY COVERAGE PART DECLARATIONS\nPolicy No. NBP1555904G\nEffective Date: 10/05/2024\n12:01 STANDARD TIME\nDESCRIPTION OF PREMISES\nPrem Bldg Location, Construction, Occupancy and Other Information Territory Fire Code\n1 1 807 Broadway St Ne, Minneapolis, MN 55413 001 0757\nDescription: Non-Profit Directors and Officers\nCovered Causes of Loss: Special Protection Class 6\nConstruction: Frame Square Footage:\nSpecial Deductible: None Special Deductible Type:\nCOVERAGES PROVIDED- INSURANCE AT THE DESCRIBED PREMISES APPLIES ONLY FOR COVERAGES FOR WHICH A LIMIT OF INSURANCE IS SHOWN\nLimits of Coinsurance % or\nPrem Bldg Coverage Insurance Deductible Monthly Indemnity + Valuation Premium\n1 1 Business Income and Extra Expense $16,552 $0 Included\n1 1 Business Personal Property $5,000 $1,000 RC Included\nMINIMUM PREMIUM FOR PROPERTY COVERAGE PART: $50\nTOTAL PREMIUM FOR PROPERTY COVERAGE PART: $50 MP\nMP - minimum premium\n+ Valuation: ACV - Actual Cash Value; RC - Replacement Cost; RC/ACV - Replacement Cost/ACV Roof\nFBV - Functional Building Value; AA - Agreed Amount; ALS - Actual Loss Sustained\nLOSS PAYABLE(S): NONE\nCoverage Form(s)/Part(s) and Endorsement(s) made a part of this policy at time of issue:\nSee Endorsement EOD (01/95)\nTHESE DECLARATIONS ARE PART OF THE POLICY DECLARATIONS CONTAINING THE NAME OF THE INSURED AND THE POLICY PERIOD.\nIncludes copyrighted material of ISO Commercial Risk Services, Inc., with its permission.\nBPP150 (02/09) Copyright, ISO Commercial Risk Services, Inc., 1983, 1984, 1988 Page 1 Of 1",
+    "tables_and_figures": [
+      {
+        "type": "table",
+        "description": "Table listing protective safeguards required under the policy",
+        "content": "\"P-1\" Automatic Sprinkler System, \"P-2\" Automatic Fire Alarm, \"P-3\" Security Service, \"P-4\" Service Contract, \"P-5\" Smoke/Heat Detectors, \"P-6\" Circuit Breakers, \"P-7\" Burglar Alarm, \"P-8\" Surge Protectors, \"P-9\" Refrigeration Maintenance Contract, \"P-10\" Fire Suppression System."
+      }
+    ],
+    "key_information": {
+      "insured_property": "N/A",
+      "coverage_details": "Protection systems are required for coverage to be effective; lack of maintenance voids the coverage.",
+      "dates": "10/05/2024 as the effective date of the policy",
+      "amounts": "N/A",
+      "addresses": "Not specified on this page"
+    },
+    "relationships": {
+      "continues_from_previous": "Continuation of protective devices discussions",
+      "continues_to_next": "Further details on protective measures and related exclusions",
+      "references": "References made to the importance of maintaining listed protective systems"
+    },
+    "document_structure": {
+      "section_title": "Protective Devices or Services Provisions",
+      "subsections": [],
+      "page_type": "content"
+    },
+    "analyzed_at": "2025-08-24T18:03:32.937478"
+  }
+]

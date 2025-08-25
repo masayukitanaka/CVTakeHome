@@ -1,0 +1,77 @@
+[
+  {
+    "page_number": 1,
+    "summary": "This page introduces the policy with a declaration for terrorism insurance coverage renewal, listing options for acceptance or decline.",
+    "full_text": "Complete text including form of business, policy period, names and addresses of insured, agents, and policy premium details.",
+    "tables_and_figures": [],
+    "key_information": {
+      "insured_property": "Not specified on this page",
+      "coverage_details": "Option to include terrorism insurance coverage if desired",
+      "dates": "Effective Date: 10/05/2024",
+      "amounts": "Total Premium: $461.33",
+      "addresses": "807 Broadway St Ne, Minneapolis, MN 55413"
+    },
+    "relationships": {
+      "continues_from_previous": "Introduces terrorism insurance coverage",
+      "continues_to_next": "Further information on terms and conditions",
+      "references": "See attached form for terrorism insurance coverage"
+    },
+    "document_structure": {
+      "section_title": "POLICY DECLARATIONS",
+      "subsections": ["Renewal Certificate", "Premium"],
+      "page_type": "policy declaration"
+    }
+  },
+  {
+    "page_number": 2,
+    "summary": "This page lists forms and endorsements included as part of the policy, with detailed exclusions for terrorism and other liability factors.",
+    "full_text": "Complete paragraph text detailing specific exclusions and the corresponding BP codes.",
+    "tables_and_figures": [],
+    "key_information": {
+      "insured_property": "807 Broadway St Ne, Minneapolis, MN 55413",
+      "coverage_details": "Exclusions for various risks including acts of terrorism",
+      "dates": "",
+      "amounts": "",
+      "addresses": ""
+    },
+    "relationships": {
+      "continues_from_previous": "Continuation of policy conditions",
+      "continues_to_next": "Additional exclusions and endorsements",
+      "references": "Specific BP codes for detailed conditions"
+    },
+    "document_structure": {
+      "section_title": "FORMS AND ENDORSEMENTS",
+      "subsections": ["Exclusions - Terrorism and Other Risks"],
+      "page_type": "endorsement listing"
+    }
+  },
+  {
+    "page_number": 3,
+    "summary": "This page provides a detailed schedule of additional insured parties and premises, alongside a waiver for the transfer of recovery rights.",
+    "full_text": "Text includes names, addresses, and conditions related to additional insured parties.",
+    "tables_and_figures": [
+      {
+        "type": "table",
+        "description": "Schedule of Additional Insured and Premises",
+        "content": "807 BROADWAY REVIVAL, LLC AND HILLCREST DEVELOPMENT, LLLP; 2424 KENNEDY ST NE, MINNEAPOLIS, MN 55413"
+      }
+    ],
+    "key_information": {
+      "insured_property": "807 Broadway, Minneapolis, MN",
+      "coverage_details": "Coverage is primary and non-contributory if conditions met.",
+      "dates": "Effective Date: 10/05/2024",
+      "amounts": "",
+      "addresses": "2424 Kennedy St NE, Minneapolis, MN 55413"
+    },
+    "relationships": {
+      "continues_from_previous": "Additional insured details",
+      "continues_to_next": "Further insurance modifications",
+      "references": "Common Policy Conditions and Section II - Liability"
+    },
+    "document_structure": {
+      "section_title": "ADDITIONAL INSURED - MANAGERS OR LESSORS OF PREMISES",
+      "subsections": [],
+      "page_type": "endorsement"
+    }
+  }
+]

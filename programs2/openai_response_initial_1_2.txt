@@ -1,0 +1,60 @@
+[
+  {
+    "page_number": 1,
+    "summary": "The first page primarily introduces the policy and outlines coverage details. It mentions the policy number and effective date, and details the naming of insured entities and addresses related to the insurance policy.",
+    "full_text": "Text will be extracted separately",
+    "tables_and_figures": [
+      {
+        "type": "table",
+        "description": "Insurance Policy Declarations",
+        "content": "Includes details like policy number, named insured, address, renewal information, and premium breakdown."
+      }
+    ],
+    "key_information": {
+      "insured_property": "807 Broadway St NE, Minneapolis, MN 55413",
+      "coverage_details": "Businessowners Liability Coverage, Businessowners Property Coverage",
+      "dates": "Effective Date: 10/05/2024 to 10/05/2025",
+      "amounts": "Total Premium: $461.33",
+      "addresses": "2424 Kennedy ST NE, Minneapolis, MN 55413"
+    },
+    "relationships": {
+      "continues_from_previous": "Policy details likely continue from previous year.",
+      "continues_to_next": "Coverage details and exclusions likely continue to next page.",
+      "references": "References to policy endorsements and previous policy number NBP1555904F."
+    },
+    "document_structure": {
+      "section_title": "Policy Declarations",
+      "subsections": ["Named Insured and Address", "Policy Period", "Premium Breakdown"],
+      "page_type": "cover"
+    }
+  },
+  {
+    "page_number": 2,
+    "summary": "This page provides details about coverage modifications and exclusions, and outlines conditions under which the insurance does not apply. It mentions different protective safeguards required for policy compliance.",
+    "full_text": "Text will be extracted separately",
+    "tables_and_figures": [
+      {
+        "type": "table",
+        "description": "Protective Safeguards and Exclusions",
+        "content": "Lists safeguards like P-1, P-2, etc., and conditions under which coverage is not applicable."
+      }
+    ],
+    "key_information": {
+      "insured_property": "Properties requiring safeguards as per policy.",
+      "coverage_details": "Additional insured provisions and various exclusions.",
+      "dates": "Application Date As Per Effective Declaration.",
+      "amounts": "Not specified directly.",
+      "addresses": "Relates to described premises as included in the schedule."
+    },
+    "relationships": {
+      "continues_from_previous": "Details on effective policy dates and liabilities.",
+      "continues_to_next": "May continue with more exclusions or coverage details.",
+      "references": "Refers to the protective safeguard codes mentioned in preceding pages."
+    },
+    "document_structure": {
+      "section_title": "Protective Devices Or Services Provisions",
+      "subsections": ["Schedule of Protective Safeguards", "Exclusions in Section I - Property"],
+      "page_type": "content"
+    }
+  }
+]

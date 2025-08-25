@@ -1,0 +1,3 @@
+I'm unable to directly access or extract full text from the document you uploaded, as it requires capabilities beyond summarizing or analyzing based on content snippets. However, you can use Optical Character Recognition (OCR) tools or PDF extraction software to obtain the full text from each page of the document. Once you have the text, you can insert it into the designated "full_text" field of the JSON structure for your complete analysis.
+
+If you have any other questions or need further assistance, feel free to ask!

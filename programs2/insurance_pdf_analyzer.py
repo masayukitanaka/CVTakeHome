@@ -5,15 +5,17 @@ import json
 import base64
 import argparse
 import tempfile
+import logging
 from pathlib import Path
 from dotenv import load_dotenv
 from openai import OpenAI
 import PyPDF2
+import pdfplumber
 
 load_dotenv()
 
 class InsurancePDFAnalyzer:
-    def __init__(self, max_pages_per_batch=4):
+    def __init__(self, max_pages_per_batch=4, enable_logging=True):
         self.api_key = os.getenv('OPENAI_API_KEY')
         if not self.api_key:
             raise ValueError("OPENAI_API_KEY not found in .env file")
@@ -21,12 +23,77 @@ class InsurancePDFAnalyzer:
         self.client = OpenAI(api_key=self.api_key)
         self.analysis_data = []
         self.max_pages_per_batch = max_pages_per_batch
+        self.pdf_text_cache = {}  # Cache for extracted PDF text
+        
+        # Setup logging
+        if enable_logging:
+            logging.basicConfig(
+                level=logging.INFO,
+                format='%(asctime)s - %(levelname)s - %(message)s',
+                handlers=[
+                    logging.FileHandler('openai_responses.log'),
+                    logging.StreamHandler()
+                ]
+            )
+            self.logger = logging.getLogger(__name__)
+        else:
+            self.logger = None
     
     def get_pdf_page_count(self, pdf_path):
         """Get total number of pages in PDF"""
         with open(pdf_path, 'rb') as file:
             reader = PyPDF2.PdfReader(file)
             return len(reader.pages)
+    
+    def extract_text_from_pdf(self, pdf_path, start_page=1, end_page=None):
+        """Extract text from PDF using pdfplumber"""
+        try:
+            with pdfplumber.open(pdf_path) as pdf:
+                total_pages = len(pdf.pages)
+                
+                if end_page is None:
+                    end_page = total_pages
+                
+                # Validate page range
+                start_page = max(1, start_page)
+                end_page = min(total_pages, end_page)
+                
+                extracted_text = {}
+                
+                for page_num in range(start_page - 1, end_page):
+                    page = pdf.pages[page_num]
+                    text = page.extract_text()
+                    
+                    # Clean up the text a bit
+                    if text:
+                        text = text.strip()
+                    else:
+                        text = ""
+                    
+                    # Store in cache with 1-based page numbering
+                    extracted_text[page_num + 1] = text
+                    self.pdf_text_cache[page_num + 1] = text
+                    
+                    if self.logger:
+                        self.logger.info(f"Extracted {len(text)} characters from page {page_num + 1}")
+                        # Log key content found
+                        if text:
+                            key_content = []
+                            if "BUSINESSOWNERS PROPERTY COVERAGE" in text:
+                                key_content.append("Property Coverage")
+                            if "Business Income" in text and "Extra Expense" in text:
+                                key_content.append("Business Income/Extra Expense")
+                            if "807 Broadway" in text:
+                                key_content.append("807 Broadway Address")
+                            if key_content:
+                                self.logger.info(f"  Key content found: {', '.join(key_content)}")
+                
+                return extracted_text
+                
+        except Exception as e:
+            if self.logger:
+                self.logger.error(f"Error extracting text from PDF: {str(e)}")
+            return {}
     
     def analyze_pdf(self, pdf_path, output_json_path, start_page=1, end_page=None):
         """
@@ -64,12 +131,26 @@ class InsurancePDFAnalyzer:
     
     def _analyze_single_batch(self, pdf_path, output_json_path, start_page, end_page):
         """Analyze a single batch of pages"""
+        # First extract text from PDF using PyPDF2
+        print(f"Extracting text from PDF pages {start_page}-{end_page}...")
+        extracted_text = self.extract_text_from_pdf(pdf_path, start_page, end_page)
+        
         # Upload PDF to OpenAI
         file_obj = self.upload_pdf_to_openai(pdf_path)
         
         try:
             # Analyze the PDF using OpenAI
             analysis = self.analyze_pdf_with_openai(file_obj, self.analysis_data, start_page, end_page)
+            
+            # Replace OpenAI's full_text with our extracted text
+            for page_data in analysis:
+                if isinstance(page_data, dict) and 'page_number' in page_data:
+                    page_num = page_data['page_number']
+                    if page_num in extracted_text:
+                        page_data['full_text'] = extracted_text[page_num]
+                        if self.logger:
+                            self.logger.info(f"Replaced full_text for page {page_num} with PyPDF2 extracted text ({len(extracted_text[page_num])} chars)")
+            
             self.analysis_data = analysis
             
             # Save results
@@ -166,15 +247,13 @@ class InsurancePDFAnalyzer:
 
 CRITICAL REQUIREMENTS:
 1. Analyze ALL pages in the document - not just the first few pages
-2. For full_text field: Include EVERY SINGLE WORD, number, and piece of text on each page - do not summarize or abbreviate
-3. Extract complete text content verbatim from each page
-4. Include headers, footers, page numbers, and all visible text
-5. For tables and figures, include all text content within them
+2. Focus on extracting structured information, tables, and key data
+3. Identify relationships between pages and document structure
 
 For each page, extract:
-- Complete page number and summary
-- FULL text content (every word on the page)
-- Detailed tables and figures descriptions with all text
+- Page number and comprehensive summary
+- For full_text: Just provide a brief placeholder text (the actual text will be extracted separately)
+- Detailed tables and figures descriptions with their structure and content
 - Key insurance information (property, coverage, dates, amounts, addresses)
 - Cross-page relationships and document structure
 
@@ -202,9 +281,9 @@ IMPORTANT: Return ONLY the JSON array. No explanations, comments, or code blocks
                 content=f"""Please analyze this insurance PDF document page by page. {page_range_instruction}
 
 IMPORTANT: 
-- full_text must contain ALL text content found on each page, not a summary
-- Include every single word, number, and piece of text visible on each page
-- Be comprehensive and thorough
+- Focus on understanding the document structure and extracting key information
+- For full_text field: just provide a brief placeholder (actual text will be extracted separately)
+- Be comprehensive in identifying tables, figures, and relationships
 
 For each page, provide detailed information in the following JSON format:
 
@@ -212,7 +291,7 @@ For each page, provide detailed information in the following JSON format:
   {{
     "page_number": 1,
     "summary": "Brief summary of page content (2-3 sentences)",
-    "full_text": "COMPLETE AND FULL TEXT CONTENT - Include every single word, sentence, number, label, header, footer, and any text visible on this page. Do not summarize - include everything verbatim.",
+    "full_text": "Text will be extracted separately",
     "tables_and_figures": [
       {{
         "type": "table or figure or chart",
@@ -263,6 +342,15 @@ CRITICAL: Return ONLY valid JSON. No explanatory text, no comments, no code bloc
                 response_message = messages.data[0]
                 analysis_text = response_message.content[0].text.value
                 
+                # Log the initial response
+                if self.logger:
+                    self.logger.info(f"Initial OpenAI response length: {len(analysis_text)} characters")
+                    self.logger.info(f"Initial response preview: {analysis_text[:500]}...")
+                    # Save full response to separate file
+                    with open(f'openai_response_initial_{start_page}_{end_page}.txt', 'w', encoding='utf-8') as f:
+                        f.write(analysis_text)
+                    self.logger.info(f"Full initial response saved to openai_response_initial_{start_page}_{end_page}.txt")
+                
                 # Check if we got comprehensive results
                 if "page" in analysis_text.lower() and len(analysis_text) < 5000:
                     print("Initial response seems incomplete. Requesting full analysis...")
@@ -287,8 +375,17 @@ CRITICAL: Return ONLY valid JSON. No explanatory text, no comments, no code bloc
                 response_message = messages.data[0]
                 analysis_text = response_message.content[0].text.value
                 
+                # Log the final response
+                if self.logger:
+                    self.logger.info(f"Final OpenAI response length: {len(analysis_text)} characters")
+                    self.logger.info(f"Final response preview: {analysis_text[:500]}...")
+                    # Save full response to separate file
+                    with open(f'openai_response_final_{start_page}_{end_page}.txt', 'w', encoding='utf-8') as f:
+                        f.write(analysis_text)
+                    self.logger.info(f"Full final response saved to openai_response_final_{start_page}_{end_page}.txt")
+                
                 # Parse JSON response
-                return self.parse_full_analysis_response(analysis_text)
+                return self.parse_full_analysis_response(analysis_text, start_page, end_page)
             else:
                 print(f"Analysis failed with status: {run.status}")
                 return []
@@ -305,12 +402,16 @@ CRITICAL: Return ONLY valid JSON. No explanatory text, no comments, no code bloc
             except:
                 pass
     
-    def parse_full_analysis_response(self, response_text):
+    def parse_full_analysis_response(self, response_text, start_page=None, end_page=None):
         """
         Parse the complete analysis response from OpenAI
         """
         try:
             print("Raw response preview:", response_text[:200] + "..." if len(response_text) > 200 else response_text)
+            
+            # Log parsing attempt
+            if self.logger:
+                self.logger.info(f"Parsing JSON response for pages {start_page}-{end_page}")
             
             # Clean up response text - handle multiple code block formats
             response_text = response_text.strip()
@@ -372,6 +473,16 @@ CRITICAL: Return ONLY valid JSON. No explanatory text, no comments, no code bloc
                     page_data['analyzed_at'] = datetime.now().isoformat()
             
             print(f"Successfully parsed analysis for {len(analysis_data)} pages")
+            
+            # Log parsed data
+            if self.logger:
+                self.logger.info(f"Successfully parsed {len(analysis_data)} pages")
+                for i, page in enumerate(analysis_data[:3]):  # Log first 3 pages
+                    if isinstance(page, dict):
+                        self.logger.info(f"Page {page.get('page_number', i+1)} summary: {page.get('summary', 'N/A')[:100]}...")
+                        full_text_len = len(page.get('full_text', ''))
+                        self.logger.info(f"Page {page.get('page_number', i+1)} full_text length: {full_text_len} chars")
+            
             return analysis_data
             
         except json.JSONDecodeError as e:

@@ -1,0 +1,100 @@
+[
+  {
+    "page_number": 17,
+    "summary": "The page contains an endorsement modifying insurance under the Businessowners Coverage Form, specifying coverage details for additional insured parties. It includes specific exclusions for 'perfluoroalkyl or polyfluoroalkyl substances'.",
+    "full_text": "Section II – Liability is amended as follows: A. The following is added to Paragraph B. Exclusions: This insurance does not apply to: Perfluoroalkyl And Polyfluoroalkyl Substances  a. \"Bodily injury\" or \"property damage\" which would not have occurred, or \"personal and advertising injury\" which would not have taken place, in whole or in part, but for the actual, alleged, threatened or suspected inhalation, ingestion, absorption, consumption, discharge, dispersal, seepage, migration, release or escape of, contact with, exposure to, existence of, or presence of, any \"perfluoroalkyl or polyfluoroalkyl substances\".  b. Any loss, cost or expense arising, in whole or in part, out of the abating, testing for, monitoring, cleaning up, removing, containing, treating, detoxifying, neutralizing, remediating or disposing of, or in any way responding to or assessing the effects of, \"perfluoroalkyl or polyfluoroalkyl substances\", by any insured or by any other person or entity.",
+    "tables_and_figures": [
+      {
+        "type": "table",
+        "description": "Schedule Table",
+        "content": "Outline of the person or organization name for additional insured and modified rights of recovery."
+      }
+    ],
+    "key_information": {
+      "insured_property": "807 Broadway Revival, LLC and Hillcrest Development, LLLP",
+      "coverage_details": "Additional insured coverage with exclusions for 'perfluoroalkyl or polyfluoroalkyl substances'.",
+      "dates": "10/05/2024",
+      "amounts": "Not specified",
+      "addresses": "2424 Kennedy St NE, Minneapolis, MN 55413"
+    },
+    "relationships": {
+      "continues_from_previous": "General liability insurance continuity and modifications.",
+      "continues_to_next": "Detailed exclusions for insured substances.",
+      "references": "Businessowners Coverage Form, Waiver of Transfer of Rights of Recovery."
+    },
+    "document_structure": {
+      "section_title": "Endorsement Modifications",
+      "subsections": ["Schedule", "Exclusions"],
+      "page_type": "endorsement or content"
+    }
+  },
+  {
+    "page_number": 18,
+    "summary": "This page outlines protective safeguard requirements and conditions under the Businessowners policy. Detailed exclusions and conditions for maintaining safety equipment are defined.",
+    "full_text": "BP-97 Exclusion For Event Vendor/Exhibitor & Contractor BP0003 Businessowners Coverage Form BP0125 Minnesota Changes BP0402 Additional Insured - Managers Or Lessors Of Premises BP0417 Employment-Related Practices Exclusion BP0448 Additional Insured - Designated Person Or Organization BP0497 Waiver Of Transfer Of Rights Of Recovery Against Others To Us BP1505 Exclusion - Access Or Disclosure Of Confidential Or Personal Information And Data -Related Liability - Limited Bodily Injury Exception Not Included BP1560 Cyber Incident Exclusion FORMS AND ENDORSEMENTS EXTENSION OF DECLARATIONS Policy No. NBP1555904G Effective Date: 10/05/2024 12:01 AM STANDARD TIME AT YOUR MAILING ADDRESS All other terms and conditions remain unchanged.EOD (01/95) Page of2 2 Endorsements marked with an asterisk (*) have been added to this policy or have a new edition date and are attached with this certificate.",
+    "tables_and_figures": [],
+    "key_information": {
+      "insured_property": "Protection Safeguards applicable to insured properties.",
+      "coverage_details": "Conditions for safeguard maintenance to ensure coverage.",
+      "dates": "Effective from the date of the policy",
+      "amounts": "Not specified",
+      "addresses": "Not specified"
+    },
+    "relationships": {
+      "continues_from_previous": "Exclusions related to protective safeguards.",
+      "continues_to_next": "Continuation of exclusions related to safeguards and policies.",
+      "references": "Protective Safeguards and Safety Equipment requirements."
+    },
+    "document_structure": {
+      "section_title": "Protective Safeguard Conditions",
+      "subsections": ["Conditions and Requirements", "Exclusions"],
+      "page_type": "terms and conditions"
+    }
+  },
+  {
+    "page_number": 19,
+    "summary": "The page provides detailed loss conditions related to specific protective safeguards. Requirements for operational and maintenance compliance are emphasized, specifying punitive actions in cases of non-compliance.",
+    "full_text": "With respect to “P-3”, “P-7”and “P-15”, we will not pay for loss or damage caused by or resulting from vandalism, burglary, theft or any other act of stealing if, prior to the vandalism, burglary, theft or any other act of stealing, you: a. Knew of any suspension or impairment in any protective safeguard listed in the Schedule above and failed to notify us of that fact; or b. Failed to maintain any protective safeguard listed in the Schedule above, and over which you had control, in complete working order. With respect to “P-6” and “P-8” we will not pay for loss or damage caused by or resulting from “equipment breakdown”, electrical disturbance or expediting expenses as a result of an electrical disturbance if, prior to the “equipment breakdown” you: a. Knew of any suspension or impairment in any protective safeguard listed in the Schedule above and failed to notify us of that fact; or b. Failed to maintain any protective safeguard listed in the Schedule above, and over which you had control, in complete working order.",
+    "tables_and_figures": [],
+    "key_information": {
+      "insured_property": "Compliance requirements for protective equipment.",
+      "coverage_details": "Loss payment exclusions due to failure in equipment maintenance.",
+      "dates": "Not specified",
+      "amounts": "Not specified",
+      "addresses": "Not specified"
+    },
+    "relationships": {
+      "continues_from_previous": "Continuation of punitive measures for safeguard compliance failures.",
+      "continues_to_next": "Discusses the impact of compliance on loss payment.",
+      "references": "Protective safeguards related to insurance loss payments."
+    },
+    "document_structure": {
+      "section_title": "Loss Condition Specifications",
+      "subsections": ["Preventive Maintenance Failures", "Loss Payment Conditions"],
+      "page_type": "terms and conditions"
+    }
+  },
+  {
+    "page_number": 20,
+    "summary": "This page highlights additional endorsements for the insurance policy, focusing on liability exclusion for specific substances and the impact on policy coverage.",
+    "full_text": "BP 15 91 12 23 © Insurance Services Office, Inc., 2023  Page 1 of 1 EXCLUSION – PERFLUOROALKYL AND POLYFLUOROALKYL SUBSTANCES (PFAS) This endorsement modifies insurance provided under the following: BUSINESSOWNERS COVERAGE FORM Section II – Liability is amended as follows: A. The following is added to Paragraph B. Exclusions: This insurance does not apply to: Perfluoroalkyl And Polyfluoroalkyl Substances a. \"Bodily injury\" or \"property damage\" which would not have occurred, or \"personal and advertising injury\" which would not have taken place, in whole or in part, but for the actual, alleged, threatened or suspected inhalation, ingestion, absorption, consumption, discharge, dispersal, seepage, migration, release or escape of, contact with, exposure to, existence of, or presence of, any \"perfluoroalkyl or polyfluoroalkyl substances\". b. Any loss, cost or expense arising, in whole or in part, out of the abating, testing for, monitoring, cleaning up, removing, containing, treating, detoxifying, neutralizing, remediating or disposing of, or in any way responding to or assessing the effects of, \"perfluoroalkyl or polyfluoroalkyl substances\", by any insured or by any other person or entity.",
+    "tables_and_figures": [],
+    "key_information": {
+      "insured_property": "Exclusion applies broadly to policy coverages.",
+      "coverage_details": "Amendment highlights exclusions of certain substances from coverage.",
+      "dates": "Effective within policy period.",
+      "amounts": "Not specified",
+      "addresses": "Not specified"
+    },
+    "relationships": {
+      "continues_from_previous": "Coverage exclusions regarding specific hazardous substances.",
+      "continues_to_next": "Further details on exclusions derived from federal acts.",
+      "references": "Businessowners Coverage Form, Federal Risk Insurance Act implications."
+    },
+    "document_structure": {
+      "section_title": "Endorsement Additions and Federal Compliance",
+      "subsections": ["Substance Exclusions", "Coverage Modifications"],
+      "page_type": "endorsement"
+    }
+  }
+]
