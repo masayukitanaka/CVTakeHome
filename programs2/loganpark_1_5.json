@@ -1,0 +1,134 @@
+[
+  {
+    "page_number": 1,
+    "summary": "This page provides details about the insured premises located at 807 Broadway St Ne, Minneapolis, MN. It includes coverage details like Business Income, Business Personal Property, and Liability limits.",
+    "full_text": "DESCRIPTION OF PREMISES...807 Broadway St Ne, Minneapolis, MN 55413...Covered Causes of Loss: Special...Construction: Frame\nProtection Class 6...Square Footage:...Special Deductible: None...Limits of Insurance... Prem Bldg Coverage + Valuation PremiumDeductible 1 1 Business Income and Extra Expense $16,552 $0 Included...1 1 Business Personal Property $5,000 $1,000 RC Included... LIMITS OF INSURANCE Liability and Medical Expenses $1,000,000... Medical Expense (per person) $5,000...BUSINESSOWNERS PROPERTY COVERAGE PART DECLARATIONS...BUSINESSOWNERS GENERAL LIABILITY COVERAGE PART DECLARATIONS...MINIMUM PREMIUM FOR PROPERTY COVERAGE PART: $50...",
+    "tables_and_figures": [
+      {
+        "type": "table",
+        "description": "Coverage and valuation details for the insured premises",
+        "content": "Prem Bldg Coverage + Valuation PremiumDeductible...1 1 Business Income and Extra Expense $16,552 $0 Included...1 1 Business Personal Property $5,000 $1,000 RC Included..."
+      }
+    ],
+    "key_information": {
+      "insured_property": "807 Broadway St Ne, Minneapolis, MN 55413",
+      "coverage_details": "Business Income and Extra Expense, Business Personal Property, Liability and Medical Expenses",
+      "dates": "10/05/2024",
+      "amounts": "$16,552 for Business Income, $5,000 for Business Personal Property",
+      "addresses": "807 Broadway St Ne, Minneapolis, MN 55413"
+    },
+    "relationships": {
+      "continues_from_previous": "None",
+      "continues_to_next": "Details on businessowners coverage",
+      "references": "References to coverage form parts and endorsements"
+    },
+    "document_structure": {
+      "section_title": "Businessowners Property Coverage Part Declarations",
+      "subsections": [
+        "Description of Premises",
+        "Coverages Provided",
+        "Limits of Insurance"
+      ],
+      "page_type": "content"
+    },
+    "analyzed_at": "2025-08-24T16:09:11.262190"
+  },
+  {
+    "page_number": 2,
+    "summary": "An endorsement page explaining additional insureds and exclusions relevant to premises liability.",
+    "full_text": "The person or organization shown in the Schedule is...an insured, but only with respect to liability...THE CITY OF MINNEAPOLIS...807 BROADWAY REVIVAL, LLC AND HILLCREST DEVELOPMENT, LLLP...2424 KENNEDY ST NE...MINNEAPOLIS, MN 55413...BUSINESSOWNERSNBP1555904GPOLICY NUMBER...Name of Additional Insured Person(s) Or Organization(s) BP 04 48 01 06...",
+    "tables_and_figures": [
+      {
+        "type": "table",
+        "description": "Schedule of additional insured persons or organizations",
+        "content": "Name of Additional Insured Person(s) Or Organization(s)...THE CITY OF MINNEAPOLIS...350 SOUTH 5TH STREET"
+      }
+    ],
+    "key_information": {
+      "insured_property": "Additional insureds related to premises liabilities",
+      "coverage_details": "Liability for entities like the City of Minneapolis",
+      "dates": "10/05/2024",
+      "amounts": "Liability limits apply",
+      "addresses": "350 SOUTH 5TH STREET, MINNEAPOLIS, MN 55415"
+    },
+    "relationships": {
+      "continues_from_previous": "Premise liability terms from page 1",
+      "continues_to_next": "Further liability details and endorsements",
+      "references": "This page references other insured parties"
+    },
+    "document_structure": {
+      "section_title": "Additional Insured - Designated Person or Organization",
+      "subsections": [
+        "Liability Coverages",
+        "Exclusions"
+      ],
+      "page_type": "endorsement"
+    },
+    "analyzed_at": "2025-08-24T16:09:11.262224"
+  },
+  {
+    "page_number": 3,
+    "summary": "Details amendments to the common policy conditions, emphasizing primary and non-contributory terms.",
+    "full_text": "SECTION III - COMMON POLICY CONDITIONS...The coverage afforded by this policy to the persons or organization listed is primary and non-contributory...807 BROADWAY REVIVAL, LLC AND HILLCREST DEVELOPMENT, LLLP...Name of Person or Organization:...10/05/2024Effective Date...\nThisendorsement modifies insurance provided under the following: BUSINESSOWNERS COVERAGE FORM...",
+    "tables_and_figures": [
+      {
+        "type": "table",
+        "description": "Schedule of covered entities",
+        "content": "Name of Person or Organization: 807 BROADWAY REVIVAL, LLC AND HILLCREST DEVELOPMENT, LLLP 2424 KENNEDY ST NE"
+      }
+    ],
+    "key_information": {
+      "insured_property": "Broadway Revival and Hillcrest Development",
+      "coverage_details": "Primary and non-contributory coverage extended",
+      "dates": "10/05/2024",
+      "amounts": "Specific policy amounts not detailed",
+      "addresses": "2424 KENNEDY ST NE, MINNEAPOLIS, MN 55413"
+    },
+    "relationships": {
+      "continues_from_previous": "Liability and coverage endorsements",
+      "continues_to_next": "Safety measures and endorsements",
+      "references": "Revisions to common policy conditions"
+    },
+    "document_structure": {
+      "section_title": "Primary And Non-Contributory - Written Contract",
+      "subsections": [
+        "Amendments to Common Policy Conditions"
+      ],
+      "page_type": "endorsement"
+    },
+    "analyzed_at": "2025-08-24T16:09:11.262227"
+  },
+  {
+    "page_number": 4,
+    "summary": "The page focuses on specific exclusions from coverage, particularly for equipment breakdown and electrical disturbances.",
+    "full_text": "The coverage afforded by this policy...fails to notify us...Automatic Fire Alarm, protecting the entire building...Security Service, with a recording system or watch clock making hourly rounds...If part of an Automatic Sprinkler System is shut off...we will not pay for loss or damage caused by or resulting from equipment breakdown...",
+    "tables_and_figures": [
+      {
+        "type": "table",
+        "description": "Exclusions related to safety systems",
+        "content": "Exclusions for P-1, P-2, P-3, relating to equipment breakdown, electrical disturbance"
+      }
+    ],
+    "key_information": {
+      "insured_property": "Equipment and systems within insured premises",
+      "coverage_details": "Exclusions on equipment breakdown",
+      "dates": "None specific",
+      "amounts": "Exclusion based, no amounts detailed",
+      "addresses": "Safety conditions across all premises"
+    },
+    "relationships": {
+      "continues_from_previous": "Amendments regarding safety systems",
+      "continues_to_next": "Further details on exclusions",
+      "references": "Safety and operations continuity"
+    },
+    "document_structure": {
+      "section_title": "Protective Devices Or Services Provisions",
+      "subsections": [
+        "Equipment Breakdown",
+        "Electrical Disturbance"
+      ],
+      "page_type": "exclusions"
+    },
+    "analyzed_at": "2025-08-24T16:09:11.262229"
+  }
+]

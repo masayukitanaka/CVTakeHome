@@ -1,0 +1,57 @@
+[
+  {
+    "page_number": 1,
+    "summary": "This page details exclusion clauses regarding coverage from vandalism, burglary, and protective safeguards for specified 'P' properties. Conditions for coverage continuation after known safeguard issues are outlined.",
+    "full_text": "With respect to “P-3”, “P-7”and “P-15”, we will not pay for loss or damage caused by or resulting from vandalism, burglary, theft or any other act of stealing if, prior to the vandalism, burglary, theft or any other act of stealing, you: a. Knew of any suspension or impairment in any protective safeguard listed in the Schedule above and failed to notify us of that fact; or b. Failed to maintain any protective safeguard listed in the Schedule above, and over which you had control, in complete working order. With respect to “P-6” and “P-8” we will not pay for loss or damage caused by or resulting from “equipment breakdown”, electrical disturbance or expediting expenses as a result of an electrical disturbance if, prior to the “equipment breakdown” you: a. Knew of any suspension or impairment in any protective safeguard listed in the Schedule above and failed to notify us of that fact; or b. Failed to maintain any protective safeguard listed in the Schedule above, and over which you had control, in complete working order. With respect to “P-9” we will not pay for loss or damage caused by or resulting from “equipment breakdown”, spoilage or expediting expenses as a result of spoilage if, prior to the “equipment breakdown” you: a. Knew of any suspension or impairment in any protective safeguard listed in the Schedule above and failed to notify us of that fact; or b. Failed to maintain any protective safeguard listed in the Schedule above, and over which you had control, in complete working order. With respect to “P-21” we will not pay for loss or damage caused by or resulting from fire, vandalism, burglary, theft or any other act of stealing, “equipment breakdown”, electrical disturbance or expediting expenses as a result of an electrical disturbance, “equipment breakdown”, spoilage or expediting expenses as a result of spoilage, as applicable, if you: a. Knew of any suspension or impairment in any protective safeguard listed in the Schedule above and failed to notify us of that fact; or b. Failed to maintain any protective safeguard listed in the Schedule above, and over which you had control, in complete working order. All other terms and conditions of this policy remain unchanged. This endorsement is a part of your policy and takes effect on the effective date of your policy unless another effective date is shown.",
+    "tables_and_figures": [],
+    "key_information": {
+      "insured_property": null,
+      "coverage_details": "Exclusions for loss or damage due to vandalism, burglary, theft, equipment breakdown, and spoilage without maintenance of protective safeguards.",
+      "dates": null,
+      "amounts": null,
+      "addresses": null
+    },
+    "relationships": {
+      "continues_from_previous": "Discussions of policy exclusions",
+      "continues_to_next": "Further details on exclusions and endorsements",
+      "references": null
+    },
+    "document_structure": {
+      "section_title": "Protective Safeguards Endorsements",
+      "subsections": [
+        "Exclusions",
+        "Policy Terms"
+      ],
+      "page_type": "content"
+    },
+    "analyzed_at": "2025-08-24T16:07:08.340777"
+  },
+  {
+    "page_number": 2,
+    "summary": "This page includes definitions and exclusions for liability related to Perfluoroalkyl and Polyfluoroalkyl substances. It clarifies what constitutes these substances and details the rejection or acceptance of terrorism insurance coverage.",
+    "full_text": "Section II – Liability is amended as follows: A. The following is added to Paragraph B. Exclusions: This insurance does not apply to: Perfluoroalkyl And Polyfluoroalkyl Substances a. 'Bodily injury' or 'property damage' which would not have occurred, or 'personal and advertising injury' which would not have taken place, in whole or in part, but for the actual, alleged, threatened or suspected inhalation, ingestion, absorption, consumption, discharge, dispersal, seepage, migration, release or escape of, contact with, exposure to, existence of, or presence of, any 'perfluoroalkyl or polyfluoroalkyl substances'. b. Any loss, cost or expense arising, in whole or in part, out of the abating, testing for, monitoring, cleaning up, removing, containing, treating, detoxifying, neutralizing, remediating or disposing of, or in any way responding to or assessing the effects of, 'perfluoroalkyl or polyfluoroalkyl substances', by any insured or by any other person or entity. B. The following is added to Paragraph F. Liability And Medical Expenses Definitions: 'Perfluoroalkyl or polyfluoroalkyl substances' means any: 1. Chemical or substance that contains one or more alkyl carbons on which hydrogen atoms have been partially or completely replaced by fluorine atoms, including but not limited to: a. Polymer, oligomer, monomer or nonpolymer chemicals and their homologues, isomers, telomers, salts, derivatives, precursor chemicals, degradation products or by-products; b. Perfluoroalkyl acids (PFAA), such as perfluorooctanoic acid (PFOA) and its salts, or perfluorooctane sulfonic acid (PFOS) and its salts; c. Perfluoropolyethers (PFPE); d. Fluorotelomer-based substances; e. Side-chain fluorinated polymers; or 2. Good or product, including containers, materials, parts or equipment furnished in connection with such goods or products, that consists of or contains any chemical or substance described in Paragraph B.1. NOTICE OF TERRORISM EXCLUSION You were notified that under the federal Terrorism Risk Insurance Program Reauthorization Act of 2019 ('The Act'), that you had a right to purchase insurance coverage for losses arising out of acts of terrorism, as defined in Section 102(1) of the Act. You opted not to purchase this coverage. The War and/or Terrorism Exclusion that is a part of this policy is therefore in full force and effect.",
+    "tables_and_figures": [],
+    "key_information": {
+      "insured_property": null,
+      "coverage_details": "Liability exclusions for Perfluoroalkyl and Polyfluoroalkyl substances and terrorism insurance coverage",
+      "dates": null,
+      "amounts": null,
+      "addresses": null
+    },
+    "relationships": {
+      "continues_from_previous": "Liability provisions",
+      "continues_to_next": "Continuation of liability and exclusions",
+      "references": "Federal Terrorism Risk Insurance Program Reauthorization Act"
+    },
+    "document_structure": {
+      "section_title": "Exclusions and Definitions",
+      "subsections": [
+        "Liability Exclusions",
+        "Definition of Substances",
+        "Terrorism Exclusion"
+      ],
+      "page_type": "content"
+    },
+    "analyzed_at": "2025-08-24T16:07:08.340814"
+  }
+]

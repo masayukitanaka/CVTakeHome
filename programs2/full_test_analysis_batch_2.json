@@ -1,0 +1,124 @@
+[
+  {
+    "page_number": 5,
+    "summary": "This page provides a description of the premises and outlines the coverages provided by the insurance policy. It details the location, type of construction, protection class, and coverage limits for business income and personal property.",
+    "full_text": "DESCRIPTION OF PREMISES\nPrem Bldg Location, Construction, Occupancy and Other Information Territory Fire Code\n1 807 Broadway St Ne, Minneapolis, MN 55413\nCovered Causes of Loss: Special\nConstruction: Frame\n1\nProtection Class 6\n001 0757\nDescription: Non-Profit Directors and Officers\nSquare Footage:\nSpecial Deductible: None Special Deductible Type:\nCoinsurance % or \nMonthly Indemnity\nLimits of \nInsurance\nCOVERAGES PROVIDED - INSURANCE AT THE DESCRIBED PREMISES APPLIES ONLY FOR COVERAGES FOR WHICH A LIMIT OF INSURANCE IS SHOWN\nPrem Bldg Coverage + Valuation PremiumDeductible\n1 1 Business Income and Extra Expense $16,552 $0 Included\n1 1 Business Personal Property $5,000 $1,000 RC Included\nMINIMUM PREMIUM FOR PROPERTY COVERAGE PART: $50\nTOTAL PREMIUM FOR PROPERTY COVERAGE PART:\nMP - minimum premium\n+ Valuation: ACV - Actual Cash Value; RC - Replacement Cost; RC/ACV - Replacement Cost/ACV Roof\nFBV - Functional Building Value; AA - Agreed Amount; ALS - Actual Loss Sustained\n$50 MP\n12:01 STANDARD TIME\n10/05/2024Effective Date:NBP1555904G\nBUSINESSOWNERS PROPERTY COVERAGE PART DECLARATIONS\nPolicy No.\nCopyright, ISO Commercial Risk Services, Inc., 1983, 1984, 1988\nIncludes copyrighted material of ISO Commercial Risk Services, Inc., with its permission.",
+    "tables_and_figures": [
+      {
+        "type": "table",
+        "description": "Coverage details for the premises",
+        "content": "Prem Bldg Coverage + Valuation PremiumDeductible\n1 1 Business Income and Extra Expense $16,552 $0 Included\n1 1 Business Personal Property $5,000 $1,000 RC Included"
+      }
+    ],
+    "key_information": {
+      "insured_property": "807 Broadway St Ne, Minneapolis, MN 55413",
+      "coverage_details": "Special causes of loss, business income and extra expense $16,552, business personal property $5,000",
+      "dates": "Effective Date: 10/05/2024",
+      "amounts": "$16,552, $5,000",
+      "addresses": "807 Broadway St Ne, Minneapolis, MN 55413"
+    },
+    "relationships": {
+      "continues_from_previous": "Description of premises details.",
+      "continues_to_next": "Additional coverage details likely continue.",
+      "references": "References to coverages provided at the described premises."
+    },
+    "document_structure": {
+      "section_title": "Description of Premises",
+      "subsections": [],
+      "page_type": "content"
+    },
+    "analyzed_at": "2025-08-24T16:16:18.959779"
+  },
+  {
+    "page_number": 6,
+    "summary": "The page includes exclusions under Section I - Property and details several protective safeguards required for coverage. Conditions for automatic sprinkler systems and specific exclusions for electrical disturbances are stated.",
+    "full_text": "BP-115 Protective Devices Or Services Provisions07/08\n2) When supplied from an automatic fire protective system:\na) Non-automatic fire protective systems; and\nb) Hydrants, standpipes and outlets.\nb. “P-2” Automatic Fire Alarm, protecting the entire building, that is:\n1) Connected to a central station; or\n2) Reporting to a public or private fire alarm station.\nc. “P-3” Security Service, with a recording system or watch clock making hourly rounds covering the entire building, when the premises are not in actual operations.\nd. “P-4” Service Contract with a privately owned fire department providing fire protection service to the described premises.\ne. “P-5” Functioning and operational smoke/heat detectors in all units or occupancies.\nf. “P-6” All Electrical in on functioning and operational circuit breakers.\ng. “P-7” Functioning and operational central station burglar alarm with a monitoring contract.\nh. “P-8” Functioning and operational surge protectors on all computer and audio-video equipment.\ni. “P-9” Refrigeration maintenance contract on all refrigeration equipment.\nj. “P-10” Functioning and operational automatic fire suppression system per NFPA #96 on all cooking equipment.\nThe following is added to Paragraph B. Exclusions in Section I - Property:\nWith respects to “P-1”, “P-2”, “P-3”, “P-4”. “P-5”, “P-6”, “P-8”, “P-10”, “P-16”, “P-17”, and “P-18”, we will not pay for loss or damage caused by or resulting from fire if, prior to the fire, you:\np. Knew of any suspension or impairment in any protective safeguard listed in the Schedule above and failed to notify us of that fact; or\nq. Failed to maintain any protective safeguard listed in the Schedule above, and over which you had control, in complete working order.\nIf part of an Automatic Sprinkler System is shut off due to breakage, leakage, freezing conditions or opening of sprinkler heads, notification to us will not be necessary if you can restore full protection within 48 hours.",
+    "tables_and_figures": [
+      {
+        "type": "list",
+        "description": "List of protective safeguard descriptions",
+        "content": "P-2 Automatic Fire Alarm, P-3 Security Service, P-4 Service Contract, P-5 Smoke/heat detectors, P-6 Electrical systems, P-7 Burglar alarm, P-8 Surge protectors, P-9 Refrigeration maintenance, P-10 Fire suppression system"
+      }
+    ],
+    "key_information": {
+      "insured_property": null,
+      "coverage_details": "Protective safeguards required for coverage to apply",
+      "dates": null,
+      "amounts": null,
+      "addresses": null
+    },
+    "relationships": {
+      "continues_from_previous": "Details about property conditions and safeguards.",
+      "continues_to_next": "Exclusions and further details likely continue.",
+      "references": "References to exclusions in property section."
+    },
+    "document_structure": {
+      "section_title": "Protective Devices Or Services Provisions",
+      "subsections": [
+        "Exclusions"
+      ],
+      "page_type": "content"
+    },
+    "analyzed_at": "2025-08-24T16:16:18.959795"
+  },
+  {
+    "page_number": 7,
+    "summary": "The page lists various endorsements applying to the policy detailing exclusions and limits related to specific coverage conditions. It includes terrorism exclusions and certified acts of terrorism.",
+    "full_text": "BP-101 Exclusion of Certified Acts of Terrorism (Coverage for Certain Fire Losses)\n12/20\nBP-107 Actual Cash Value Definition04/08\nBP-11 Exclusion - Fiduciary Liability And Financial Services05/04\nBP-115 Protective Devices Or Services Provisions07/08\nBP-15 Business Income And Extra Expense Limit07/04\nBP-152 Separation Of Insureds Clarification Endorsement08/10\nBP-165 Exclusion - Specific Activities, Events or Conditions or Over 2,500 People\n05/18\nBP-168 Exclusion - Injury To Performers Or Entertainers11/11\nBP-172 Primary And Non-Contributory - Written Contract10/13\nBP-179 NBP Amendment of Liquor Liability Exclusion12/17\nBP-193 Limits Of Insurance Under Multiple Coverage Parts08/14\nBP-40 Molestation Or Abuse Exclusion03/11\nBP-48 Exclusion Asbestos, Lead Contamination, Absolute Pollution, Mold, Fungus, Bacteria, Virus And Organic Pathogen\n05/16\nBP-49 Absolute Exclusion For Pollution, Organic Pathogen, Silica, Asbestos And Lead\n01/13\nBP-500 Bodily Injury Exclusion - All Employees, Volunteer Workers, Temporary Workers, Casual Laborers, Contractors and Subcontractors\n11/18\nBP-58 Animal Exclusion05/07\nBP-59 Exclusion - Athletic Activity Or Sport Participants02/13\nBP-60 Exclusion For Bleacher Collapse05/07\nBP-65 Exclusion For Mechanical Rides05/07\nBP-88 Expanded Definition Of Bodily Injury04/06\nBP-90 Amended Definition11/10\nBP-95 Exclusion For Climbing, Rebounding And Interactive Games And Devices\n05/07\nBP-96 Exclusion For Firearms, Fireworks And Other Pyrotechnic Devices05/07\nBP-97 Exclusion For Event Vendor/Exhibitor & Contractor05/07\nBP0003 Businessowners Coverage Form01/10\nBP0125 Minnesota Changes01/10\nBP0402 Additional Insured - Managers Or Lessors Of Premises01/06\nBP0417 Employment-Related Practices Exclusion01/10\nBP0448 Additional Insured - Designated Person Or Organization01/06\nBP0497 Waiver Of Transfer Of Rights Of Recovery Against Others To Us01/06\nBP1505 Exclusion - Access Or Disclosure Of Confidential Or Personal Information And Data -Related Liability - Limited Bodily Injury Exception Not Included\n05/14\nBP1560 Cyber Incident Exclusion02/21\nFORMS AND ENDORSEMENTS\nEXTENSION OF DECLARATIONS\nPolicy No. NBP1555904G Effective Date: 10/05/2024\n12:01 AM STANDARD TIME AT YOUR MAILING ADDRESS\nAll other terms and conditions remain unchanged.",
+    "tables_and_figures": [
+      {
+        "type": "list",
+        "description": "List of endorsement codes and descriptions.",
+        "content": "BP-101, BP-107, BP-11, BP-115, BP-15, BP-152, BP-165, BP-168, BP-172, BP-179, BP-193, BP-40, BP-48, BP-49, BP-500, BP-58, BP-59, BP-60, BP-65, BP-88, BP-90, BP-95, BP-96, BP-97, BP0003, BP0125, BP0402, BP0417, BP0448, BP0497, BP1505, BP1560"
+      }
+    ],
+    "key_information": {
+      "insured_property": null,
+      "coverage_details": "List of exclusions and endorsements applicable to the policy.",
+      "dates": "Effective Date: 10/05/2024",
+      "amounts": null,
+      "addresses": null
+    },
+    "relationships": {
+      "continues_from_previous": "Details on exclusions and endorsements.",
+      "continues_to_next": "Further endorsement details may follow.",
+      "references": "References to policy number and effective date."
+    },
+    "document_structure": {
+      "section_title": "Forms and Endorsements",
+      "subsections": [],
+      "page_type": "content"
+    },
+    "analyzed_at": "2025-08-24T16:16:18.959797"
+  },
+  {
+    "page_number": 8,
+    "summary": "This page concludes the extension of declarations for forms and endorsements, detailing exclusions for certain substances, events, and other specific conditions including terrorism and cyber incidents.",
+    "full_text": "BP-97 Exclusion For Event Vendor/Exhibitor & Contractor05/07\nBP0003 Businessowners Coverage Form01/10\nBP0125 Minnesota Changes01/10\nBP0402 Additional Insured - Managers Or Lessors Of Premises01/06\nBP0417 Employment-Related Practices Exclusion01/10\nBP0448 Additional Insured - Designated Person Or Organization01/06\nBP0497 Waiver Of Transfer Of Rights Of Recovery Against Others To Us01/06\nBP1505 Exclusion - Access Or Disclosure Of Confidential Or Personal Information And Data -Related Liability - Limited Bodily Injury Exception Not Included\n05/14\nBP1560 Cyber Incident Exclusion02/21\nFORMS AND ENDORSEMENTS\nEXTENSION OF DECLARATIONS\nPolicy No. NBP1555904G Effective Date: 10/05/2024\n12:01 AM STANDARD TIME AT YOUR MAILING ADDRESS\nAll other terms and conditions remain unchanged.EOD (01/95) Page of1 2\nEndorsements marked with an asterisk (*) have been added to this policy or have a new edition date and are attached with this certificate.\nJacket Policy Jacket07/19\nNotice-\nCyberIncidentExcl-\nBP\nCyber Incident Exclusion Endorsement - Advisory Notice to Policyholder01/21\nNTE Notice of Terrorism Exclusion12/20\nAll other terms and conditions remain unchanged.EOD (01/95) Page of2 2",
+    "tables_and_figures": [
+      {
+        "type": "list",
+        "description": "Continuation list of endorsement codes and descriptions.",
+        "content": "BP-97, BP0003, BP0125, BP0402, BP0417, BP0448, BP0497, BP1505, BP1560"
+      }
+    ],
+    "key_information": {
+      "insured_property": null,
+      "coverage_details": "Details on additional endorsements and policies regarding various exclusions.",
+      "dates": "Effective Date: 10/05/2024",
+      "amounts": null,
+      "addresses": null
+    },
+    "relationships": {
+      "continues_from_previous": "Continuation of the list of endorsements and exclusions.",
+      "continues_to_next": "Document may conclude or continue to other administrative sections.",
+      "references": "References prior pages."
+    },
+    "document_structure": {
+      "section_title": "Extension of Declarations",
+      "subsections": [],
+      "page_type": "content"
+    },
+    "analyzed_at": "2025-08-24T16:16:18.959798"
+  }
+]

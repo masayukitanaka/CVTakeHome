@@ -1,0 +1,90 @@
+[
+  {
+    "page_number": 1,
+    "summary": "The page includes the endorsement changes for a business owners' policy and details additional insured persons such as 807 Broadway Revival, LLC.",
+    "full_text": "However, the coverage provided by this endorsement does not apply to any coverage provided for an “auto” on a “non-owned auto”, “hired auto”, uninsured motorists coverage, underinsured motorists coverage, personal injury protection, property protection or similar no-fault coverage by whatever name called and/or an “auto” coverage of any type. All other terms and conditions of this policy remain unchanged. This endorsement is a part of your policy and takes effect on the effective date of your policy unless another effective date is shown. This endorsement modifies insurance provided under the following: BUSINESSOWNERS COVERAGE FORM UNITED STATES LIABILITY INSURANCE GROUP WAYNE, PENNSYLVANIA Primary And Non-Contributory - Written Contract BP 172 (10-13) Page 1 of 1 807 BROADWAY REVIVAL, LLC AND HILLCREST DEVELOPMENT, LLLP 2424 KENNEDY ST NE MINNEAPOLIS, MN 55413 10/05/2024 Effective Date: Name of Person or Organization (Additional Insured): Designation of Premises (Part Leased To You) POLICY NUMBER: NBP1555904G BP 04 02 01 06 BUSINESSOWNERS THIS ENDORSEMENT CHANGES THE POLICY. PLEASE READ IT CAREFULLY. This endorsement modifies insurance provided under the following: BUSINESSOWNERS COVERAGE FORM SCHEDULE ADDITIONAL INSURED - MANAGERS OR LESSORS OF PREMISES Copyright, ISO Properties, Inc., 2004 Page 1 of 1 BP 04 02 01 06 *Information required to complete this Schedule, if not shown above, will be shown in the Declarations.",
+    "tables_and_figures": [
+      {
+        "type": "table",
+        "description": "Schedule Table",
+        "content": "Name of Person or Organization (Additional Insured): 807 BROADWAY REVIVAL, LLC AND HILLCREST DEVELOPMENT, LLLP Location: 2424 KENNEDY ST NE, MINNEAPOLIS, MN, 55413, Effective Date: 10/05/2024"
+      }
+    ],
+    "key_information": {
+      "insured_property": "Partial lease premises at 2424 KENNEDY ST NE, MINNEAPOLIS, MN",
+      "coverage_details": "Businessowners liability coverage, additional insured managers or lessors of premises",
+      "dates": "Effective Date: 10/05/2024",
+      "amounts": "Not specified on this page",
+      "addresses": "807 BROADWAY REVIVAL, LLC AND HILLCREST DEVELOPMENT, LLLP, 2424 KENNEDY ST NE, MINNEAPOLIS, MN, THE CITY OF MINNEAPOLIS, 350 SOUTH 5TH STREET, MINNEAPOLIS, MN 55415"
+    },
+    "relationships": {
+      "continues_from_previous": "Introductory and coverage details",
+      "continues_to_next": "Further exclusions and endorsements",
+      "references": "Refers to businessowners coverage form and additional designation for liability"
+    },
+    "document_structure": {
+      "section_title": "Businessowners Coverage Form",
+      "subsections": [
+        "Endorsements",
+        "Schedule",
+        "Exclusions"
+      ],
+      "page_type": "content"
+    },
+    "analyzed_at": "2025-08-24T16:03:01.604722"
+  },
+  {
+    "page_number": 2,
+    "summary": "Additional exclusions are specified in relation to coverage for certain properties and liabilities, primarily exemptions from vandalism, theft, and protective safeguard maintenance.",
+    "full_text": "With respect to 'P-3', 'P-7' and 'P-15', we will not pay for loss or damage caused by or resulting from vandalism, burglary, theft or any other act of stealing if, prior to the vandalism, burglary, theft or any other act of stealing, you: a. Knew of any suspension or impairment in any protective safeguard listed in the Schedule above and failed to notify us of that fact; or b. Failed to maintain any protective safeguard listed in the Schedule above, and over which you had control, in complete working order. With respect to 'P-6' and 'P-8' we will not pay for loss or damage caused by or resulting from 'equipment breakdown', electrical disturbance or expediting expenses as a result of an electrical disturbance if, prior to the 'equipment breakdown' you: a. Knew of any suspension or impairment in any protective safeguard listed in the Schedule above and failed to notify us of that fact; or b. Failed to maintain any protective safeguard listed in the Schedule above, and over which you had control, in complete working order. Includes copyrighted material of Insurance Services Office, Inc. reprinted with permission",
+    "tables_and_figures": [],
+    "key_information": {
+      "insured_property": "Multiple property components listed as protected safeguards",
+      "coverage_details": "Excludes cover for vandalism and electrical disturbances if safeguards are not maintained",
+      "dates": "Not specified",
+      "amounts": "Not specified on this page",
+      "addresses": "Not specified"
+    },
+    "relationships": {
+      "continues_from_previous": "Exclusions and modifications",
+      "continues_to_next": "Exclusions for additional risings and operational contexts",
+      "references": "Protective safeguard and operational exclusions"
+    },
+    "document_structure": {
+      "section_title": "Protective Safeguard Requirements",
+      "subsections": [
+        "Coverage Conditions",
+        "Policy Exclusions"
+      ],
+      "page_type": "content"
+    },
+    "analyzed_at": "2025-08-24T16:03:01.604770"
+  },
+  {
+    "page_number": 3,
+    "summary": "Final notes on exclusions mentioning conditions under which coverage is limited or not applicable, particularly with regard to protective devices and certain perils.",
+    "full_text": "All other terms and conditions of this policy remain unchanged. This endorsement is a part of your policy and takes effect on the effective date of your policy unless another effective date is shown. 807 BROADWAY REVIVAL, LLC AND HILLCREST DEVELOPMENT, LLLP 2424 KENNEDY ST NE MINNEAPOLIS, MN 55413 10/05/2024 Effective Date: Name of Person or Organization: SECTION III - COMMON POLICY CONDITIONS, Paragraph H. OTHER INSURANCE, is amended with the addition of the following: The coverage afforded by this policy to the person(s) or organization(s) listed above is primary and non-contributory if: 1. This insurance is required to be primary or non-contributory under a written contract: and 2. The loss to be covered occurs on or after the effective date of the written contract; and 3. The loss to be covered resulted solely and exclusively from your ongoing acts or omissions or 4. The person(s) or organization(s) listed above is an additional insured under this policy.",
+    "tables_and_figures": [],
+    "key_information": {
+      "insured_property": "Primary and non-contributory coverage applicable under specific conditions",
+      "coverage_details": "Primary and non-contributory clauses",
+      "dates": "Effective Date: 10/05/2024",
+      "amounts": "Not specified on this page",
+      "addresses": "807 BROADWAY REVIVAL, LLC AND HILLCREST DEVELOPMENT, LLLP, 2424 KENNEDY ST NE, MINNEAPOLIS, MN"
+    },
+    "relationships": {
+      "continues_from_previous": "Protective safeguards and exclusions",
+      "continues_to_next": "Not specified",
+      "references": "COMMON POLICY CONDITIONS adjustments"
+    },
+    "document_structure": {
+      "section_title": "Common Policy Conditions",
+      "subsections": [
+        "Insurance Requirements",
+        "Listed Entities"
+      ],
+      "page_type": "content"
+    },
+    "analyzed_at": "2025-08-24T16:03:01.604773"
+  }
+]

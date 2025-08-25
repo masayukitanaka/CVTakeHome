@@ -1,0 +1,78 @@
+[
+  {
+    "page_number": 1,
+    "summary": "This page contains the header for Policy Number NBP1555904G and addresses relating to 807 BROADWAY REVIVAL, LLC and HILLCREST DEVELOPMENT, LLLP. It includes details of a waiver of transfer rights of recovery and exclusion details for Perfluoroalkyl and Polyfluoroalkyl substances.",
+    "full_text": "807 BROADWAY REVIVAL, LLC AND HILLCREST DEVELOPMENT, LLLP\n2424 KENNEDY ST NE\nMINNEAPOLIS, MN 55413\n10/05/2024Effective Date:\nName of Person Or Organization:\nNBP1555904GPOLICY NUMBER: BP 04 97 01 06\nBUSINESSOWNERS\nWAIVER OF TRANSFER OF RIGHTS OF RECOVERY AGAINST OTHERS TO US\nThis endorsement modifies insurance provided under the following:\nBUSINESSOWNERS COVERAGE FORM\nSCHEDULE\nISO Properties, Inc.,  2004BP 04 97 01 06\nInformation required to complete this Schedule, if not shown above, will be shown in the Declarations.\nParagraph K. Transfer Of Rights Of Recovery Against Others To Us in Section III - Common Policy Conditions is amended by the addition of the following: \nWe waive any right of recovery we may have against the person or organization shown in the Schedule above because of payments we make for injury or damage arising out of your ongoing operations or \"your work\" done under a contract with that person or organization and included in the \"products-completed operations hazard\". This waiver applies only to the person or organization shown in the Schedule above.",
+    "tables_and_figures": [],
+    "key_information": {
+      "insured_property": "807 BROADWAY REVIVAL, LLC AND HILLCREST DEVELOPMENT, LLLP",
+      "coverage_details": "Waiver of Transfer of Rights of Recovery",
+      "dates": "10/05/2024",
+      "amounts": null,
+      "addresses": "2424 KENNEDY ST NE, MINNEAPOLIS, MN 55413"
+    },
+    "relationships": {
+      "continues_from_previous": null,
+      "continues_to_next": "Introduction of specific substance exclusions continue on the next page.",
+      "references": "Policy Number NBP1555904G is referenced on subsequent pages."
+    },
+    "document_structure": {
+      "section_title": "Waiver of Transfer of Rights of Recovery",
+      "subsections": [
+        "Amended Conditions"
+      ],
+      "page_type": "content"
+    },
+    "analyzed_at": "2025-08-24T16:14:19.831402"
+  },
+  {
+    "page_number": 2,
+    "summary": "The page details exclusions for insurance coverage specifically targeting substances like Perfluoroalkyl and Polyfluoroalkyl substances. It further defines these substances and the scope of the policy exclusions.",
+    "full_text": "BP 15 91 12 23 © Insurance Services Office, Inc., 2023  Page 1 of 1\nEXCLUSION – PERFLUOROALKYL AND POLYFLUOROALKYL SUBSTANCES (PFAS)\nThis endorsement modifies insurance provided under the following: \nBUSINESSOWNERS COVERAGE FORM\nSection II – Liability is amended as follows:  \nA. The following is added to Paragraph B. Exclusions: This insurance does not apply to: Perfluoroalkyl And Polyfluoroalkyl Substances  \na. \"Bodily injury\" or \"property damage\" which would not have occurred, or \"personal and advertising injury\" which would not have taken place, in whole or in part, but for the actual, alleged, threatened or suspected inhalation, ingestion, absorption, consumption, discharge, dispersal, seepage, migration, release or escape of, contact with, exposure to, existence of, or presence of, any \"perfluoroalkyl or polyfluoroalkyl substances\". \n b. Any loss, cost or expense arising, in whole or in part, out of the abating, testing for, monitoring, cleaning up, removing, containing, treating, detoxifying, neutralizing, remediating or disposing of, or in any way responding to or assessing the effects of, \"perfluoroalkyl or polyfluoroalkyl substances\", by any insured or by any other person or entity. \nB. The following is added to Paragraph F. Liability And Medical Expenses Definitions: \"Perfluoroalkyl or polyfluoroalkyl substances\" means any:  \n1. Chemical or substance that contains one or more alkyl carbons on which hydrogen atoms have been partially or completely replaced by fluorine atoms, including but not limited to: \na. Polymer, oligomer, monomer or nonpolymer chemicals and their homologues, isomers, telomers, salts, derivatives, precursor chemicals, degradation products or by-products;",
+    "tables_and_figures": [],
+    "key_information": {
+      "insured_property": null,
+      "coverage_details": "Exclusion of Perfluoroalkyl and Polyfluoroalkyl Substances",
+      "dates": null,
+      "amounts": null,
+      "addresses": null
+    },
+    "relationships": {
+      "continues_from_previous": "Introduction of specific substance exclusions.",
+      "continues_to_next": "Further details of substance definitions.",
+      "references": null
+    },
+    "document_structure": {
+      "section_title": "Exclusions for Specific Substances",
+      "subsections": [
+        "Definitions of Substances"
+      ],
+      "page_type": "content"
+    },
+    "analyzed_at": "2025-08-24T16:14:19.831430"
+  },
+  {
+    "page_number": 3,
+    "summary": "This page continues the detailed definition of Perfluoroalkyl and Polyfluoroalkyl substances included in the exclusions. It provides chemical and substance descriptions and further reinforces the non-applicability of insurance in relation to these substances.",
+    "full_text": "b. Perfluoroalkyl acids (PFAA), such as perfluorooctanoic acid (PFOA) and its salts, or perfluorooctane sulfonic acid (PFOS) and its salts; \nc. Perfluoropolyethers (PFPE); \nd. Fluorotelomer-based substances; or \ne. Side-chain fluorinated polymers; or \n2. Good or product, including containers, materials, parts or equipment furnished in connection with such goods or products, that consists of or contains any chemical or substance described in Paragraph B.1. \nBP 15 91 12 23 CONTENTS \nThe above exclusions are part of standard liability and medical coverage terms offered by the insurance provider, emphasizing non-liability for claims related to PFAS.",
+    "tables_and_figures": [],
+    "key_information": {
+      "insured_property": null,
+      "coverage_details": "Detailed exclusions of specific substances",
+      "dates": null,
+      "amounts": null,
+      "addresses": null
+    },
+    "relationships": {
+      "continues_from_previous": "Continuation of substance details from previous page.",
+      "continues_to_next": null,
+      "references": null
+    },
+    "document_structure": {
+      "section_title": "Detailed Substance Definitions",
+      "subsections": null,
+      "page_type": "content"
+    },
+    "analyzed_at": "2025-08-24T16:14:19.831433"
+  }
+]

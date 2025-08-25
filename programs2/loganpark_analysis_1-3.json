@@ -1,0 +1,89 @@
+[
+  {
+    "page_number": 1,
+    "summary": "This page provides the business description, renewal certificate, and premium details for the insurance policy belonging to Logan Park Neighborhood Association.",
+    "full_text": "FORM OF BUSINESS: BUSINESS DESCRIPTION: 12:01 A.M. STANDARD TIME AT YOUR MAILING ADDRESS SHOWN ABOVE IN CONSIDERATION OF THE RENEWAL PREMIUM STATED BELOW, EXPIRING POLICY NUMBER NBP1555904F IS RENEWED THIS POLICY CONSISTS OF THE FOLLOWING COVERAGE PARTS FOR WHICH A PREMIUM IS INDICATED. NAMED INSURED AND ADDRESS: Renewal of Number POLICY DECLARATIONS 10/05/2024 10/05/2025 Non-Profit Corporation Non-Profit Directors and Officers *** RENEWAL CERTIFICATE *** United States Liability Insurance Company 1190 Devon Park Drive, Wayne, Pennsylvania 19087 A Member Company of United States Liability Insurance Group Agent: TWIN CITY GROUP (4317) 4500 Park Glen Road, Suite 400 Minneapolis, MN 55416 Issued: 08/23/2024 1:53 PM By: THIS PREMIUM MAY BE SUBJECT TO ADJUSTMENT. Direct Bill Policy FOR THE POLICY PERIOD STATED ABOVE. PLEASE ATTACH THIS RENEWAL CERTIFICATE TO YOUR EXPIRING POLICY. PREMIUM Businessowners Liability Coverage Part $411.00 Businessowners Property Coverage Part $50.00 Fire Safety Surcharge $0.33 TOTAL: $461.33 UPC (08-07) THESE DECLARATIONS TOGETHER WITH THE COMMON POLICY CONDITIONS, COVERAGE PART DECLARATIONS, COVERAGE PART COVERAGE FORM(S) AND FORMS AND ENDORSEMENTS, IF ANY, ISSUED TO FORM A PART THEREOF, COMPLETE THE ABOVE NUMBERED POLICY. Page 1 of 1",
+    "tables_and_figures": [],
+    "key_information": {
+      "insured_property": "Logan Park Neighborhood Association",
+      "coverage_details": "Businessowners Liability Coverage Part",
+      "dates": "10/05/2024 - 10/05/2025",
+      "amounts": "Total Premium: $461.33",
+      "addresses": "807 Broadway St Ne, Minneapolis, MN 55413"
+    },
+    "relationships": {
+      "continues_from_previous": "This is a renewal of the previous policy.",
+      "continues_to_next": "The policy discusses endorsements and exclusions on subsequent pages.",
+      "references": "References to the policy number NBP1555904G."
+    },
+    "document_structure": {
+      "section_title": "POLICY DECLARATIONS",
+      "subsections": [
+        "Renewal Certificate",
+        "Premium Details"
+      ],
+      "page_type": "content"
+    },
+    "analyzed_at": "2025-08-24T15:53:33.525259"
+  },
+  {
+    "page_number": 2,
+    "summary": "Lists various policy endorsements and exclusions applicable to different coverage parts, including those for terrorism, bodily injury, and others.",
+    "full_text": "BP-101 Exclusion of Certified Acts of Terrorism (Coverage for Certain Fire Losses) 12/20 BP-107 Actual Cash Value Definition04/08 BP-11 Exclusion - Fiduciary Liability And Financial Services05/04 BP-115 Protective Devices Or Services Provisions07/08 BP-15 Business Income And Extra Expense Limit07/04 BP-152 Separation Of Insureds Clarification Endorsement08/10 BP-165 Exclusion - Specific Activities, Events or Conditions or Over 2,500 People 05/18 BP-168 Exclusion - Injury To Performers Or Entertainers11/11 BP-172 Primary And Non-Contributory - Written Contract10/13 BP-179 NBP Amendment of Liquor Liability Exclusion12/17 BP-193 Limits Of Insurance Under Multiple Coverage Parts08/14 BP-40 Molestation Or Abuse Exclusion03/11 BP-48 Exclusion Asbestos, Lead Contamination, Absolute Pollution, Mold, Fungus, Bacteria, Virus And Organic Pathogen05/16 BP-49 Absolute Exclusion For Pollution, Organic Pathogen, Silica, Asbestos And Lead01/13 BP-500 Bodily Injury Exclusion - All Employees, Volunteer Workers, Temporary Workers, Casual Laborers, Contractors and Subcontractors11/18 BP-58 Animal Exclusion05/07 BP-59 Exclusion - Athletic Activity Or Sport Participants02/13 BP-60 Exclusion For Bleacher Collapse05/07 BP-65 Exclusion For Mechanical Rides05/07 BP-88 Expanded Definition Of Bodily Injury04/06 BP-90 Amended Definition11/10 BP-95 Exclusion For Climbing, Rebounding And Interactive Games And Devices05/07 BP-96 Exclusion For Firearms, Fireworks And Other Pyrotechnic Devices05/07 BP-97 Exclusion For Event Vendor/Exhibitor & Contractor05/07 BP0003 Businessowners Coverage Form01/10 BP0125 Minnesota Changes01/10 BP0402 Additional Insured - Managers Or Lessors Of Premises01/06 BP0417 Employment-Related Practices Exclusion01/10 BP0448 Additional Insured - Designated Person Or Organization01/06 BP0497 Waiver Of Transfer Of Rights Of Recovery Against Others To Us01/06 BP1505 Exclusion - Access Or Disclosure Of Confidential Or Personal Information And Data -Related Liability - Limited Bodily Injury Exception Not Included 05/14 BP1560 Cyber Incident Exclusion02/21 FORMS AND ENDORSEMENTS EXTENSION OF DECLARATIONS Policy No. NBP1555904G Effective Date: 10/05/2024 12:01 AM STANDARD TIME AT YOUR MAILING ADDRESS All other terms and conditions remain unchanged.EOD (01/95) Page 1 of 2 Endorsements marked with an asterisk (*) have been added to this policy or have a new edition date and are attached with this certificate.",
+    "tables_and_figures": [],
+    "key_information": {
+      "insured_property": null,
+      "coverage_details": "Various exclusions and endorsements on policy",
+      "dates": "Effective Date: 10/05/2024",
+      "amounts": null,
+      "addresses": null
+    },
+    "relationships": {
+      "continues_from_previous": "Continuation of policy endorsement details.",
+      "continues_to_next": "Further exclusions and conditions likely detailed in following pages.",
+      "references": "References several BP (Businessowners Policy) forms."
+    },
+    "document_structure": {
+      "section_title": "FORMS AND ENDORSEMENTS",
+      "subsections": [
+        "Exclusions",
+        "Extensions of Declarations"
+      ],
+      "page_type": "content"
+    },
+    "analyzed_at": "2025-08-24T15:53:33.525309"
+  },
+  {
+    "page_number": 3,
+    "summary": "Details liability coverage limits, locations of premises, and computation of premiums, with specific conditions related to protective devices.",
+    "full_text": "LOSS PAYABLE(S): NONE See Endorsement EOD (01/95) Coverage Form(s)/Part(s) and Endorsement(s) made a part of this policy at time of issue: Coverage Form(s)/Part(s) and Endorsement(s) made a part of this policy at time of issue: See Form EOD (01/95) LIMITS OF INSURANCE Liability and Medical Expenses $1,000,000 Medical Expense (per person) $5,000 Damages To Premises Rented To You (Any One Premises) $100,000 LIABILITY DEDUCTIBLE $0 An Aggregate Limit of Liability applies to this Coverage as defined in SECTION II - LIABILITY, paragraph D.4. of the Businessowners Coverage Form. LOCATIONS OF ALL PREMISES YOU OWN, RENT OR OCCUPY Location Address Territory 1 807 Broadway St Ne, Minneapolis, MN 55413 001 PREMIUM COMPUTATION Rate Advance Premium Loc Classification Code No. Premium Basis Pr/Co All Other Pr/Co All Other 1 Membership Organization (Charity) - no premises owned or leased - Not-for-Profit only 41670 14 Per Members 0.000 1.482 $0 $21 1 Waiver of Rights of Recovery 49956 If Any 0.000 0.000 Included Included 1 Additional Insured - Designated Person 49950 1 Per Additional Insured 0.000 50.000 $0 $50 1 Blanket Special Events Liability - Non-Profit Organizations 00041 Flat 0.000 240.000 $0 $240 1 Additional Insured - Managers or Lessors of Premises 49950 1 Per Additional Insured 0.000 50.000 $0 $50 1 Primary and Non-Contributory - Written Contract 44448 1 Person Or Organization 0.000 50.000 $0 $50 MINIMUM PREMIUM FOR GENERAL LIABILITY COVERAGE PART: $345 TOTAL PREMIUM FOR GENERAL LIABILITY COVERAGE PART: (This Premium may be subject to adjustment.) $411 MP - minimum premium NBP1555904G BUSINESSOWNERS GENERAL LIABILITY COVERAGE PART DECLARATIONS Effective Date: 10/05/2024 12:01 STANDARD TIME Policy No. Copyright, ISO Commercial Risk Services, Inc., 1983, 1984, 1988 Includes copyrighted material of ISO Commercial Risk Services, Inc., with its permission. THESE DECLARATIONS ARE PART OF THE POLICY DECLARATIONS CONTAINING THE NAME OF THE INSURED AND THE POLICY PERIOD. BPL150 (02/09) Page 1 Of 1 This page has been intentionally left blank. PROTECTIVE DEVICES OR SERVICES PROVISIONS SCHEDULE The following is added to the policy: A. Protective Safeguards 1. You are required to have and maintain the protective devices or services listed in the Schedule above. 2. The protective safeguards to which this endorsement applies are identified by the following symbols: a. “P-1” Automatic Sprinkler System, including related supervisory services. Automatic Sprinkler System means: 1) Any automatic fire protective or extinguishing system, including connected: a) Sprinklers and discharge nozzles; b) Ducts, pipes, valves and fittings; c) Tanks, their components parts and supports; and d) Pumps and private fire protection mains. 2) When supplied from an automatic fire protective system: a) Non-automatic fire protective systems; and b) Hydrants, standpipes and outlets. b. “P-2” Automatic Fire Alarm, protecting the entire building, that is: 1) Connected to a central station; or 2) Reporting to a public or private fire alarm station.",
+    "tables_and_figures": [
+      {
+        "type": "table",
+        "description": "Premium computation and protection classes for various coverage elements.",
+        "content": "Location Address: 1 807 Broadway St Ne, Minneapolis, MN 55413, Territory: 001; Classification Code 41670: ‘Membership Organization’ with base rate 1.482 and premium $21; Code 49950: Additional Insured, premium $50; Total Premium $411."
+      }
+    ],
+    "key_information": {
+      "insured_property": "807 Broadway St Ne, Minneapolis, MN 55413",
+      "coverage_details": "Liability and medical expenses coverage details",
+      "dates": "Effective Date: 10/05/2024",
+      "amounts": "Liability limits: $1,000,000; Premium total: $411",
+      "addresses": "807 Broadway St Ne, Minneapolis, MN 55413"
+    },
+    "relationships": {
+      "continues_from_previous": "Continues details of coverage parts and endorsements.",
+      "continues_to_next": "Further policy conditions and terms likely on the following pages.",
+      "references": "References ISO’s provisions and liability conditions."
+    },
+    "document_structure": {
+      "section_title": "GENERAL LIABILITY COVERAGE PART DECLARATIONS",
+      "subsections": [
+        "Premium Computation",
+        "Protective Devices"
+      ],
+      "page_type": "content"
+    },
+    "analyzed_at": "2025-08-24T15:53:33.525312"
+  }
+]

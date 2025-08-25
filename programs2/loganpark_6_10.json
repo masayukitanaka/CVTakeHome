@@ -1,0 +1,165 @@
+[
+  {
+    "page_number": 1,
+    "summary": "This page details endorsements for additional insured managers or lessors under a businessowners coverage form, listing the premises and exclusions for liability.",
+    "full_text": "This endorsement modifies insurance provided under the following: BUSINESSOWNERS COVERAGE FORM: SCHEDULE ADDITIONAL INSURED - MANAGERS OR LESSORS OF PREMISES *Information required to complete this Schedule, if not shown above, will be shown in the Declarations. A. The following is added to Paragraph C. WHO IS AN INSURED in Section II - Liability: 3. The person or organization shown in the Schedule is also an insured, but only with respect to liability arising out of the ownership, maintenance or use of that part of the premises leased to you and shown in the Schedule. B. The following exclusions are added to Section II - Liability: This insurance does not apply to: 1. Any \"occurrence\" that takes place after you cease to be a tenant in the premises described in the Schedule. 2. Structural alterations, new construction or demolition operations performed by or for the person or organization designated in the Schedule. *Information required to complete this Schedule, if not shown above, will be shown in the Declarations. BP 04 02 01 06, © ISO Properties, Inc., 2004 Page 1 of 1.",
+    "tables_and_figures": [],
+    "key_information": {
+      "insured_property": "Additional Insured - Managers or Lessors of Premises",
+      "coverage_details": "Liability exclusion begins after tenancy ceases.",
+      "dates": "10/05/2024 Effective Date.",
+      "amounts": "None specified.",
+      "addresses": "350 SOUTH 5TH STREET, MINNEAPOLIS, MN 55415"
+    },
+    "relationships": {
+      "continues_from_previous": "Not applicable.",
+      "continues_to_next": "Continues with more clauses and information about policy limitations.",
+      "references": "References BP 04 02 01 06 and United States Liability Insurance Group."
+    },
+    "document_structure": {
+      "section_title": "Businessowners Coverage Form",
+      "subsections": [
+        "Who Is An Insured",
+        "Exclusions"
+      ],
+      "page_type": "endorsement"
+    },
+    "analyzed_at": "2025-08-24T16:10:56.162331"
+  },
+  {
+    "page_number": 2,
+    "summary": "Includes general exclusions related to perfluoroalkyl and polyfluoroalkyl substances along with the definition of such substances.",
+    "full_text": "Section II – Liability is amended as follows: A. The following is added to Paragraph B. Exclusions: This insurance does not apply to: Perfluoroalkyl And Polyfluoroalkyl Substances a. \"Bodily injury\" or \"property damage\" which would not have occurred, or \"personal and advertising injury\" which would not have taken place, in whole or in part, but for the actual, alleged, threatened or suspected inhalation, ingestion, absorption, consumption, discharge, dispersal, seepage, migration, release or escape of, contact with, exposure to, existence of, or presence of, any \"perfluoroalkyl or polyfluoroalkyl substances\". b. Any loss, cost or expense arising, in whole or in part, out of the abating, testing for, monitoring, cleaning up, removing, containing, treating, detoxifying, neutralizing, remediating or disposing of, or in any way responding to or assessing the effects of, \"perfluoroalkyl or polyfluoroalkyl substances\", by any insured or by any other person or entity. B. The following is added to Paragraph F. Liability And Medical Expenses Definitions: \"Perfluoroalkyl or polyfluoroalkyl substances\" means any: 1. Chemical or substance that contains one or more alkyl carbons on which hydrogen atoms have been partially or completely replaced by fluorine atoms, including but not limited to: a. Polymer, oligomer, monomer or nonpolymer chemicals and their homologues, isomers, telomers, salts, derivatives, precursor chemicals, degradation products or by-products; b. Perfluoroalkyl acids (PFAA), such as perfluorooctanoic acid (PFOA) and its salts, or perfluorooctane sulfonic acid (PFOS) and its salts; c. Perfluoropolyethers (PFPE); d. Fluorotelomer-based substances; or e. Side-chain fluorinated polymers; or 2. Good or product, including containers, materials, parts or equipment furnished in connection with such goods or products, that consists of or contains any chemical or substance described in Paragraph B.1.",
+    "tables_and_figures": [],
+    "key_information": {
+      "insured_property": null,
+      "coverage_details": "Exclusions related to perfluoroalkyl substances.",
+      "dates": null,
+      "amounts": null,
+      "addresses": null
+    },
+    "relationships": {
+      "continues_from_previous": "Exclusions and clauses from prior sections.",
+      "continues_to_next": "May include more exclusions and definitions.",
+      "references": "References to chemical exclusions and insurance clauses."
+    },
+    "document_structure": {
+      "section_title": "Liability Amendments",
+      "subsections": [
+        "Exclusions",
+        "Definitions"
+      ],
+      "page_type": "content"
+    },
+    "analyzed_at": "2025-08-24T16:10:56.162363"
+  },
+  {
+    "page_number": 3,
+    "summary": "Policyholder's decision regarding terrorism coverage, potential election or declination, with descriptions and terms of coverage for acts of terrorism.",
+    "full_text": "Policy No.: NBP1555904G Dear Policyholder, Terrorism Insurance Coverage is not included with this policy because you elected not to purchase this coverage on your expiring policy. If you wish to purchase Terrorism Insurance Coverage on this policy, you must complete the attached form and return it to your local Retail Agent no later than 11/04/2024. Upon receipt of your completed form, we will endorse your policy to include Terrorism Insurance Coverage for the additional cost noted on the attached form. I decline to purchase Terrorism Coverage. I understand that I will have no coverage for losses arising from acts of Terrorism. LOGAN PARK NEIGHBORHOOD ASSOCIATION On File with the Company I elect to purchase coverage for certified acts of Terrorism for a premium of $ POLICYHOLDER DISCLOSURE NOTICE OF TERRORISM INSURANCE COVERAGE You are hereby notified that under the Terrorism Risk Insurance Act (\"the Act\"), as amended, you have a right to purchase insurance coverage for losses arising out of acts of terrorism. As defined in Section 102(1) of the Act: The term “act of terrorism” means any act or acts that are certified by the Secretary of the Treasury, in consultation with the Secretary of Homeland Security, and the Attorney General of the United States, to be an act of terrorism; to be a violent act or an act that is dangerous to human life, property, or infrastructure; to have resulted in damage within the United States, or outside the United States in the case of certain air carriers or vessels or the premises of a United States mission; and to have been committed by an individual or individuals, as part of an effort to coerce the civilian population of the United States or to influence the policy or affect the conduct of the United States Government by coercion.",
+    "tables_and_figures": [],
+    "key_information": {
+      "insured_property": "LOGAN PARK NEIGHBORHOOD ASSOCIATION",
+      "coverage_details": "Terrorism Insurance Coverage is optional.",
+      "dates": "Form return by 11/04/2024.",
+      "amounts": "Premium for terrorism coverage specified upon request.",
+      "addresses": null
+    },
+    "relationships": {
+      "continues_from_previous": "Clause on exclusion related to chemicals.",
+      "continues_to_next": "Terms and conditions of terrorism coverage specifics.",
+      "references": "Terrorism Risk Insurance Act."
+    },
+    "document_structure": {
+      "section_title": "Terrorism Insurance Coverage Notice",
+      "subsections": [
+        "Policyholder Disclosure",
+        "Election or Rejection"
+      ],
+      "page_type": "policy notice"
+    },
+    "analyzed_at": "2025-08-24T16:10:56.162366"
+  },
+  {
+    "page_number": 4,
+    "summary": "Lists various exclusions including fiduciary liability, financial services, and specific event exclusions along with amendments like cyber exclusion.",
+    "full_text": "BP-101 Exclusion of Certified Acts of Terrorism (Coverage for Certain Fire Losses) 12/20 BP-107 Actual Cash Value Definition 04/08 BP-11 Exclusion - Fiduciary Liability And Financial Services 05/04 BP-115 Protective Devices Or Services Provisions 07/08 BP-15 Business Income And Extra Expense Limit 07/04 BP-152 Separation Of Insureds Clarification Endorsement 08/10 BP-165 Exclusion - Specific Activities, Events or Conditions or Over 2,500 People 05/18 BP-168 Exclusion - Injury To Performers Or Entertainers 11/11 BP-172 Primary And Non-Contributory - Written Contract 10/13 BP-179 NBP Amendment of Liquor Liability Exclusion 12/17 BP-193 Limits Of Insurance Under Multiple Coverage Parts 08/14 BP-40 Molestation Or Abuse Exclusion 03/11 BP-48 Exclusion Asbestos, Lead Contamination, Absolute Pollution, Mold, Fungus, Bacteria, Virus And Organic Pathogen 05/16 BP-49 Absolute Exclusion For Pollution, Organic Pathogen, Silica, Asbestos And Lead 01/13 BP-500 Bodily Injury Exclusion - All Employees, Volunteer Workers, Temporary Workers, Casual Laborers, Contractors and Subcontractors 11/18 BP-58 Animal Exclusion 05/07 BP-59 Exclusion - Athletic Activity Or Sport Participants 02/13 BP-60 Exclusion For Bleacher Collapse 05/07 BP-65 Exclusion For Mechanical Rides 05/07 BP-88 Expanded Definition Of Bodily Injury 04/06 BP-90 Amended Definition 11/10 BP-95 Exclusion For Climbing, Rebounding And Interactive Games And Devices 05/07 BP-96 Exclusion For Firearms, Fireworks And Other Pyrotechnic Devices 05/07 BP-97 Exclusion For Event Vendor/Exhibitor & Contractor 05/07 BP0003 Businessowners Coverage Form 01/10 BP0125 Minnesota Changes 01/10 BP0402 Additional Insured - Managers Or Lessors Of Premises 01/06 BP0417 Employment-Related Practices Exclusion 01/10 BP0448 Additional Insured - Designated Person Or Organization 01/06 BP0497 Waiver Of Transfer Of Rights Of Recovery Against Others To Us 01/06 BP1505 Exclusion - Access Or Disclosure Of Confidential Or Personal Information And Data -Related Liability - Limited Bodily Injury Exception Not Included 05/14 BP1560 Cyber Incident Exclusion 02/21 FORMS AND ENDORSEMENTS EXTENSION OF DECLARATIONS Policy No. NBP1555904G Effective Date: 10/05/2024 12:01 AM STANDARD TIME AT YOUR MAILING ADDRESS All other terms and conditions remain unchanged.",
+    "tables_and_figures": [],
+    "key_information": {
+      "insured_property": null,
+      "coverage_details": "Various exclusions and coverage details across different clauses.",
+      "dates": "Effective Date: 10/05/2024",
+      "amounts": null,
+      "addresses": "Jacket Policy Jacket, Way at 12:01 AM, STANDARD TIME"
+    },
+    "relationships": {
+      "continues_from_previous": "Terrorism policy details.",
+      "continues_to_next": "Forms and endorsements continue as reference material.",
+      "references": "References wide-ranging exclusions and requirements."
+    },
+    "document_structure": {
+      "section_title": "Exclusions and Declarations",
+      "subsections": [
+        "Exclusion Lists",
+        "Form Details"
+      ],
+      "page_type": "lists and declarations"
+    },
+    "analyzed_at": "2025-08-24T16:10:56.162369"
+  },
+  {
+    "page_number": 5,
+    "summary": "Provides guidelines on loss control and measures against slips, trips, falls, and general housekeeping as a risk mitigation strategy.",
+    "full_text": "USLI.COM 888-523-5545 Loss Control 4/19 Note About Loss Control Dear Valued Policyholder, Slips, trips and falls are among the most frequent causes of loss. What might surprise you is that, many times, they result in claims and judgments in the hundreds of thousands of dollars, which ultimately impact your insurance premium. In most instances, these claims can be lessened or prevented entirely simply by addressing the most common causes of such losses listed below. Most Common Causes u Spills, wet or icy walking surfaces u Uneven or worn floors/carpets/steps/sidewalks u Inadequate or poorly maintained lighting u Obstructed views u Poor housekeeping - Excess clutter/trash in walkways or near open flames or hot surfaces We encourage you to please take the time to periodically inspect your premises to see if any of these conditions exist and work to eliminate them where possible. Your efforts may save you money on future insurance premiums and, quite possibly, save your business. Thank you for choosing and trusting us to help protect your business! “An ounce of prevention is worth a pound of cure.” -Benjamin Franklin Regards, Thomas P. Nerney Chairman, President and CEO UNITED STATES LIABILITY INSURANCE GROUP WAYNE, PENNSYLVANIA DISCLOSURE NOTICE OF TERRORISM INSURANCE COVERAGE RENEWALS Policy No.: NBP1555904G Dear Policyholder, Terrorism Insurance Coverage is not included with this policy because you elected not to purchase this coverage on your expiring policy. If you wish to purchase Terrorism Insurance Coverage on this policy, you must complete the attached form and return it to your local Retail Agent no later than 11/04/2024.",
+    "tables_and_figures": [],
+    "key_information": {
+      "insured_property": null,
+      "coverage_details": "Guidelines on loss control and measures against slips, trips, falls.",
+      "dates": "Form return by 11/04/2024.",
+      "amounts": null,
+      "addresses": "Insurance Group, PA 888-523-5545"
+    },
+    "relationships": {
+      "continues_from_previous": "Guidance from insurance dictionary.",
+      "continues_to_next": "Examples and strategies for risk minimization are elaborated.",
+      "references": "Referencing general safety and loss control principles."
+    },
+    "document_structure": {
+      "section_title": "Loss Control Guidelines",
+      "subsections": [
+        "Common Causes",
+        "Preventive Measures"
+      ],
+      "page_type": "informational notice"
+    },
+    "analyzed_at": "2025-08-24T16:10:56.162371"
+  },
+  {
+    "page_number": 6,
+    "summary": "Business Resource Center offerings from USLI, including cybersecurity, HR, and marketing techniques with educational benefits.",
+    "full_text": "BOP 24-25 USLI(2).PDF Cybersecurity • Complimentary access to eRiskHub®, a data breach prevention and response resource that will help you understand your exposure to a data breach and the importance of a response plan • Best practice checklists for securing personal and payment card information, plus tips on protecting against cyberattacks Background Checks and Screenings • Discounted background checks, including multi-court criminal database searches, county criminal searches and more (first background check is free) • Best practices for performing a background check • Discounted tenant and drug screenings and motor vehicle reports (MVRs) Disaster Preparation and Recovery • Guidance on preparing for natural disasters and severe weather • Business planning and recovery toolkit • Sample incident reporting form and disaster loan assistance resource Human Resources • Free PeopleSystems’ human resources consultation helpline to be used for personnel issues, including harassment and discrimination, the Family and Medical Leave Act, disability, wage and hours regulations and more • Online library with information, forms and articles pertaining to human resources • Discounted HR and payroll management system by PrimePoint • Discounted employee workplace assessment by Talogy, previously PSI Caliper • Resources for recruiting, interviewing and terminating employees Marketing • Resources marketing via email and social media, capturing leads and building surveys • Free and discounted stock imagery sites and photo and video editing programs • Discount stationery, signage, promotional items and gifts Try our cost-savings calculator to see how much you could save!",
+    "tables_and_figures": [],
+    "key_information": {
+      "insured_property": null,
+      "coverage_details": "Access to free and discounted resources via the Business Resource Center.",
+      "dates": null,
+      "amounts": null,
+      "addresses": null
+    },
+    "relationships": {
+      "continues_from_previous": "Previous methods for loss reduction and risk mitigation.",
+      "continues_to_next": "Extends to online learning and development.",
+      "references": "Business Resource Center and associated USLI support."
+    },
+    "document_structure": {
+      "section_title": "Business Support Resources",
+      "subsections": [
+        "Cybersecurity",
+        "HR Support",
+        "Marketing"
+      ],
+      "page_type": "informational content"
+    },
+    "analyzed_at": "2025-08-24T16:10:56.162373"
+  }
+]
