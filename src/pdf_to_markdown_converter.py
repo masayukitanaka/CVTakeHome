@@ -85,9 +85,7 @@ Text content from page {page_number}:
 {text_content}
 ---
 
-Convert to clean Markdown format while preserving ALL original information and structure.
-
-IMPORTANT: Return ONLY the converted Markdown content. Do NOT wrap the response in code blocks (```markdown or ```)."""
+Convert to clean Markdown format while preserving ALL original information and structure:"""
 
             if self.logger:
                 self.logger.info(f"Converting page {page_number} to Markdown using OpenAI...")
@@ -97,7 +95,7 @@ IMPORTANT: Return ONLY the converted Markdown content. Do NOT wrap the response 
                 messages=[
                     {
                         "role": "system", 
-                        "content": "You are an expert document formatter. Convert the provided text to clean, well-structured Markdown while preserving ALL original content and maintaining the document's structure and formatting. Never summarize or omit information. Return ONLY the Markdown content without wrapping it in code blocks."
+                        "content": "You are an expert document formatter. Convert the provided text to clean, well-structured Markdown while preserving ALL original content and maintaining the document's structure and formatting. Never summarize or omit information."
                     },
                     {"role": "user", "content": prompt}
                 ],
@@ -106,18 +104,6 @@ IMPORTANT: Return ONLY the converted Markdown content. Do NOT wrap the response 
             )
             
             markdown_content = response.choices[0].message.content.strip()
-            
-            # Remove markdown code block wrappers if present
-            if markdown_content.startswith('```markdown'):
-                # Remove opening ```markdown
-                markdown_content = markdown_content[11:].strip()
-            elif markdown_content.startswith('```'):
-                # Remove opening ```
-                markdown_content = markdown_content[3:].strip()
-            
-            if markdown_content.endswith('```'):
-                # Remove closing ```
-                markdown_content = markdown_content[:-3].strip()
             
             if self.logger:
                 self.logger.info(f"Successfully converted page {page_number} to Markdown ({len(markdown_content)} characters)")
@@ -185,7 +171,7 @@ IMPORTANT: Return ONLY the converted Markdown content. Do NOT wrap the response 
         markdown_content.append("\n---\n")
         
         for page_num in range(start_page, end_page + 1):
-            print(f"Processing page {page_num}...")
+            print(f"Processing page {page_num}/{total_pages}...")
             
             # Extract text from page
             page_text = self.extract_text_from_pdf_page(pdf_path, page_num)
