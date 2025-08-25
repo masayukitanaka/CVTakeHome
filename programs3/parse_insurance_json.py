@@ -89,8 +89,8 @@ class InsuranceDataExtractor:
             sys.exit(1)
         
         try:
-            # Convert PDF to images - focus on key pages
-            images = convert_from_path(self.file_path, dpi=200, first_page=7, last_page=12)  # Pages 7-12 contain property info
+            # Convert PDF to images - all pages at DPI 150 for balanced quality/cost
+            images = convert_from_path(self.file_path, dpi=150)  # All pages at optimal DPI
             
             base64_images = []
             for i, image in enumerate(images):
@@ -175,8 +175,71 @@ class InsuranceDataExtractor:
         print("Converting PDF to images...")
         images_base64 = self._convert_pdf_to_images()
         
-        # Request to OpenAI API with images
-        prompt = """
+        # Also try to get JSON analysis if available
+        json_analysis = ""
+        pdf_path = Path(self.file_path)
+        
+        # Try different JSON file naming patterns
+        possible_json_files = [
+            pdf_path.with_suffix('.json'),  # loganpark.json
+            pdf_path.parent / f"{pdf_path.stem}_analysis.json",  # loganpark_analysis.json
+            pdf_path.parent / f"{pdf_path.stem}_extracted.json",  # loganpark_extracted.json
+        ]
+        
+        json_file_path = None
+        for possible_path in possible_json_files:
+            if possible_path.exists():
+                json_file_path = possible_path
+                break
+        
+        if json_file_path:
+            try:
+                print(f"Found corresponding JSON file: {json_file_path}")
+                with open(json_file_path, 'r', encoding='utf-8') as f:
+                    json_data = json.load(f)
+                    
+                    # Prepare document text from JSON data
+                    document_parts = []
+                    for page in json_data[:5]:  # First 5 pages for context
+                        page_num = page.get('page_number', 'Unknown')
+                        
+                        # Key information
+                        if page.get('key_information'):
+                            key_info = page['key_information']
+                            if any(key_info.values()):
+                                document_parts.append(f"[Page {page_num}] Key Information:")
+                                for k, v in key_info.items():
+                                    if v and v not in ["null", "None", None]:
+                                        document_parts.append(f"  - {k}: {v}")
+                        
+                        # Full text (important parts only)
+                        if page.get('full_text'):
+                            text = page['full_text']
+                            # Extract lines containing specific keywords
+                            keywords = ['limit', 'deductible', 'address', 'building', 'property', 
+                                       'business income', 'valuation', 'replacement cost', 'actual cash value',
+                                       'broadway', 'minneapolis', 'premium', 'coverage', 'premises', 'location']
+                            
+                            lines = text.split('\n')
+                            relevant_lines = []
+                            for line in lines:
+                                if any(keyword in line.lower() for keyword in keywords):
+                                    relevant_lines.append(line.strip())
+                            
+                            if relevant_lines:
+                                document_parts.append(f"[Page {page_num}] Relevant text:")
+                                document_parts.extend(relevant_lines[:10])  # Maximum 10 lines per page
+                    
+                    json_summary = '\n'.join(document_parts)
+                    json_analysis = f"\n\nADDITIONAL CONTEXT FROM JSON ANALYSIS:\n{json_summary[:4000]}...\n"
+                    
+            except Exception as e:
+                print(f"Could not load JSON file: {e}")
+        else:
+            print("No corresponding JSON analysis file found")
+        
+        # Request to OpenAI API with images and JSON context
+        prompt = f"""
 Please analyze this insurance certificate document. I can see that this appears to be a business owner's policy with property coverage information.
 
 I need you to extract the following specific information for each building/property:
@@ -199,12 +262,16 @@ Example of what I'm looking for in tables:
 - Business Personal Property: $5,000 limit with $1,000 deductible and RC valuation
 - Business Income and Extra Expense: $16,552 limit
 
+Please use both the visual PDF information AND the JSON analysis context below to provide the most accurate extraction.
+
+{json_analysis}
+
 Please provide detailed results even if some fields are missing. Always return valid JSON.
 
 REQUIRED JSON format:
-{
+{{
   "buildings": [
-    {
+    {{
       "location_building": "Location 1 Building 1",
       "address": "807 Broadway St Ne, Minneapolis, MN 55413",
       "building_limit": "",
@@ -212,9 +279,9 @@ REQUIRED JSON format:
       "business_income": "$16,552",
       "deductible": "$1,000",
       "valuation": "RC"
-    }
+    }}
   ]
-}
+}}
 """
 
         try:
