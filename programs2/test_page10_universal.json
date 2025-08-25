@@ -1,0 +1,60 @@
+[
+  {
+    "page_number": 10,
+    "summary": "Contains policy identification information. Details property coverage declarations and limits. Includes business income and expense coverage details. Contains policy endorsements and modifications. Contains 1 structured table(s) with coverage details. Includes property address and location information.",
+    "full_text": "BUSINESSOWNERS PROPERTY COVERAGE PART DECLARATIONS\nPolicy No. NBP1555904G\nEffective Date: 10/05/2024\n12:01 STANDARD TIME\nDESCRIPTION OF PREMISES\nPrem Bldg Location, Construction, Occupancy and Other Information Territory Fire Code\n1 1 807 Broadway St Ne, Minneapolis, MN 55413 001 0757\nDescription: Non-Profit Directors and Officers\nCovered Causes of Loss: Special Protection Class 6\nConstruction: Frame Square Footage:\nSpecial Deductible: None Special Deductible Type:\nCOVERAGES PROVIDED- INSURANCE AT THE DESCRIBED PREMISES APPLIES ONLY FOR COVERAGES FOR WHICH A LIMIT OF INSURANCE IS SHOWN\nLimits of Coinsurance % or\nPrem Bldg Coverage Insurance Deductible Monthly Indemnity + Valuation Premium\n1 1 Business Income and Extra Expense $16,552 $0 Included\n1 1 Business Personal Property $5,000 $1,000 RC Included\nMINIMUM PREMIUM FOR PROPERTY COVERAGE PART: $50\nTOTAL PREMIUM FOR PROPERTY COVERAGE PART: $50 MP\nMP - minimum premium\n+ Valuation: ACV - Actual Cash Value; RC - Replacement Cost; RC/ACV - Replacement Cost/ACV Roof\nFBV - Functional Building Value; AA - Agreed Amount; ALS - Actual Loss Sustained\nLOSS PAYABLE(S): NONE\nCoverage Form(s)/Part(s) and Endorsement(s) made a part of this policy at time of issue:\nSee Endorsement EOD (01/95)\nTHESE DECLARATIONS ARE PART OF THE POLICY DECLARATIONS CONTAINING THE NAME OF THE INSURED AND THE POLICY PERIOD.\nIncludes copyrighted material of ISO Commercial Risk Services, Inc., with its permission.\nBPP150 (02/09) Copyright, ISO Commercial Risk Services, Inc., 1983, 1984, 1988 Page 1 Of 1",
+    "tables_and_figures": [
+      {
+        "type": "table",
+        "description": "Table 1 with 7 rows and 1 columns",
+        "content": "BUSINESSOWNERS PROPERTY COVERAGE PART DECLARATIONS\nPolicy No. NBP1555904G\nEffective Date: 10/05/2024\n12:01 STANDARD TIME\nDESCRIPTION OF PREMISES\nPrem Bldg Location, Construction, Occupancy and Other Information Territory Fire Code\n1 1 807 Broadway St Ne, Minneapolis, MN 55413 001 0757\nDescription: Non-Profit Directors and Officers\nCovered Causes of Loss: Special Protection Class 6\nConstruction: Frame Square Footage:\nSpecial Deductible: None Special Deductible Type:\nCOVERAGES PROVIDED- INSURANCE AT THE DESCRIBED PREMISES APPLIES ONLY FOR COVERAGES FOR WHICH A LIMIT OF INSURANCE IS SHOWN\nLimits of Coinsurance % or\nPrem Bldg Coverage Insurance Deductible Monthly Indemnity + Valuation Premium\n1 1 Business Income and Extra Expense $16,552 $0 Included\n1 1 Business Personal Property $5,000 $1,000 RC Included\nMINIMUM PREMIUM FOR PROPERTY COVERAGE PART: $50\nTOTAL PREMIUM FOR PROPERTY COVERAGE PART: $50 MP\nMP - minimum premium\n+ Valuation: ACV - Actual Cash Value; RC - Replacement Cost; RC/ACV - Replacement Cost/ACV Roof\nFBV - Functional Building Value; AA - Agreed Amount; ALS - Actual Loss Sustained\nLOSS PAYABLE(S): NONE\nCoverage Form(s)/Part(s) and Endorsement(s) made a part of this policy at time of issue:\nSee Endorsement EOD (01/95)"
+      }
+    ],
+    "key_information": {
+      "insured_property": "807 Broadway St NE, Minneapolis, MN",
+      "coverage_details": "Business Income and Extra Expense coverage",
+      "dates": "10/05/2024",
+      "amounts": "$16,552, $0, $5,000, $1,000, $50",
+      "addresses": "807 Broadway St Ne, Minneapolis, Mn 55413"
+    },
+    "key_content_types": [
+      "Policy Number",
+      "Property Coverage",
+      "Business Income",
+      "Address",
+      "Declarations",
+      "Endorsements",
+      "Premium Information",
+      "Effective Date",
+      "Coverage Limits",
+      "Forms"
+    ],
+    "metadata": {
+      "page_width": 612.0,
+      "page_height": 792.0,
+      "char_count": 1540,
+      "has_tables": true,
+      "table_count": 1
+    },
+    "analyzed_at": "2025-08-24T18:27:29.564683",
+    "document_structure": {
+      "section_title": "BUSINESSOWNERS PROPERTY COVERAGE PART DECLARATIONS",
+      "subsections": [
+        "Policy No.",
+        "Effective Date",
+        "DESCRIPTION OF PREMISES",
+        "COVERAGES PROVIDED",
+        "MINIMUM PREMIUM FOR PROPERTY COVERAGE PART",
+        "TOTAL PREMIUM FOR PROPERTY COVERAGE PART",
+        "LOSS PAYABLE(S)",
+        "Coverage Form(s)/Part(s) and Endorsement(s)"
+      ],
+      "page_type": "declarations"
+    },
+    "relationships": {
+      "continues_from_previous": null,
+      "continues_to_next": null,
+      "references": null
+    }
+  }
+]

@@ -1,0 +1,170 @@
+2025-08-24 18:27:08,452 - INFO - Starting analysis of loganpark.pdf
+2025-08-24 18:27:08,452 - INFO - PDF Info: 22 pages, 1229125 bytes
+2025-08-24 18:27:08,452 - INFO - Analyzing pages 1-5
+2025-08-24 18:27:08,452 - INFO - Analyzing page 1
+2025-08-24 18:27:10,549 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:27:10,565 - INFO - Page 1 analyzed: 2856 chars, 0 tables, 0 key content types
+2025-08-24 18:27:10,565 - INFO - Analyzing page 2
+2025-08-24 18:27:12,238 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:27:12,239 - INFO - Page 2 analyzed: 642 chars, 1 tables, 0 key content types
+2025-08-24 18:27:12,239 - INFO - Analyzing page 3
+2025-08-24 18:27:13,357 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:27:13,359 - INFO - Page 3 analyzed: 333 chars, 0 tables, 0 key content types
+2025-08-24 18:27:13,359 - INFO - Analyzing page 4
+2025-08-24 18:27:14,951 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:27:14,953 - INFO - Page 4 analyzed: 1220 chars, 0 tables, 1 key content types
+2025-08-24 18:27:14,953 - INFO - Analyzing page 5
+2025-08-24 18:27:16,256 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:27:16,257 - INFO - Page 5 analyzed: 627 chars, 0 tables, 2 key content types
+2025-08-24 18:27:16,258 - INFO - Results saved to: test_universal.json
+2025-08-24 18:27:16,258 - INFO - Analysis complete: 5/5 pages successful
+2025-08-24 18:27:26,484 - INFO - Starting analysis of loganpark.pdf
+2025-08-24 18:27:26,484 - INFO - PDF Info: 22 pages, 1229125 bytes
+2025-08-24 18:27:26,484 - INFO - Analyzing pages 10-10
+2025-08-24 18:27:26,484 - INFO - Analyzing page 10
+2025-08-24 18:27:29,554 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:27:29,564 - INFO - Page 10 analyzed: 1540 chars, 1 tables, 10 key content types
+2025-08-24 18:27:29,565 - INFO - Results saved to: test_page10_universal.json
+2025-08-24 18:27:29,565 - INFO - Analysis complete: 1/1 pages successful
+2025-08-24 18:27:40,739 - INFO - Starting analysis of loganpark.pdf
+2025-08-24 18:27:40,739 - INFO - PDF Info: 22 pages, 1229125 bytes
+2025-08-24 18:27:40,739 - INFO - Analyzing pages 1-22
+2025-08-24 18:27:40,739 - INFO - Analyzing page 1
+2025-08-24 18:27:42,705 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:27:42,744 - INFO - Page 1 analyzed: 2856 chars, 0 tables, 0 key content types
+2025-08-24 18:27:42,744 - INFO - Analyzing page 2
+2025-08-24 18:27:43,972 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:27:43,974 - INFO - Page 2 analyzed: 642 chars, 1 tables, 0 key content types
+2025-08-24 18:27:43,974 - INFO - Analyzing page 3
+2025-08-24 18:27:45,348 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:27:45,351 - INFO - Page 3 analyzed: 333 chars, 0 tables, 0 key content types
+2025-08-24 18:27:45,351 - INFO - Analyzing page 4
+2025-08-24 18:27:47,432 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:27:47,433 - INFO - Page 4 analyzed: 1220 chars, 0 tables, 1 key content types
+2025-08-24 18:27:47,433 - INFO - Analyzing page 5
+2025-08-24 18:27:49,094 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:27:49,094 - INFO - Page 5 analyzed: 627 chars, 0 tables, 2 key content types
+2025-08-24 18:27:49,095 - INFO - Analyzing page 6
+2025-08-24 18:27:51,618 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:27:51,619 - INFO - Page 6 analyzed: 3156 chars, 1 tables, 3 key content types
+2025-08-24 18:27:51,619 - INFO - Analyzing page 7
+2025-08-24 18:27:53,677 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:27:53,689 - INFO - Page 7 analyzed: 1563 chars, 1 tables, 8 key content types
+2025-08-24 18:27:53,689 - INFO - Analyzing page 8
+2025-08-24 18:27:55,938 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:27:55,940 - INFO - Page 8 analyzed: 2558 chars, 1 tables, 7 key content types
+2025-08-24 18:27:55,940 - INFO - Analyzing page 9
+2025-08-24 18:27:58,579 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:27:58,586 - INFO - Page 9 analyzed: 610 chars, 1 tables, 6 key content types
+2025-08-24 18:27:58,586 - INFO - Analyzing page 10
+2025-08-24 18:28:01,280 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:28:01,283 - INFO - Page 10 analyzed: 1540 chars, 1 tables, 10 key content types
+2025-08-24 18:28:01,283 - INFO - Analyzing page 11
+2025-08-24 18:28:04,376 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:28:04,380 - INFO - Page 11 analyzed: 1880 chars, 1 tables, 7 key content types
+2025-08-24 18:28:04,380 - INFO - Analyzing page 12
+2025-08-24 18:28:05,744 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:28:05,750 - INFO - Page 12 analyzed: 44 chars, 0 tables, 0 key content types
+2025-08-24 18:28:05,753 - INFO - Analyzing page 13
+2025-08-24 18:28:07,492 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:28:07,494 - INFO - Page 13 analyzed: 2351 chars, 0 tables, 2 key content types
+2025-08-24 18:28:07,494 - INFO - Analyzing page 14
+2025-08-24 18:28:10,812 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:28:10,820 - INFO - Page 14 analyzed: 3349 chars, 0 tables, 2 key content types
+2025-08-24 18:28:10,820 - INFO - Analyzing page 15
+2025-08-24 18:28:12,303 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:28:12,307 - INFO - Page 15 analyzed: 454 chars, 0 tables, 2 key content types
+2025-08-24 18:28:12,307 - INFO - Analyzing page 16
+2025-08-24 18:28:14,203 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:28:14,203 - INFO - Page 16 analyzed: 1840 chars, 0 tables, 6 key content types
+2025-08-24 18:28:14,203 - INFO - Analyzing page 17
+2025-08-24 18:28:16,176 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:28:16,183 - INFO - Page 17 analyzed: 1467 chars, 0 tables, 6 key content types
+2025-08-24 18:28:16,183 - INFO - Analyzing page 18
+2025-08-24 18:28:18,810 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:28:18,821 - INFO - Page 18 analyzed: 1090 chars, 0 tables, 6 key content types
+2025-08-24 18:28:18,821 - INFO - Analyzing page 19
+2025-08-24 18:28:21,103 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:28:21,106 - INFO - Page 19 analyzed: 1085 chars, 0 tables, 6 key content types
+2025-08-24 18:28:21,106 - INFO - Analyzing page 20
+2025-08-24 18:28:24,337 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:28:24,341 - INFO - Page 20 analyzed: 2250 chars, 0 tables, 3 key content types
+2025-08-24 18:28:24,341 - INFO - Analyzing page 21
+2025-08-24 18:28:25,727 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:28:25,731 - INFO - Page 21 analyzed: 451 chars, 0 tables, 2 key content types
+2025-08-24 18:28:25,732 - INFO - Analyzing page 22
+2025-08-24 18:28:26,855 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:28:26,862 - INFO - Page 22 analyzed: 44 chars, 0 tables, 0 key content types
+2025-08-24 18:28:26,865 - INFO - Results saved to: loganpark_universal_complete.json
+2025-08-24 18:28:26,866 - INFO - Analysis complete: 22/22 pages successful
+2025-08-24 18:37:11,051 - INFO - Starting analysis of loganpark.pdf
+2025-08-24 18:37:11,051 - INFO - PDF Info: 22 pages, 1229125 bytes
+2025-08-24 18:37:11,051 - INFO - Analyzing pages 1-22
+2025-08-24 18:37:11,051 - INFO - Analyzing page 1
+2025-08-24 18:37:12,936 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:37:12,985 - INFO - Page 1 analyzed: 2856 chars, 0 tables, 0 key content types
+2025-08-24 18:37:12,986 - INFO - Analyzing page 2
+2025-08-24 18:37:14,526 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:37:14,528 - INFO - Page 2 analyzed: 642 chars, 1 tables, 0 key content types
+2025-08-24 18:37:14,528 - INFO - Analyzing page 3
+2025-08-24 18:37:16,382 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:37:16,384 - INFO - Page 3 analyzed: 333 chars, 0 tables, 0 key content types
+2025-08-24 18:37:16,384 - INFO - Analyzing page 4
+2025-08-24 18:37:17,890 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:37:17,892 - INFO - Page 4 analyzed: 1220 chars, 0 tables, 1 key content types
+2025-08-24 18:37:17,892 - INFO - Analyzing page 5
+2025-08-24 18:37:19,455 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:37:19,457 - INFO - Page 5 analyzed: 627 chars, 0 tables, 2 key content types
+2025-08-24 18:37:19,458 - INFO - Analyzing page 6
+2025-08-24 18:37:22,222 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:37:22,223 - INFO - Page 6 analyzed: 3156 chars, 1 tables, 3 key content types
+2025-08-24 18:37:22,223 - INFO - Analyzing page 7
+2025-08-24 18:37:24,574 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:37:24,583 - INFO - Page 7 analyzed: 1563 chars, 1 tables, 8 key content types
+2025-08-24 18:37:24,584 - INFO - Analyzing page 8
+2025-08-24 18:37:26,840 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:37:26,842 - INFO - Page 8 analyzed: 2558 chars, 1 tables, 7 key content types
+2025-08-24 18:37:26,842 - INFO - Analyzing page 9
+2025-08-24 18:37:29,388 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:37:29,390 - INFO - Page 9 analyzed: 610 chars, 1 tables, 6 key content types
+2025-08-24 18:37:29,390 - INFO - Analyzing page 10
+2025-08-24 18:37:32,356 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:37:32,358 - INFO - Page 10 analyzed: 1540 chars, 1 tables, 10 key content types
+2025-08-24 18:37:32,358 - INFO - Analyzing page 11
+2025-08-24 18:37:35,533 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:37:35,535 - INFO - Page 11 analyzed: 1880 chars, 1 tables, 7 key content types
+2025-08-24 18:37:35,535 - INFO - Analyzing page 12
+2025-08-24 18:37:36,966 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:37:36,968 - INFO - Page 12 analyzed: 44 chars, 0 tables, 0 key content types
+2025-08-24 18:37:36,968 - INFO - Analyzing page 13
+2025-08-24 18:37:38,604 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:37:38,605 - INFO - Page 13 analyzed: 2351 chars, 0 tables, 2 key content types
+2025-08-24 18:37:38,606 - INFO - Analyzing page 14
+2025-08-24 18:37:48,024 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:37:48,026 - INFO - Page 14 analyzed: 3349 chars, 0 tables, 2 key content types
+2025-08-24 18:37:48,026 - INFO - Analyzing page 15
+2025-08-24 18:37:49,318 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:37:49,327 - INFO - Page 15 analyzed: 454 chars, 0 tables, 2 key content types
+2025-08-24 18:37:49,328 - INFO - Analyzing page 16
+2025-08-24 18:37:51,157 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:37:51,159 - INFO - Page 16 analyzed: 1840 chars, 0 tables, 6 key content types
+2025-08-24 18:37:51,159 - INFO - Analyzing page 17
+2025-08-24 18:37:53,255 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:37:53,259 - INFO - Page 17 analyzed: 1467 chars, 0 tables, 6 key content types
+2025-08-24 18:37:53,259 - INFO - Analyzing page 18
+2025-08-24 18:37:55,704 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:37:55,704 - INFO - Page 18 analyzed: 1090 chars, 0 tables, 6 key content types
+2025-08-24 18:37:55,704 - INFO - Analyzing page 19
+2025-08-24 18:37:58,135 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:37:58,137 - INFO - Page 19 analyzed: 1085 chars, 0 tables, 6 key content types
+2025-08-24 18:37:58,137 - INFO - Analyzing page 20
+2025-08-24 18:38:00,358 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:38:00,365 - INFO - Page 20 analyzed: 2250 chars, 0 tables, 3 key content types
+2025-08-24 18:38:00,365 - INFO - Analyzing page 21
+2025-08-24 18:38:01,651 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:38:01,652 - INFO - Page 21 analyzed: 451 chars, 0 tables, 2 key content types
+2025-08-24 18:38:01,652 - INFO - Analyzing page 22
+2025-08-24 18:38:03,038 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 18:38:03,039 - INFO - Page 22 analyzed: 44 chars, 0 tables, 0 key content types
+2025-08-24 18:38:03,040 - INFO - Results saved to: loganpark_analysis.json
+2025-08-24 18:38:03,040 - INFO - Analysis complete: 22/22 pages successful

@@ -19,7 +19,7 @@
       "has_tables": false,
       "table_count": 0
     },
-    "analyzed_at": "2025-08-24T18:37:12.985871",
+    "analyzed_at": "2025-08-24T18:27:42.744486",
     "document_structure": {
       "section_title": "Business Resource Center Services",
       "subsections": [
@@ -62,7 +62,7 @@
       "has_tables": true,
       "table_count": 1
     },
-    "analyzed_at": "2025-08-24T18:37:14.528474",
+    "analyzed_at": "2025-08-24T18:27:43.974357",
     "document_structure": {
       "section_title": "24/7 Claim Reporting",
       "subsections": [],
@@ -94,7 +94,7 @@
       "has_tables": false,
       "table_count": 0
     },
-    "analyzed_at": "2025-08-24T18:37:16.384657",
+    "analyzed_at": "2025-08-24T18:27:45.351205",
     "document_structure": {
       "section_title": "Privacy Notice At Collection",
       "subsections": [],
@@ -128,7 +128,7 @@
       "has_tables": false,
       "table_count": 0
     },
-    "analyzed_at": "2025-08-24T18:37:17.892488",
+    "analyzed_at": "2025-08-24T18:27:47.433135",
     "document_structure": {
       "section_title": "Note About Loss Control",
       "subsections": [
@@ -165,7 +165,7 @@
       "has_tables": false,
       "table_count": 0
     },
-    "analyzed_at": "2025-08-24T18:37:19.457789",
+    "analyzed_at": "2025-08-24T18:27:49.094881",
     "document_structure": {
       "section_title": "DISCLOSURE NOTICE OF TERRORISM INSURANCE COVERAGE",
       "subsections": [],
@@ -207,7 +207,7 @@
       "has_tables": true,
       "table_count": 1
     },
-    "analyzed_at": "2025-08-24T18:37:22.223752",
+    "analyzed_at": "2025-08-24T18:27:51.619602",
     "document_structure": {
       "section_title": "POLICYHOLDER DISCLOSURE NOTICE OF TERRORISM INSURANCE COVERAGE",
       "subsections": [
@@ -261,7 +261,7 @@
       "has_tables": true,
       "table_count": 1
     },
-    "analyzed_at": "2025-08-24T18:37:24.583743",
+    "analyzed_at": "2025-08-24T18:27:53.689508",
     "document_structure": {
       "section_title": "POLICY DECLARATIONS",
       "subsections": [
@@ -315,7 +315,7 @@
       "has_tables": true,
       "table_count": 1
     },
-    "analyzed_at": "2025-08-24T18:37:26.842031",
+    "analyzed_at": "2025-08-24T18:27:55.940828",
     "document_structure": {
       "section_title": "EXTENSION OF DECLARATIONS",
       "subsections": [
@@ -365,7 +365,7 @@
       "has_tables": true,
       "table_count": 1
     },
-    "analyzed_at": "2025-08-24T18:37:29.390226",
+    "analyzed_at": "2025-08-24T18:27:58.586319",
     "document_structure": {
       "section_title": "EXTENSION OF DECLARATIONS",
       "subsections": [
@@ -422,7 +422,7 @@
       "has_tables": true,
       "table_count": 1
     },
-    "analyzed_at": "2025-08-24T18:37:32.358342",
+    "analyzed_at": "2025-08-24T18:28:01.283110",
     "document_structure": {
       "section_title": "BUSINESSOWNERS PROPERTY COVERAGE PART DECLARATIONS",
       "subsections": [
@@ -477,7 +477,7 @@
       "has_tables": true,
       "table_count": 1
     },
-    "analyzed_at": "2025-08-24T18:37:35.535421",
+    "analyzed_at": "2025-08-24T18:28:04.380481",
     "document_structure": {
       "section_title": "BUSINESSOWNERS GENERAL LIABILITY COVERAGE PART DECLARATIONS",
       "subsections": [
@@ -519,7 +519,7 @@
       "has_tables": false,
       "table_count": 0
     },
-    "analyzed_at": "2025-08-24T18:37:36.968068",
+    "analyzed_at": "2025-08-24T18:28:05.750610",
     "document_structure": {
       "section_title": null,
       "subsections": [],
@@ -554,7 +554,7 @@
       "has_tables": false,
       "table_count": 0
     },
-    "analyzed_at": "2025-08-24T18:37:38.605947",
+    "analyzed_at": "2025-08-24T18:28:07.493958",
     "document_structure": {
       "section_title": "Protective Devices or Services Provisions",
       "subsections": [
@@ -592,7 +592,7 @@
       "has_tables": false,
       "table_count": 0
     },
-    "analyzed_at": "2025-08-24T18:37:48.026422",
+    "analyzed_at": "2025-08-24T18:28:10.820315",
     "document_structure": {
       "section_title": "Exclusions in Section I - Property",
       "subsections": [
@@ -600,23 +600,22 @@
         "P-16",
         "P-17",
         "P-18",
+        "P-1",
+        "P-2",
         "P-3",
-        "P-7",
+        "P-4",
+        "P-5",
         "P-6",
-        "P-8"
+        "P-8",
+        "P-10",
+        "P-7"
       ],
       "page_type": "exclusions"
     },
     "relationships": {
       "continues_from_previous": null,
       "continues_to_next": null,
-      "references": [
-        "P-1",
-        "P-2",
-        "P-4",
-        "P-5",
-        "P-10"
-      ]
+      "references": null
     }
   },
   {
@@ -642,7 +641,7 @@
       "has_tables": false,
       "table_count": 0
     },
-    "analyzed_at": "2025-08-24T18:37:49.327807",
+    "analyzed_at": "2025-08-24T18:28:12.307375",
     "document_structure": {
       "section_title": "Endorsements",
       "subsections": [],
@@ -681,7 +680,7 @@
       "has_tables": false,
       "table_count": 0
     },
-    "analyzed_at": "2025-08-24T18:37:51.159168",
+    "analyzed_at": "2025-08-24T18:28:14.203677",
     "document_structure": {
       "section_title": "ENDORSEMENT",
       "subsections": [
@@ -726,7 +725,7 @@
       "has_tables": false,
       "table_count": 0
     },
-    "analyzed_at": "2025-08-24T18:37:53.259761",
+    "analyzed_at": "2025-08-24T18:28:16.183602",
     "document_structure": {
       "section_title": "ADDITIONAL INSURED - MANAGERS OR LESSORS OF PREMISES",
       "subsections": [
@@ -769,7 +768,7 @@
       "has_tables": false,
       "table_count": 0
     },
-    "analyzed_at": "2025-08-24T18:37:55.704823",
+    "analyzed_at": "2025-08-24T18:28:18.821245",
     "document_structure": {
       "section_title": "ADDITIONAL INSURED - DESIGNATED PERSON OR ORGANIZATION",
       "subsections": [
@@ -813,12 +812,13 @@
       "has_tables": false,
       "table_count": 0
     },
-    "analyzed_at": "2025-08-24T18:37:58.137114",
+    "analyzed_at": "2025-08-24T18:28:21.105950",
     "document_structure": {
       "section_title": "WAIVER OF TRANSFER OF RIGHTS OF RECOVERY AGAINST OTHERS TO US",
       "subsections": [
         "Name of Person Or Organization",
         "Effective Date",
+        "Information required to complete this Schedule",
         "Paragraph K. Transfer Of Rights Of Recovery Against Others To Us"
       ],
       "page_type": "endorsement"
@@ -853,20 +853,22 @@
       "has_tables": false,
       "table_count": 0
     },
-    "analyzed_at": "2025-08-24T18:38:00.365113",
+    "analyzed_at": "2025-08-24T18:28:24.341755",
     "document_structure": {
       "section_title": "EXCLUSION – PERFLUOROALKYL AND POLYFLUOROALKYL SUBSTANCES (PFAS)",
       "subsections": [
-        "Section II – Liability",
-        "Paragraph F. Liability And Medical Expenses Definitions",
-        "Paragraph B. Exclusions"
+        "THIS ENDORSEMENT CHANGES THE POLICY. PLEASE READ IT CAREFULLY.",
+        "This endorsement modifies insurance provided under the following:",
+        "Section II – Liability is amended as follows:",
+        "The following is added to Paragraph F. Liability And Medical Expenses Definitions:",
+        "The following is added to Paragraph B. Exclusions:"
       ],
       "page_type": "endorsement"
     },
     "relationships": {
       "continues_from_previous": null,
       "continues_to_next": null,
-      "references": "BUSINESSOWNERS COVERAGE FORM"
+      "references": null
     }
   },
   {
@@ -892,7 +894,7 @@
       "has_tables": false,
       "table_count": 0
     },
-    "analyzed_at": "2025-08-24T18:38:01.652711",
+    "analyzed_at": "2025-08-24T18:28:25.731853",
     "document_structure": {
       "section_title": "NOTICE OF TERRORISM EXCLUSION",
       "subsections": [],
@@ -924,7 +926,7 @@
       "has_tables": false,
       "table_count": 0
     },
-    "analyzed_at": "2025-08-24T18:38:03.039247",
+    "analyzed_at": "2025-08-24T18:28:26.862559",
     "document_structure": {
       "section_title": null,
       "subsections": [],

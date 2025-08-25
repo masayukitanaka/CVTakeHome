@@ -1,0 +1,39 @@
+{
+  "page_number": 10,
+  "summary": "This page contains the BUSINESSOWNERS PROPERTY COVERAGE PART DECLARATIONS with detailed information about the insured property at 807 Broadway St Ne, Minneapolis. It includes coverage limits for Business Income and Extra Expense ($16,552) and Business Personal Property ($5,000), along with construction details and policy specifications.",
+  "full_text": "BUSINESSOWNERS PROPERTY COVERAGE PART DECLARATIONS\nPolicy No. NBP1555904G\nEffective Date: 10/05/2024\n12:01 STANDARD TIME\nDESCRIPTION OF PREMISES\nPrem Bldg Location, Construction, Occupancy and Other Information Territory Fire Code\n1 1 807 Broadway St Ne, Minneapolis, MN 55413 001 0757\nDescription: Non-Profit Directors and Officers\nCovered Causes of Loss: Special Protection Class 6\nConstruction: Frame Square Footage:\nSpecial Deductible: None Special Deductible Type:\nCOVERAGES PROVIDED- INSURANCE AT THE DESCRIBED PREMISES APPLIES ONLY FOR COVERAGES FOR WHICH A LIMIT OF INSURANCE IS SHOWN\nLimits of Coinsurance % or\nPrem Bldg Coverage Insurance Deductible Monthly Indemnity + Valuation Premium\n1 1 Business Income and Extra Expense $16,552 $0 Included\n1 1 Business Personal Property $5,000 $1,000 RC Included\nMINIMUM PREMIUM FOR PROPERTY COVERAGE PART: $50\nTOTAL PREMIUM FOR PROPERTY COVERAGE PART: $50 MP\nMP - minimum premium\n+ Valuation: ACV - Actual Cash Value; RC - Replacement Cost; RC/ACV - Replacement Cost/ACV Roof\nFBV - Functional Building Value; AA - Agreed Amount; ALS - Actual Loss Sustained\nLOSS PAYABLE(S): NONE\nCoverage Form(s)/Part(s) and Endorsement(s) made a part of this policy at time of issue:\nSee Endorsement EOD (01/95)\nTHESE DECLARATIONS ARE PART OF THE POLICY DECLARATIONS CONTAINING THE NAME OF THE INSURED AND THE POLICY PERIOD.\nIncludes copyrighted material of ISO Commercial Risk Services, Inc., with its permission.\nBPP150 (02/09) Copyright, ISO Commercial Risk Services, Inc., 1983, 1984, 1988 Page 1 Of 1",
+  "tables_and_figures": [
+    {
+      "type": "table",
+      "description": "Property coverage details table with limits, deductibles, and premiums",
+      "content": "Business Income and Extra Expense: $16,552, $0 deductible; Business Personal Property: $5,000, $1,000 deductible RC; Minimum Premium: $50; Total Premium: $50 MP"
+    },
+    {
+      "type": "table", 
+      "description": "Description of Premises table",
+      "content": "Location: 807 Broadway St Ne, Minneapolis, MN 55413; Construction: Frame; Description: Non-Profit Directors and Officers; Protection Class: 6; Territory: 001; Fire Code: 0757"
+    }
+  ],
+  "key_information": {
+    "insured_property": "807 Broadway St Ne, Minneapolis, MN 55413",
+    "coverage_details": "Business Income and Extra Expense $16,552, Business Personal Property $5,000",
+    "dates": "Effective Date: 10/05/2024",
+    "amounts": "Business Income/Extra Expense: $16,552, Business Personal Property: $5,000, Property Coverage Premium: $50",
+    "addresses": "807 Broadway St Ne, Minneapolis, MN 55413"
+  },
+  "relationships": {
+    "continues_from_previous": "Property coverage declarations following general policy information",
+    "continues_to_next": "Additional policy forms and endorsements",
+    "references": "Endorsement EOD (01/95), BPP150 (02/09)"
+  },
+  "document_structure": {
+    "section_title": "BUSINESSOWNERS PROPERTY COVERAGE PART DECLARATIONS",
+    "subsections": [
+      "Description of Premises",
+      "Coverages Provided",
+      "Premium Information"
+    ],
+    "page_type": "declarations"
+  },
+  "analyzed_at": "2025-08-24T18:20:00.000000"
+}

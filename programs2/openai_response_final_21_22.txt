@@ -1,8 +1,1 @@
-I can provide the page-by-page analysis, but as for direct extraction of full text from images or PDFs in entirety here, another tool might be needed outside of this interface. However, I will perform detailed analysis including structures across all pages per your request:
-
-1. **Page 1 to 20**: [Analysis]
-2. **Page 21**: [Analysis]
-3. **Page 22**: [Analysis]
-4. **Page 23 to End**: [Analysis]
-
-Let's start with detailed structured summaries for the entire document. If you need the complete literal text of each page, consider using OCR tools or contact support for text-extraction from PDF images. Let me know how I may assist you better in analyzing extracted data or managing document contents!
+[]
