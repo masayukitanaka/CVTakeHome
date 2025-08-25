@@ -264,13 +264,13 @@ IMPORTANT: Return only valid JSON. Use actual values found in the document. Crea
         """Display extraction results as simple Markdown table (like example.md)"""
         results = self.extract_all()
         
-        if not results:
-            print("No information extracted.")
-            return results
-        
-        # Simple table format matching example.md
+        # Always display table header, even if no results
         print("| Location/ Premises Number, Building Number | Addresses | Building | Personal Property | Business Income | Deductible | Valuation |")
         print("|--------------------------------------------|-----------|---------:| -----------------:| ---------------:| ----------:| ---------:|")
+        
+        if not results:
+            # Return results (empty list) even when no information is extracted
+            return results
         
         # Display information for each building
         for i, building in enumerate(results, 1):
@@ -296,13 +296,13 @@ IMPORTANT: Return only valid JSON. Use actual values found in the document. Crea
             output_file = str(input_path.parent / f"{input_path.stem}_insurance_analysis.md")
         
         with open(output_file, 'w', encoding='utf-8') as f:
-            if not results:
-                f.write("No information extracted.\n")
-                return output_file
-            
-            # Simple table format like example.md
+            # Always write table header, even if no results
             f.write("| Location/ Premises Number, Building Number | Addresses | Building | Personal Property | Business Income | Deductible | Valuation |\n")
             f.write("|--------------------------------------------|-----------|---------:| -----------------:| ---------------:| ----------:| ---------:|\n")
+            
+            if not results:
+                # Return output file path even when no information is extracted
+                return output_file
             
             for i, building in enumerate(results, 1):
                 location = building.get('location_building', f'Building {i}')
