@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Insurance certificate PDF analysis JSON parser using OpenAI API
+Insurance certificate PDF analysis parser using OpenAI API
 
 Extracted items:
 - Address
@@ -16,7 +16,9 @@ Output format: Markdown table
 import json
 import sys
 import os
-from typing import Dict, Any, List
+import base64
+import io
+from typing import Dict, Any, List, Union
 from pathlib import Path
 from openai import OpenAI
 
@@ -24,15 +26,23 @@ from openai import OpenAI
 class InsuranceDataExtractor:
     """Insurance data extraction class using OpenAI API"""
     
-    def __init__(self, json_file_path: str):
+    def __init__(self, file_path: str):
         """
         Initialize the extractor
         
         Args:
-            json_file_path: Path to the JSON file to analyze
+            file_path: Path to the file to analyze (JSON or PDF)
         """
-        self.json_file_path = json_file_path
-        self.data = self._load_json()
+        self.file_path = file_path
+        self.file_type = self._detect_file_type()
+        
+        if self.file_type == 'json':
+            self.data = self._load_json()
+        elif self.file_type == 'pdf':
+            self.data = None
+        else:
+            print(f"Error: Unsupported file type. Please provide JSON or PDF file.")
+            sys.exit(1)
         
         # Initialize OpenAI API client
         api_key = os.getenv('OPENAI_API_KEY')
@@ -46,16 +56,58 @@ class InsuranceDataExtractor:
         
         self.extracted_info = []
     
+    def _detect_file_type(self) -> str:
+        """Detect file type from extension"""
+        file_extension = Path(self.file_path).suffix.lower()
+        if file_extension == '.json':
+            return 'json'
+        elif file_extension == '.pdf':
+            return 'pdf'
+        else:
+            return 'unknown'
+    
     def _load_json(self) -> list:
         """Load JSON file"""
         try:
-            with open(self.json_file_path, 'r', encoding='utf-8') as f:
+            with open(self.file_path, 'r', encoding='utf-8') as f:
                 return json.load(f)
         except FileNotFoundError:
-            print(f"Error: File '{self.json_file_path}' not found")
+            print(f"Error: File '{self.file_path}' not found")
             sys.exit(1)
         except json.JSONDecodeError as e:
             print(f"Error: Failed to parse JSON: {e}")
+            sys.exit(1)
+    
+    def _convert_pdf_to_images(self) -> List[str]:
+        """Convert PDF to images and encode as base64"""
+        try:
+            from pdf2image import convert_from_path
+            from PIL import Image
+        except ImportError:
+            print("Error: pdf2image and PIL are required for PDF processing")
+            print("Please install: pip install pdf2image pillow")
+            sys.exit(1)
+        
+        try:
+            # Convert PDF to images - focus on key pages
+            images = convert_from_path(self.file_path, dpi=200, first_page=7, last_page=12)  # Pages 7-12 contain property info
+            
+            base64_images = []
+            for i, image in enumerate(images):
+                # Convert PIL image to base64
+                buffer = io.BytesIO()
+                image.save(buffer, format='JPEG', quality=85)
+                img_base64 = base64.b64encode(buffer.getvalue()).decode('utf-8')
+                base64_images.append(img_base64)
+                print(f"Converted page {i+1} to image ({len(img_base64)} base64 characters)")
+            
+            return base64_images
+            
+        except FileNotFoundError:
+            print(f"Error: File '{self.file_path}' not found")
+            sys.exit(1)
+        except Exception as e:
+            print(f"Error: Failed to convert PDF to images: {e}")
             sys.exit(1)
     
     def _prepare_document_text(self) -> str:
@@ -111,6 +163,126 @@ class InsuranceDataExtractor:
     def extract_with_openai(self) -> List[Dict[str, Any]]:
         """Extract information using OpenAI API"""
         
+        if self.file_type == 'pdf':
+            return self._extract_from_pdf()
+        else:
+            return self._extract_from_json()
+    
+    def _extract_from_pdf(self) -> List[Dict[str, Any]]:
+        """Extract information directly from PDF using OpenAI Vision API"""
+        
+        # Convert PDF to images
+        print("Converting PDF to images...")
+        images_base64 = self._convert_pdf_to_images()
+        
+        # Request to OpenAI API with images
+        prompt = """
+Please analyze this insurance certificate document. I can see that this appears to be a business owner's policy with property coverage information.
+
+I need you to extract the following specific information for each building/property:
+
+1. Location/Premises Number, Building Number: e.g., "Location 1 Building 1"
+2. Address: Complete physical address 
+3. Building Limit: Building coverage limit amount (use empty string if not found)
+4. Personal Property Limit: Business personal property coverage limit
+5. Business Income: Business income and extra expense coverage limit (use empty string if not found)
+6. Deductible: Property coverage deductible amount
+7. Valuation: Type like "RC" (Replacement Cost) or "ACV" (Actual Cash Value)
+
+Key areas to look for:
+- BUSINESSOWNERS PROPERTY COVERAGE PART DECLARATIONS
+- Tables showing Coverage, Limits of Insurance, Deductible, and Valuation
+- Property coverage sections and schedules
+- Address information (I expect to see 807 Broadway St Ne, Minneapolis, MN)
+
+Example of what I'm looking for in tables:
+- Business Personal Property: $5,000 limit with $1,000 deductible and RC valuation
+- Business Income and Extra Expense: $16,552 limit
+
+Please provide detailed results even if some fields are missing. Always return valid JSON.
+
+REQUIRED JSON format:
+{
+  "buildings": [
+    {
+      "location_building": "Location 1 Building 1",
+      "address": "807 Broadway St Ne, Minneapolis, MN 55413",
+      "building_limit": "",
+      "personal_property_limit": "$5,000",
+      "business_income": "$16,552",
+      "deductible": "$1,000",
+      "valuation": "RC"
+    }
+  ]
+}
+"""
+
+        try:
+            # Log request details
+            print("=" * 60)
+            print("OpenAI API REQUEST (PDF as Images):")
+            print("=" * 60)
+            print(f"Model: gpt-4o")
+            print(f"Temperature: 0.1")
+            print(f"Response format: json_object")
+            print(f"Number of images: {len(images_base64)}")
+            print("\nSystem message:")
+            print("You are a professional insurance document analyst. Extract information accurately from PDF documents.")
+            print("\nUser prompt:")
+            print(prompt[:800] + "..." if len(prompt) > 800 else prompt)
+            print("\n" + "=" * 60)
+            
+            # Prepare messages with images
+            content = [{"type": "text", "text": prompt}]
+            for i, img_base64 in enumerate(images_base64):
+                content.append({
+                    "type": "image_url",
+                    "image_url": {
+                        "url": f"data:image/jpeg;base64,{img_base64}"
+                    }
+                })
+            
+            response = self.client.chat.completions.create(
+                model="gpt-4o",  # Using gpt-4o for image processing
+                messages=[
+                    {"role": "system", "content": "You are a professional insurance document analyst. Extract information accurately from PDF documents converted to images."},
+                    {"role": "user", "content": content}
+                ],
+                temperature=0.1,
+                response_format={"type": "json_object"}
+            )
+            
+            result_text = response.choices[0].message.content
+            
+            # Log response details
+            print("OpenAI API RESPONSE (PDF):")
+            print("=" * 60)
+            print(f"Response length: {len(result_text)} characters")
+            print(f"Usage: {response.usage}")
+            print("\nResponse content:")
+            print(result_text)
+            print("=" * 60)
+            
+            # Extract buildings array from JSON response
+            try:
+                result = json.loads(result_text)
+                if isinstance(result, dict) and 'buildings' in result:
+                    return result['buildings']
+                else:
+                    print(f"Error: Expected 'buildings' key in response, got: {result}")
+                    return []
+            except Exception as json_error:
+                print(f"JSON parsing error: {json_error}")
+                print(f"Raw response text: {result_text}")
+                return []
+            
+        except Exception as e:
+            print(f"Error: OpenAI API call failed: {e}")
+            return []
+    
+    def _extract_from_json(self) -> List[Dict[str, Any]]:
+        """Extract information from JSON analysis results"""
+        
         # Prepare document text
         document_text = self._prepare_document_text()
         
@@ -137,7 +309,6 @@ Extraction items:
 
 Notes:
 - If there are multiple buildings/properties, extract information for each
-- 807 Broadway St Ne, Minneapolis, MN 55413 is confirmed as the main property address
 - If Building Limit is not explicitly stated, use empty string
 - Express amounts with $ symbol (e.g., $5,000)
 - Use abbreviations for Valuation (e.g., RC, ACV)
@@ -148,21 +319,36 @@ Document summary:
 Document details (first part):
 {full_document[:10000]}
 
-Please return information for each building in the following JSON array format:
-[
-  {{
-    "location_building": "Location 1 Building 1",
-    "address": "complete address",
-    "building_limit": "amount or empty string",
-    "personal_property_limit": "amount",
-    "business_income": "amount or empty string",
-    "deductible": "amount",
-    "valuation": "RC/ACV abbreviation"
-  }}
-]
+Please return information for each building in the following JSON object format:
+{{
+  "buildings": [
+    {{
+      "location_building": "Location 1 Building 1",
+      "address": "complete address",
+      "building_limit": "amount or empty string",
+      "personal_property_limit": "amount",
+      "business_income": "amount or empty string",
+      "deductible": "amount",
+      "valuation": "RC/ACV abbreviation"
+    }}
+  ]
+}}
 """
 
         try:
+            # Log request details
+            print("=" * 60)
+            print("OpenAI API REQUEST (JSON):")
+            print("=" * 60)
+            print(f"Model: gpt-4o-mini")
+            print(f"Temperature: 0.1")
+            print(f"Response format: json_object")
+            print("\nSystem message:")
+            print("You are a professional insurance document analyst. Extract information accurately and respond as a JSON array.")
+            print("\nUser prompt:")
+            print(prompt[:1000] + "..." if len(prompt) > 1000 else prompt)
+            print("\n" + "=" * 60)
+            
             response = self.client.chat.completions.create(
                 model="gpt-4o-mini",
                 messages=[
@@ -175,20 +361,26 @@ Please return information for each building in the following JSON array format:
             
             result_text = response.choices[0].message.content
             
-            # Extract as array if JSON object
+            # Log response details
+            print("OpenAI API RESPONSE:")
+            print("=" * 60)
+            print(f"Response length: {len(result_text)} characters")
+            print(f"Usage: {response.usage}")
+            print("\nResponse content:")
+            print(result_text)
+            print("=" * 60)
+            
+            # Extract buildings array from JSON response
             try:
                 result = json.loads(result_text)
                 if isinstance(result, dict) and 'buildings' in result:
                     return result['buildings']
-                elif isinstance(result, dict) and 'data' in result:
-                    return result['data']
-                elif isinstance(result, list):
-                    return result
                 else:
-                    # Convert to array if single object
-                    return [result] if result else []
-            except:
-                # Fallback for JSON parse failure
+                    print(f"Error: Expected 'buildings' key in response, got: {result}")
+                    return []
+            except Exception as json_error:
+                print(f"JSON parsing error: {json_error}")
+                print(f"Raw response text: {result_text}")
                 return []
             
         except Exception as e:
@@ -234,7 +426,7 @@ Please return information for each building in the following JSON array format:
         
         if output_file is None:
             # Generate default filename
-            input_path = Path(self.json_file_path)
+            input_path = Path(self.file_path)
             output_file = str(input_path.parent / f"{input_path.stem}_extracted.md")
         
         with open(output_file, 'w', encoding='utf-8') as f:
@@ -264,16 +456,17 @@ Please return information for each building in the following JSON array format:
 def main():
     """Main function"""
     if len(sys.argv) < 2:
-        print("Usage: python parse_insurance_json.py <JSON_file_path>")
+        print("Usage: python parse_insurance_json.py <file_path>")
         print("Example: python parse_insurance_json.py loganpark_analysis.json")
+        print("Example: python parse_insurance_json.py loganpark.pdf")
         print("\nNote: Please set OPENAI_API_KEY environment variable")
         sys.exit(1)
     
-    json_file = sys.argv[1]
+    file_path = sys.argv[1]
     
     # Check file existence
-    if not Path(json_file).exists():
-        print(f"Error: File '{json_file}' not found")
+    if not Path(file_path).exists():
+        print(f"Error: File '{file_path}' not found")
         sys.exit(1)
     
     # Check environment variable
@@ -283,7 +476,7 @@ def main():
         sys.exit(1)
     
     # Execute extraction
-    extractor = InsuranceDataExtractor(json_file)
+    extractor = InsuranceDataExtractor(file_path)
     results = extractor.display_results_as_table()
     
     # Save in Markdown format
