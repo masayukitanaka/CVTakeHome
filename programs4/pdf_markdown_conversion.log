@@ -1,0 +1,184 @@
+2025-08-24 19:08:47,895 - INFO - Starting PDF conversion: loganpark.pdf
+2025-08-24 19:08:47,895 - INFO - Page range: 1-22 (22 pages)
+2025-08-24 19:08:47,975 - INFO - Extracted 2856 characters from page 1
+2025-08-24 19:08:47,975 - INFO - Converting page 1 to Markdown using OpenAI...
+2025-08-24 19:08:54,170 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:08:54,180 - INFO - Successfully converted page 1 to Markdown (3000 characters)
+2025-08-24 19:08:54,226 - INFO - Extracted 642 characters from page 2
+2025-08-24 19:08:54,226 - INFO - Converting page 2 to Markdown using OpenAI...
+2025-08-24 19:08:55,719 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:08:55,726 - INFO - Successfully converted page 2 to Markdown (703 characters)
+2025-08-24 19:08:55,769 - INFO - Extracted 333 characters from page 3
+2025-08-24 19:08:55,770 - INFO - Converting page 3 to Markdown using OpenAI...
+2025-08-24 19:08:56,889 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:08:56,893 - INFO - Successfully converted page 3 to Markdown (397 characters)
+2025-08-24 19:08:56,954 - INFO - Extracted 1220 characters from page 4
+2025-08-24 19:08:56,955 - INFO - Converting page 4 to Markdown using OpenAI...
+2025-08-24 19:08:58,745 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:08:58,746 - INFO - Successfully converted page 4 to Markdown (1232 characters)
+2025-08-24 19:08:58,776 - INFO - Extracted 627 characters from page 5
+2025-08-24 19:08:58,776 - INFO - Converting page 5 to Markdown using OpenAI...
+2025-08-24 19:09:00,165 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:09:00,168 - INFO - Successfully converted page 5 to Markdown (672 characters)
+2025-08-24 19:09:00,257 - INFO - Extracted 3156 characters from page 6
+2025-08-24 19:09:00,258 - INFO - Converting page 6 to Markdown using OpenAI...
+2025-08-24 19:09:05,227 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:09:05,229 - INFO - Successfully converted page 6 to Markdown (3356 characters)
+2025-08-24 19:09:05,292 - INFO - Extracted 1563 characters from page 7
+2025-08-24 19:09:05,293 - INFO - Converting page 7 to Markdown using OpenAI...
+2025-08-24 19:09:09,365 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:09:09,374 - INFO - Successfully converted page 7 to Markdown (1859 characters)
+2025-08-24 19:09:09,473 - INFO - Extracted 2558 characters from page 8
+2025-08-24 19:09:09,473 - INFO - Converting page 8 to Markdown using OpenAI...
+2025-08-24 19:09:16,595 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:09:16,596 - INFO - Successfully converted page 8 to Markdown (4507 characters)
+2025-08-24 19:09:16,634 - INFO - Extracted 610 characters from page 9
+2025-08-24 19:09:16,635 - INFO - Converting page 9 to Markdown using OpenAI...
+2025-08-24 19:09:18,334 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:09:18,336 - INFO - Successfully converted page 9 to Markdown (686 characters)
+2025-08-24 19:09:18,400 - INFO - Extracted 1540 characters from page 10
+2025-08-24 19:09:18,401 - INFO - Converting page 10 to Markdown using OpenAI...
+2025-08-24 19:09:23,109 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:09:23,110 - INFO - Successfully converted page 10 to Markdown (2302 characters)
+2025-08-24 19:09:23,167 - INFO - Extracted 1880 characters from page 11
+2025-08-24 19:09:23,168 - INFO - Converting page 11 to Markdown using OpenAI...
+2025-08-24 19:09:27,902 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:09:27,904 - INFO - Successfully converted page 11 to Markdown (2299 characters)
+2025-08-24 19:09:27,920 - INFO - Extracted 44 characters from page 12
+2025-08-24 19:09:27,921 - INFO - Converting page 12 to Markdown using OpenAI...
+2025-08-24 19:09:28,478 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:09:28,486 - INFO - Successfully converted page 12 to Markdown (68 characters)
+2025-08-24 19:09:28,557 - INFO - Extracted 2351 characters from page 13
+2025-08-24 19:09:28,558 - INFO - Converting page 13 to Markdown using OpenAI...
+2025-08-24 19:09:33,181 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:09:33,183 - INFO - Successfully converted page 13 to Markdown (2737 characters)
+2025-08-24 19:09:33,290 - INFO - Extracted 3349 characters from page 14
+2025-08-24 19:09:33,290 - INFO - Converting page 14 to Markdown using OpenAI...
+2025-08-24 19:09:38,405 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:09:38,407 - INFO - Successfully converted page 14 to Markdown (3412 characters)
+2025-08-24 19:09:38,439 - INFO - Extracted 454 characters from page 15
+2025-08-24 19:09:38,440 - INFO - Converting page 15 to Markdown using OpenAI...
+2025-08-24 19:09:39,539 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:09:39,541 - INFO - Successfully converted page 15 to Markdown (474 characters)
+2025-08-24 19:09:39,588 - INFO - Extracted 1840 characters from page 16
+2025-08-24 19:09:39,588 - INFO - Converting page 16 to Markdown using OpenAI...
+2025-08-24 19:09:42,668 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:09:42,671 - INFO - Successfully converted page 16 to Markdown (1918 characters)
+2025-08-24 19:09:42,724 - INFO - Extracted 1467 characters from page 17
+2025-08-24 19:09:42,724 - INFO - Converting page 17 to Markdown using OpenAI...
+2025-08-24 19:09:45,702 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:09:45,705 - INFO - Successfully converted page 17 to Markdown (1424 characters)
+2025-08-24 19:09:45,743 - INFO - Extracted 1090 characters from page 18
+2025-08-24 19:09:45,744 - INFO - Converting page 18 to Markdown using OpenAI...
+2025-08-24 19:09:49,024 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:09:49,036 - INFO - Successfully converted page 18 to Markdown (1393 characters)
+2025-08-24 19:09:49,087 - INFO - Extracted 1085 characters from page 19
+2025-08-24 19:09:49,087 - INFO - Converting page 19 to Markdown using OpenAI...
+2025-08-24 19:09:51,973 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:09:51,975 - INFO - Successfully converted page 19 to Markdown (1215 characters)
+2025-08-24 19:09:52,052 - INFO - Extracted 2250 characters from page 20
+2025-08-24 19:09:52,053 - INFO - Converting page 20 to Markdown using OpenAI...
+2025-08-24 19:09:56,009 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:09:56,014 - INFO - Successfully converted page 20 to Markdown (2280 characters)
+2025-08-24 19:09:56,046 - INFO - Extracted 451 characters from page 21
+2025-08-24 19:09:56,046 - INFO - Converting page 21 to Markdown using OpenAI...
+2025-08-24 19:09:57,452 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:09:57,454 - INFO - Successfully converted page 21 to Markdown (475 characters)
+2025-08-24 19:09:57,469 - INFO - Extracted 44 characters from page 22
+2025-08-24 19:09:57,470 - INFO - Converting page 22 to Markdown using OpenAI...
+2025-08-24 19:09:58,377 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:09:58,378 - INFO - Successfully converted page 22 to Markdown (68 characters)
+2025-08-24 19:09:58,379 - INFO - Conversion complete: loganpark_converted.md
+2025-08-24 19:09:58,379 - INFO - Final markdown length: 36697 characters
+2025-08-24 19:13:58,116 - INFO - Starting PDF conversion: loganpark.pdf
+2025-08-24 19:13:58,116 - INFO - Page range: 1-22 (22 pages)
+2025-08-24 19:13:58,196 - INFO - Extracted 2856 characters from page 1
+2025-08-24 19:13:58,196 - INFO - Converting page 1 to Markdown using OpenAI...
+2025-08-24 19:14:04,139 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:14:04,148 - INFO - Successfully converted page 1 to Markdown (3004 characters)
+2025-08-24 19:14:04,208 - INFO - Extracted 642 characters from page 2
+2025-08-24 19:14:04,209 - INFO - Converting page 2 to Markdown using OpenAI...
+2025-08-24 19:14:05,773 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:14:05,775 - INFO - Successfully converted page 2 to Markdown (703 characters)
+2025-08-24 19:14:05,823 - INFO - Extracted 333 characters from page 3
+2025-08-24 19:14:05,824 - INFO - Converting page 3 to Markdown using OpenAI...
+2025-08-24 19:14:07,205 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:14:07,207 - INFO - Successfully converted page 3 to Markdown (397 characters)
+2025-08-24 19:14:07,269 - INFO - Extracted 1220 characters from page 4
+2025-08-24 19:14:07,269 - INFO - Converting page 4 to Markdown using OpenAI...
+2025-08-24 19:14:09,155 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:14:09,158 - INFO - Successfully converted page 4 to Markdown (1232 characters)
+2025-08-24 19:14:09,196 - INFO - Extracted 627 characters from page 5
+2025-08-24 19:14:09,196 - INFO - Converting page 5 to Markdown using OpenAI...
+2025-08-24 19:14:10,793 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:14:10,795 - INFO - Successfully converted page 5 to Markdown (672 characters)
+2025-08-24 19:14:10,885 - INFO - Extracted 3156 characters from page 6
+2025-08-24 19:14:10,885 - INFO - Converting page 6 to Markdown using OpenAI...
+2025-08-24 19:14:16,022 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:14:16,025 - INFO - Successfully converted page 6 to Markdown (3356 characters)
+2025-08-24 19:14:16,085 - INFO - Extracted 1563 characters from page 7
+2025-08-24 19:14:16,085 - INFO - Converting page 7 to Markdown using OpenAI...
+2025-08-24 19:14:20,841 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:14:20,844 - INFO - Successfully converted page 7 to Markdown (1853 characters)
+2025-08-24 19:14:20,933 - INFO - Extracted 2558 characters from page 8
+2025-08-24 19:14:20,934 - INFO - Converting page 8 to Markdown using OpenAI...
+2025-08-24 19:14:27,196 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:14:27,198 - INFO - Successfully converted page 8 to Markdown (4475 characters)
+2025-08-24 19:14:27,238 - INFO - Extracted 610 characters from page 9
+2025-08-24 19:14:27,238 - INFO - Converting page 9 to Markdown using OpenAI...
+2025-08-24 19:14:29,039 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:14:29,041 - INFO - Successfully converted page 9 to Markdown (686 characters)
+2025-08-24 19:14:29,099 - INFO - Extracted 1540 characters from page 10
+2025-08-24 19:14:29,099 - INFO - Converting page 10 to Markdown using OpenAI...
+2025-08-24 19:14:35,597 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:14:35,600 - INFO - Successfully converted page 10 to Markdown (2290 characters)
+2025-08-24 19:14:35,669 - INFO - Extracted 1880 characters from page 11
+2025-08-24 19:14:35,669 - INFO - Converting page 11 to Markdown using OpenAI...
+2025-08-24 19:14:42,867 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:14:42,869 - INFO - Successfully converted page 11 to Markdown (2709 characters)
+2025-08-24 19:14:42,884 - INFO - Extracted 44 characters from page 12
+2025-08-24 19:14:42,885 - INFO - Converting page 12 to Markdown using OpenAI...
+2025-08-24 19:14:43,366 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:14:43,386 - INFO - Successfully converted page 12 to Markdown (68 characters)
+2025-08-24 19:14:43,463 - INFO - Extracted 2351 characters from page 13
+2025-08-24 19:14:43,463 - INFO - Converting page 13 to Markdown using OpenAI...
+2025-08-24 19:14:47,992 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:14:47,994 - INFO - Successfully converted page 13 to Markdown (2736 characters)
+2025-08-24 19:14:48,101 - INFO - Extracted 3349 characters from page 14
+2025-08-24 19:14:48,101 - INFO - Converting page 14 to Markdown using OpenAI...
+2025-08-24 19:14:52,498 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:14:52,500 - INFO - Successfully converted page 14 to Markdown (3412 characters)
+2025-08-24 19:14:52,533 - INFO - Extracted 454 characters from page 15
+2025-08-24 19:14:52,534 - INFO - Converting page 15 to Markdown using OpenAI...
+2025-08-24 19:14:53,497 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:14:53,501 - INFO - Successfully converted page 15 to Markdown (474 characters)
+2025-08-24 19:14:53,559 - INFO - Extracted 1840 characters from page 16
+2025-08-24 19:14:53,560 - INFO - Converting page 16 to Markdown using OpenAI...
+2025-08-24 19:14:58,128 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:14:58,130 - INFO - Successfully converted page 16 to Markdown (1919 characters)
+2025-08-24 19:14:58,190 - INFO - Extracted 1467 characters from page 17
+2025-08-24 19:14:58,191 - INFO - Converting page 17 to Markdown using OpenAI...
+2025-08-24 19:15:01,509 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:15:01,511 - INFO - Successfully converted page 17 to Markdown (1595 characters)
+2025-08-24 19:15:01,562 - INFO - Extracted 1090 characters from page 18
+2025-08-24 19:15:01,562 - INFO - Converting page 18 to Markdown using OpenAI...
+2025-08-24 19:15:04,480 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:15:04,482 - INFO - Successfully converted page 18 to Markdown (1381 characters)
+2025-08-24 19:15:04,527 - INFO - Extracted 1085 characters from page 19
+2025-08-24 19:15:04,527 - INFO - Converting page 19 to Markdown using OpenAI...
+2025-08-24 19:15:07,447 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:15:07,448 - INFO - Successfully converted page 19 to Markdown (1215 characters)
+2025-08-24 19:15:07,526 - INFO - Extracted 2250 characters from page 20
+2025-08-24 19:15:07,526 - INFO - Converting page 20 to Markdown using OpenAI...
+2025-08-24 19:15:14,719 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:15:14,721 - INFO - Successfully converted page 20 to Markdown (2280 characters)
+2025-08-24 19:15:14,756 - INFO - Extracted 451 characters from page 21
+2025-08-24 19:15:14,756 - INFO - Converting page 21 to Markdown using OpenAI...
+2025-08-24 19:15:15,806 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:15:15,826 - INFO - Successfully converted page 21 to Markdown (475 characters)
+2025-08-24 19:15:15,843 - INFO - Extracted 44 characters from page 22
+2025-08-24 19:15:15,843 - INFO - Converting page 22 to Markdown using OpenAI...
+2025-08-24 19:15:16,458 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 19:15:16,460 - INFO - Successfully converted page 22 to Markdown (68 characters)
+2025-08-24 19:15:16,462 - INFO - Conversion complete: loganpark_converted.md
+2025-08-24 19:15:16,462 - INFO - Final markdown length: 37220 characters

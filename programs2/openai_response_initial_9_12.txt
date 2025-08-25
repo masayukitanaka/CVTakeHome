@@ -1,118 +1,112 @@
 [
   {
     "page_number": 9,
-    "summary": "This page describes exclusions related to Perfluoroalkyl and Polyfluoroalkyl Substances, detailing instances where liability does not apply for bodily injury or property damage caused by these substances. The page elaborates on the definition and scope of these substances.",
+    "summary": "This page includes details of specific insurance endorsements related to loss recovery and additional insured parties. It outlines the conditions under which these supplemental coverages apply, such as primary and non-contributory contexts.",
     "full_text": "Text will be extracted separately",
     "tables_and_figures": [
       {
-        "type": "n/a",
-        "description": "No tables or figures on this page.",
-        "content": "N/A"
+        "type": "table",
+        "description": "Schedule of additional insured and waivers",
+        "content": "Details of specific endorsements such as Waiver of Transfer of Rights Recovery Against Others"
       }
     ],
     "key_information": {
-      "insured_property": "No specific property information found.",
-      "coverage_details": "Exclusion of coverage for damages involving PFAS.",
-      "dates": "N/A",
-      "amounts": "N/A",
-      "addresses": "N/A"
+      "insured_property": "807 Broadway St Ne, Minneapolis, MN 55413",
+      "coverage_details": "Businessowners policy with waivers and endorsements for additional insureds",
+      "dates": "Effective Date: 10/05/2024",
+      "amounts": "Not specified",
+      "addresses": "2424 Kennedy St NE, Minneapolis, MN 55413"
     },
     "relationships": {
-      "continues_from_previous": "Exclusions and definitions continued from previous page sections.",
-      "continues_to_next": "The exclusion continues with further details.",
-      "references": "References to liability terms and PFAS definitions in insurance context."
+      "continues_from_previous": "Introduction of schedules related to insured parties",
+      "continues_to_next": "Detailed descriptions of protective devices or services provisions",
+      "references": "Figure/Table detailing additional insured coverage"
     },
     "document_structure": {
-      "section_title": "Exclusions Related to PFAS",
-      "subsections": ["Exclusions", "Definitions"],
+      "section_title": "Waiver and Additional Insured Endorsements",
+      "subsections": ["Waiver of Transfer of Rights of Recovery", "Additional Insured Coverage"],
       "page_type": "content"
     }
   },
   {
     "page_number": 10,
-    "summary": "Discusses the exclusion of coverage for losses due to terrorism in the renewed policy. It explains the Terrorism Risk Insurance Program and the policyholder's decision not to include terrorism coverage.",
+    "summary": "This section focuses on the protective measures required by the policy, describing the types of systems and their maintenance required to qualify for specific insurance coverage.",
     "full_text": "Text will be extracted separately",
     "tables_and_figures": [
       {
-        "type": "n/a",
-        "description": "No tables or figures on this page.",
-        "content": "N/A"
+        "type": "table",
+        "description": "List of Protective Devices or Services Provisions",
+        "content": "Descriptions of automatic fire systems, alarms, and other protective safeguards"
       }
     ],
     "key_information": {
-      "insured_property": "N/A",
-      "coverage_details": "Exclusion of Terrorism Insurance Coverage.",
-      "dates": "10/05/2024 - 10/05/2025 policy period.",
-      "amounts": "N/A",
-      "addresses": "N/A"
+      "insured_property": "807 Broadway St Ne, Minneapolis, MN 55413",
+      "coverage_details": "Insurance provision based on maintained protective devices",
+      "dates": "No specific dates mentioned",
+      "amounts": "Not specified",
+      "addresses": "No new addresses introduced"
     },
     "relationships": {
-      "continues_from_previous": "Follows terrorism exclusion notifications.",
-      "continues_to_next": "May reference general insurance exclusions in upcoming sections.",
-      "references": "References the federal Terrorism Risk Insurance Program."
+      "continues_from_previous": "Additional insured's and waivers' endorsement details",
+      "continues_to_next": "Policy modifications and exclusions related to protective devices",
+      "references": "Referencing coded listings of safeguards"
     },
     "document_structure": {
-      "section_title": "Policyholder Disclosure Notice of Terrorism Insurance Coverage",
-      "subsections": ["Rejection or Selection of Coverage"],
+      "section_title": "Protective Devices or Services Provisions",
+      "subsections": ["Automatic Sprinkler Systems", "Fire Alarms", "Security Services"],
       "page_type": "content"
     }
   },
   {
     "page_number": 11,
-    "summary": "The page lists various endorsements and exclusions incorporated into the insurance policy. Specific attention is given to exclusions for fiduciary liability, pollution, and cyber incidents.",
+    "summary": "This page provides a continuation of the protective devices list, detailing exclusions related to property insurance when certain conditions are unmet by the property owner.",
     "full_text": "Text will be extracted separately",
     "tables_and_figures": [
       {
-        "type": "list",
-        "description": "List of endorsements and exclusions.",
-        "content": "Includes exclusions for asbestos, fiduciary liability, and cyber incidents."
+        "type": "table",
+        "description": "Exclusions related to failure of maintaining safeguards",
+        "content": "Details fire, electrical, and structural safeguard conditions"
       }
     ],
     "key_information": {
-      "insured_property": "N/A",
-      "coverage_details": "Detailed endorsement and exclusion list.",
-      "dates": "Various revision dates for each endorsement.",
-      "amounts": "N/A",
-      "addresses": "N/A"
+      "insured_property": "807 Broadway St Ne, Minneapolis, MN 55413",
+      "coverage_details": "Conditions relating to exclusion of coverage if safeguards are not maintained",
+      "dates": "No specific dates mentioned",
+      "amounts": "Not specified",
+      "addresses": "No new addresses introduced"
     },
     "relationships": {
-      "continues_from_previous": "Follows previous sections of exclusions.",
-      "continues_to_next": "Endorsements and exclusions may continue in subsequent pages.",
-      "references": "References multiple insurance forms and exclusions."
+      "continues_from_previous": "Description of maintained safeguards necessary for insurance",
+      "continues_to_next": "Introduction to general terms and section changes",
+      "references": "Referenced safeguard codes and operational conditions"
     },
     "document_structure": {
-      "section_title": "Endorsements and Exclusions",
-      "subsections": ["Detailed listing of insurance policy endorsements"],
-      "page_type": "technical list"
+      "section_title": "Protective Devices or Services Provisions",
+      "subsections": ["Safeguard Failure Exclusions", "Fire and Security Systems"],
+      "page_type": "content"
     }
   },
   {
     "page_number": 12,
-    "summary": "This page focuses on safety recommendations to prevent common insurance claims. It highlights issues like slips, trips, and falls, and advises on implementing preventive measures like maintaining lighting and removing clutter.",
+    "summary": "The page includes general policy amendments and exclusions such as those related to auto coverage and terrorism. It notes the elective nature of terrorism coverage and provides conditions under which certain coverages are applied.",
     "full_text": "Text will be extracted separately",
-    "tables_and_figures": [
-      {
-        "type": "notice",
-        "description": "Safety notice emphasizing loss prevention.",
-        "content": "Includes a list of common causes for accidents and preventative steps."
-      }
-    ],
+    "tables_and_figures": [],
     "key_information": {
-      "insured_property": "N/A",
-      "coverage_details": "General guidance on safety improvements.",
-      "dates": "N/A",
-      "amounts": "N/A",
-      "addresses": "N/A"
+      "insured_property": "Not specified",
+      "coverage_details": "Includes terrorism insurance and Primary And Non-Contributory endorsements",
+      "dates": "No specific dates mentioned",
+      "amounts": "Not specified",
+      "addresses": "No new addresses introduced"
     },
     "relationships": {
-      "continues_from_previous": "Follows general advice and policy details.",
-      "continues_to_next": "May link to further detailed safety guidelines.",
-      "references": "Emphasis on implementing safety measures to avoid future claims."
+      "continues_from_previous": "Endorsements related to safeguarding exclusions",
+      "continues_to_next": "Coverage limits and general liability description",
+      "references": "References to policyholders’ right to elect terrorism coverage"
     },
     "document_structure": {
-      "section_title": "Loss Control and Safety Recommendations",
-      "subsections": ["Safety Advice", "Examples of Common Issues"],
-      "page_type": "advisory notice"
+      "section_title": "General Exclusions and Endorsements",
+      "subsections": ["Endorsements for Exclusions", "Terrorism Insurance"],
+      "page_type": "content"
     }
   }
 ]

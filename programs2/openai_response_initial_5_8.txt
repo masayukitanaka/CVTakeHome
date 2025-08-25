@@ -1,99 +1,117 @@
 [
   {
     "page_number": 5,
-    "summary": "This page provides details on the insured losses related to perfluoroalkyl and polyfluoroalkyl substances (PFAS), explaining the exclusions on the related liabilities such as bodily injury or property damage caused by these substances. The definition of PFAS and the associated coverage limitations are discussed.",
+    "summary": "This page deals with the description of the insured premises, specifying details such as location, type of construction, and occupancy. Insurance coverage limits for property and liabilities are outlined, including the business income and extra expense coverage.",
     "full_text": "Text will be extracted separately",
-    "tables_and_figures": [],
+    "tables_and_figures": [
+      {
+        "type": "table",
+        "description": "Insurance Coverage Details Table",
+        "content": "Location, Construction, Occupancy details; Coverage and Deductible details; Specific insurance limits and valuation types."
+      }
+    ],
     "key_information": {
-      "insured_property": "Not specified",
-      "coverage_details": "Exclusion of liability for bodily injury/property damage due to PFAS",
+      "insured_property": "807 Broadway St Ne, Minneapolis, MN 55413",
+      "coverage_details": "Business Income and Extra Expense, Business Personal Property",
       "dates": "Effective Date: 10/05/2024",
-      "amounts": "Not mentioned",
+      "amounts": "Business Income and Extra Expense: $16,552, Personal Property: $5,000",
       "addresses": "807 Broadway St Ne, Minneapolis, MN 55413"
     },
     "relationships": {
-      "continues_from_previous": "Exclusions related to liability are part of ongoing exclusion discussions",
-      "continues_to_next": "Continuation of detailed policy exclusions",
-      "references": "Common Policy Conditions related to liability and exclusions"
+      "continues_from_previous": "No specific continuation",
+      "continues_to_next": "Further policy and liability details on next page",
+      "references": "References to Schedule and Terms"
     },
     "document_structure": {
-      "section_title": "Exclusion for Perfluoroalkyl and Polyfluoroalkyl Substances (PFAS)",
-      "subsections": [],
+      "section_title": "BUSINESSOWNERS PROPERTY COVERAGE PART DECLARATIONS",
+      "subsections": ["Limits of Insurance", "Premium Computation"],
       "page_type": "content"
     }
   },
   {
     "page_number": 6,
-    "summary": "This page focuses on exclusions regarding terrorism insurance coverage. The document states that terrorism coverage is not included unless elected by the policyholder with specific terms for different states highlighted.",
+    "summary": "This page provides details on additional insureds and the waiver of recovery rights. It outlines specific endorsements and exclusions, like those for terrorism and specific business activities.",
     "full_text": "Text will be extracted separately",
     "tables_and_figures": [
       {
-        "type": "Notice",
-        "description": "Policyholder disclosure on terrorism insurance coverage",
-        "content": "Notification about coverage rights under the Terrorism Risk Insurance Act"
+        "type": "table",
+        "description": "Endorsement Details Table",
+        "content": "Additional insureds details, Exclusions and endorsements applied, such as Waiver Of Transfer Of Rights."
       }
     ],
     "key_information": {
       "insured_property": "Not specified",
-      "coverage_details": "Terrorism insurance coverage exclusion information",
-      "dates": "Response required by 11/04/2024",
+      "coverage_details": "Additional Insured - Managers Or Lessors Of Premises",
+      "dates": "Effective Date: 10/05/2024",
       "amounts": "Not specified",
-      "addresses": "807 Broadway St Ne, Minneapolis, MN 55413"
+      "addresses": "Certification and disclosure addresses are detailed"
     },
     "relationships": {
-      "continues_from_previous": "Related to the terrorism exclusion endorsements",
-      "continues_to_next": "Continuation of policy notices and endorsements",
-      "references": "Terrorism Risk Insurance Act"
+      "continues_from_previous": "Property coverage details",
+      "continues_to_next": "Further endorsement details and exclusions",
+      "references": "References to Common Policy Conditions"
     },
     "document_structure": {
-      "section_title": "Policyholder Disclosure Notice of Terrorism Insurance Coverage",
-      "subsections": [],
+      "section_title": "GENERAL LIABILITY COVERAGE PART DECLARATIONS",
+      "subsections": ["Additional Insureds", "Exclusions"],
       "page_type": "content"
     }
   },
   {
     "page_number": 7,
-    "summary": "The page details additional insured parties and pertinent endorsements such as managers or lessors of premises, and waiver of rights of recovery. It includes policy numbers related to these insurance modifications.",
+    "summary": "The document discusses protective devices or services provisions. It lists mandatory safeguards that need to be maintained such as automatic sprinkler systems and smoke detectors.",
     "full_text": "Text will be extracted separately",
-    "tables_and_figures": [],
+    "tables_and_figures": [
+      {
+        "type": "table",
+        "description": "Protective Devices Table",
+        "content": "Symbols and descriptions for required protective safeguards such as ‘P-1’ Automatic Sprinkler System, ‘P-5’ Smoke detectors."
+      }
+    ],
     "key_information": {
-      "insured_property": "Not specified",
-      "coverage_details": "Endorsements for additional insured parties",
-      "dates": "Effective Date: 10/05/2024",
+      "insured_property": "Not explicitly mentioned",
+      "coverage_details": "Specifications on required protective safeguards for coverage",
+      "dates": "Not explicitly mentioned",
       "amounts": "Not specified",
-      "addresses": "807 Broadway St Ne, Minneapolis, MN 55413"
+      "addresses": "Specification addresses generally apply"
     },
     "relationships": {
-      "continues_from_previous": "Details on additional insured parties continue",
-      "continues_to_next": "Further information on insurance endorsements",
-      "references": "Additional endorsements in the Businessowners Coverage Form"
+      "continues_from_previous": "Exclusion of specific events",
+      "continues_to_next": "Continues the list of safeguards and protection standards",
+      "references": "Connected to property protection endorsements"
     },
     "document_structure": {
-      "section_title": "Additional Insured Endorsements",
-      "subsections": [],
+      "section_title": "PROTECTIVE DEVICES OR SERVICES PROVISIONS",
+      "subsections": ["Protective Safeguards"],
       "page_type": "content"
     }
   },
   {
     "page_number": 8,
-    "summary": "This final analyzed page provides a list of coverage forms and endorsements, highlighting specific exclusions such as the PFAS exclusion and cyber incident exclusions. Details for communicating policy changes and compliance are outlined.",
+    "summary": "The page continues to list and explain the exclusions and protective safeguards. All required systems must be maintained to ensure coverage, including electric circuit breakers and other security measures.",
     "full_text": "Text will be extracted separately",
-    "tables_and_figures": [],
+    "tables_and_figures": [
+      {
+        "type": "chart",
+        "description": "Safeguard and Exclusion Chart",
+        "content": "Details of each measure, including how failing them affects coverage."
+      }
+    ],
     "key_information": {
-      "insured_property": "Not specified",
-      "coverage_details": "List of exclusions and endorsements in policy",
-      "dates": "Effective Date: 10/05/2024",
+      "insured_property": "Applies generally as specified",
+      "coverage_details": "Details on preventive measures essential for maintaining coverage",
+      "dates": "Not clearly defined",
       "amounts": "Not specified",
-      "addresses": "807 Broadway St Ne, Minneapolis, MN 55413"
+      "addresses": "Applies as per general policy specifications"
     },
     "relationships": {
-      "continues_from_previous": "Endorsements continuation",
-      "continues_to_next": "Wrap up of policy structure and list of exclusions",
-      "references": "Coverage amendments and exclusions for policy number NBP1555904G"
+      "continues_from_previous": "Protection and exclusion details",
+      "continues_to_next": "Possible continuation on next page with further exclusions",
+      "references": "Related to Property Conditions section"
     },
     "document_structure": {
-      "section_title": "Policy Endorsements and Exclusions",
-      "subsections": [],
+      "section_title": "CONTINUED PROTECTIVE SAFEGUARDS",
+      "subsections": ["Exclusions Based on Safeguards"],
       "page_type": "content"
     }
   }

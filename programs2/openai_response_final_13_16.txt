@@ -1,118 +1,118 @@
 [
   {
     "page_number": 13,
-    "summary": "This page outlines certain insurance endorsements which modify liability coverage, specifically including details on exclusions regarding structural alterations, and adding organizations as insureds. The coverage is explained with respect to premises leased as specified in a schedule.",
+    "summary": "This page outlines the insurance coverage modifications concerning protective safeguards required for fire protection and maintenance. Specific requirements include functioning fire alarms, smoke detectors, and sprinkler systems. Exclusions apply if safeguards are not maintained.",
     "full_text": "Text will be extracted separately",
     "tables_and_figures": [
       {
-        "type": "endorsement table",
-        "description": "Additional Insured - Managers or Lessors of Premises",
-        "content": "Designation of premises, policy number, endorsement codes, and name of insured organizations."
+        "type": "table",
+        "description": "Protective Safeguards Requirements",
+        "content": "Includes items like automatic sprinkler system, fire alarm, security services, smoke detectors, etc."
       }
     ],
     "key_information": {
-      "insured_property": "807 BROADWAY ST NE, MINNEAPOLIS, MN 55413",
-      "coverage_details": "Businessowner's coverage modified to include certain additional insureds.",
-      "dates": "Effective date: 10/05/2024",
-      "amounts": "Policy Number: NBP1555904G",
-      "addresses": "2424 KENNEDY ST NE, MINNEAPOLIS, MN 55413"
+      "insured_property": "807 Broadway St Ne, Minneapolis, MN 55413",
+      "coverage_details": "Includes liability and property protection with specific instructions on fire protection systems.",
+      "dates": "Effective 10/05/2024",
+      "amounts": "Not specified",
+      "addresses": "807 Broadway St Ne, Minneapolis, MN 55413"
     },
     "relationships": {
-      "continues_from_previous": "Basic liability details and exclusions in section II",
-      "continues_to_next": "Further endorsements and schedule information",
-      "references": "Figure references a specific section within businessowner's coverage form"
+      "continues_from_previous": "Protective safeguards requirements",
+      "continues_to_next": "Exclusions and conditions for insurance claims",
+      "references": "References earlier sections on liability and property coverage"
     },
     "document_structure": {
-      "section_title": "ADDITIONAL INSURED - MANAGERS OR LESSORS OF PREMISES",
-      "subsections": [],
-      "page_type": "endorsement"
+      "section_title": "BUSINESSOWNERS COVERAGE FORM",
+      "subsections": ["Protective Safeguards", "Exclusions"],
+      "page_type": "content"
     }
   },
   {
     "page_number": 14,
-    "summary": "This section discusses exclusions related to property loss, particularly focusing on protective safeguards. It specifies conditions under which insurance will not cover losses due to vandalism, theft, and equipment breakdown.",
+    "summary": "This page contains part of the standard liability exclusions for the insurance policy, detailing specific conditions under which the insurance does not apply, such as improper maintenance of protective safeguards or notification failures regarding safeguard impairments.",
     "full_text": "Text will be extracted separately",
     "tables_and_figures": [
       {
-        "type": "exclusion clause and condition table",
-        "description": "Protective safeguards and conditions for loss coverage",
-        "content": "Details on failure to maintain safeguards and the resultant exclusions in coverage."
+        "type": "none",
+        "description": "No tables or figures present",
+        "content": "N/A"
       }
     ],
     "key_information": {
-      "insured_property": "Protective safeguards applicable to properties included in schedule.",
-      "coverage_details": "Includes exclusions for certain loss types under specific failures.",
-      "dates": "Policy conditions remain unchanged unless another effective date is shown.",
-      "amounts": "Not specifically mentioned.",
-      "addresses": "General coverage for properties as listed in accompanying schedules."
+      "insured_property": "807 Broadway St Ne, Minneapolis, MN 55413",
+      "coverage_details": "Liability exclusions specific to safeguard maintenance and notifications",
+      "dates": "Effective 10/05/2024",
+      "amounts": "Not specified",
+      "addresses": "807 Broadway St Ne, Minneapolis, MN 55413"
     },
     "relationships": {
-      "continues_from_previous": "Conditions of liability coverage from previous endorsements",
-      "continues_to_next": "Continuation of exclusions and conditions related to property coverage",
-      "references": "Refers back to specified conditions in section I - Property"
+      "continues_from_previous": "Liability exclusions related to safeguard requirements",
+      "continues_to_next": "Further exclusions related to property and liability",
+      "references": "Might refer to detailed sections on safeguard specifics"
     },
     "document_structure": {
-      "section_title": "EXCLUSIONS AND CONDITIONS",
-      "subsections": [],
-      "page_type": "exclusion clause"
+      "section_title": "EXCLUSIONS",
+      "subsections": ["Exclusions to Liability", "Notification Failures"],
+      "page_type": "content"
     }
   },
   {
     "page_number": 15,
-    "summary": "The document defines critical terms related to liability coverage and lists exclusions for various defined substances considered within the policy. Key chemicals like PFAS are explicitly excluded from coverage.",
+    "summary": "Further elaboration on exclusions for terrorism-related insurance, emphasizing the election to participate in such coverage. This page provides instructions for opting in or out and the accompanying statutory details regarding terrorism risk management.",
     "full_text": "Text will be extracted separately",
     "tables_and_figures": [
       {
-        "type": "definition and exclusion table",
-        "description": "Definitions and exclusion of specific substances from coverage",
-        "content": "Detailed chemical definitions and coverage exclusions related to PFAS."
+        "type": "none",
+        "description": "No tables or figures",
+        "content": "N/A"
       }
     ],
     "key_information": {
-      "insured_property": "No specific property information linked with PFAS",
-      "coverage_details": "Exclusion affects chemical-related coverage; PFAS substances specifically addressed.",
-      "dates": "Date of exclusion/additions: 12/23",
-      "amounts": "Amounts not directly affected but exclusions apply broadly.",
-      "addresses": "No addresses are specified."
+      "insured_property": "807 Broadway St Ne, Minneapolis, MN 55413",
+      "coverage_details": "Exclusion for terrorism coverage with options for election",
+      "dates": "Response due by 11/04/2024",
+      "amounts": "Premium for terrorism coverage not specified",
+      "addresses": "807 Broadway St Ne, Minneapolis, MN 55413"
     },
     "relationships": {
-      "continues_from_previous": "Following earlier established definitions and exclusions",
-      "continues_to_next": "Continuation of policy terms defining coverage extensions or restrictions",
-      "references": "References new and previous definitions affecting exclusions"
+      "continues_from_previous": "Exclusion clauses concerning liability",
+      "continues_to_next": "Policyholder acknowledgment and response",
+      "references": "Possibly cites federal terrorism acts and guidelines"
     },
     "document_structure": {
-      "section_title": "EXCLUSION – PERFLUOROALKYL AND POLYFLUOROALKYL SUBSTANCES",
-      "subsections": [],
-      "page_type": "exclusion definition"
+      "section_title": "TERRORISM INSURANCE",
+      "subsections": ["Exclusion Notice", "Opt-in Instructions"],
+      "page_type": "content"
     }
   },
   {
     "page_number": 16,
-    "summary": "This section provides a notification about the terrorism insurance coverage exclusions under current federal law. The page also reemphasizes general exclusions that remain unchanged through the complete policy declaration.",
+    "summary": "Details the effective date, coverage form designations, and includes a schedule of included endorsements within the policy, touching on non-contributory endorsements and rights waivers.",
     "full_text": "Text will be extracted separately",
     "tables_and_figures": [
       {
-        "type": "policy exclusion notice",
-        "description": "Notice of exclusion for terrorism-related incidents as per federal act",
-        "content": "Details on exclusion of terrorism coverage unless explicitly purchased."
+        "type": "table",
+        "description": "Schedule of Endorsements",
+        "content": "Lists several endorsements with brief descriptions"
       }
     ],
     "key_information": {
-      "insured_property": "No property explicitly mentioned",
-      "coverage_details": "Coverage only extended through explicit purchase and forms attached.",
-      "dates": "Policyholder decision deadline: 11/04/2024",
-      "amounts": "No specific amounts affected by decision.",
-      "addresses": "Recipient address is not specified, but applies universally."
+      "insured_property": "807 Broadway St Ne, Minneapolis, MN 55413",
+      "coverage_details": "Various endorsements applied to the coverage policy",
+      "dates": "Effective 10/05/2024",
+      "amounts": "Not specified",
+      "addresses": "807 Broadway St Ne, Minneapolis, MN 55413"
     },
     "relationships": {
-      "continues_from_previous": "Reiteration of general exclusions from previous policy discussions",
-      "continues_to_next": "Potential continuation into further exclusion details or summaries",
-      "references": "Offers a continuation to federal exclusions affecting existing policy structure"
+      "continues_from_previous": "Endorsements schedule beginning in previous sections",
+      "continues_to_next": "Possibly more endorsements or policy details",
+      "references": "Forms and endorsements mentioned are in conjunction with prior listings"
     },
     "document_structure": {
-      "section_title": "DISCLOSURE NOTICE OF TERRORISM INSURANCE COVERAGE",
-      "subsections": [],
-      "page_type": "exclusion notice"
+      "section_title": "ENDORSEMENTS SCHEDULE",
+      "subsections": ["Date Specifications", "Endorsement Types"],
+      "page_type": "content"
     }
   }
 ]

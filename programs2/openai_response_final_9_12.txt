@@ -1,117 +1,111 @@
 [
   {
-    "page_number": 1,
-    "summary": "This page includes general policy information, including the policy effective dates and the main insured parties involved.",
-    "full_text": "Complete full text of the page will be extracted separately.",
-    "tables_and_figures": [
-      {
-        "type": "n/a",
-        "description": "No tables or figures on this page.",
-        "content": "N/A"
-      }
-    ],
-    "key_information": {
-      "insured_property": "807 BROADWAY ST NE, MINNEAPOLIS, MN",
-      "coverage_details": "General liability and property coverage mentioned.",
-      "dates": "10/05/2024 to 10/05/2025",
-      "amounts": "Total premium: $461.33",
-      "addresses": "801 Broadway St NE, Minneapolis, MN 55413"
-    },
-    "relationships": {
-      "continues_from_previous": "Introduction to policy details.",
-      "continues_to_next": "Further details on coverage types.",
-      "references": "Related to introductory pages of policy document."
-    },
-    "document_structure": {
-      "section_title": "Policy Declarations",
-      "subsections": [],
-      "page_type": "content"
-    }
-  },
-  {
-    "page_number": 2,
-    "summary": "This page provides information about liability coverage, including limits for general liability.",
-    "full_text": "Complete full text of the page will be extracted separately.",
+    "page_number": 9,
+    "summary": "This page includes details of specific insurance endorsements related to loss recovery and additional insured parties. It outlines the conditions under which these supplemental coverages apply, such as primary and non-contributory contexts.",
+    "full_text": "Text will be extracted separately",
     "tables_and_figures": [
       {
         "type": "table",
-        "description": "Details of coverage types and limits.",
-        "content": "Coverage limits for General Liability: $1,000,000; Medical Expense: $5,000."
+        "description": "Schedule of additional insured and waivers",
+        "content": "Details of specific endorsements such as Waiver of Transfer of Rights Recovery Against Others"
       }
     ],
     "key_information": {
-      "insured_property": "N/A",
-      "coverage_details": "Liability coverage and limits outlined.",
-      "dates": "N/A",
-      "amounts": "Liability limit: $1,000,000; Medical Expense limit: $5,000.",
-      "addresses": "N/A"
+      "insured_property": "807 Broadway St Ne, Minneapolis, MN 55413",
+      "coverage_details": "Businessowners policy with waivers and endorsements for additional insureds",
+      "dates": "Effective Date: 10/05/2024",
+      "amounts": "Not specified",
+      "addresses": "2424 Kennedy St NE, Minneapolis, MN 55413"
     },
     "relationships": {
-      "continues_from_previous": "Continuation of insurance coverage details.",
-      "continues_to_next": "Subsequent sections might detail exclusions.",
-      "references": "References to other liability clauses and sections."
+      "continues_from_previous": "Introduction of schedules related to insured parties",
+      "continues_to_next": "Detailed descriptions of protective devices or services provisions",
+      "references": "Figure/Table detailing additional insured coverage"
     },
     "document_structure": {
-      "section_title": "General Liability Coverage",
-      "subsections": [],
+      "section_title": "Waiver and Additional Insured Endorsements",
+      "subsections": ["Waiver of Transfer of Rights of Recovery", "Additional Insured Coverage"],
       "page_type": "content"
     }
   },
   {
-    "page_number": 3,
-    "summary": "Details about exclusions regarding certain conditions, especially related to Fire and Theft.",
-    "full_text": "Complete full text of the page will be extracted separately.",
+    "page_number": 10,
+    "summary": "This section focuses on the protective measures required by the policy, describing the types of systems and their maintenance required to qualify for specific insurance coverage.",
+    "full_text": "Text will be extracted separately",
     "tables_and_figures": [
       {
-        "type": "list",
-        "description": "List of exclusions like vandalism and burglary.",
-        "content": "Exclusions apply if safeguards are not maintained."
+        "type": "table",
+        "description": "List of Protective Devices or Services Provisions",
+        "content": "Descriptions of automatic fire systems, alarms, and other protective safeguards"
       }
     ],
     "key_information": {
-      "insured_property": "Property protection conditions listed.",
-      "coverage_details": "Exclusions for loss due to fire, vandalism, etc.",
-      "dates": "N/A",
-      "amounts": "N/A",
-      "addresses": "N/A"
+      "insured_property": "807 Broadway St Ne, Minneapolis, MN 55413",
+      "coverage_details": "Insurance provision based on maintained protective devices",
+      "dates": "No specific dates mentioned",
+      "amounts": "Not specified",
+      "addresses": "No new addresses introduced"
     },
     "relationships": {
-      "continues_from_previous": "Follows exclusion sections.",
-      "continues_to_next": "May lead to more endorsements or conditions pages.",
-      "references": "References specific insurance forms."
+      "continues_from_previous": "Additional insured's and waivers' endorsement details",
+      "continues_to_next": "Policy modifications and exclusions related to protective devices",
+      "references": "Referencing coded listings of safeguards"
     },
     "document_structure": {
-      "section_title": "Exclusions",
-      "subsections": ["Protective Safeguard Conditions"],
+      "section_title": "Protective Devices or Services Provisions",
+      "subsections": ["Automatic Sprinkler Systems", "Fire Alarms", "Security Services"],
       "page_type": "content"
     }
   },
   {
-    "page_number": 4,
-    "summary": "Covers endorsements that modify the insurance policy, focusing on the addition of certain protective devices.",
-    "full_text": "Complete full text of the page will be extracted separately.",
+    "page_number": 11,
+    "summary": "This page provides a continuation of the protective devices list, detailing exclusions related to property insurance when certain conditions are unmet by the property owner.",
+    "full_text": "Text will be extracted separately",
     "tables_and_figures": [
       {
-        "type": "list",
-        "description": "Endorsements for protective devices or services.",
-        "content": "Details on required protective systems like alarms and sprinkler systems."
+        "type": "table",
+        "description": "Exclusions related to failure of maintaining safeguards",
+        "content": "Details fire, electrical, and structural safeguard conditions"
       }
     ],
     "key_information": {
-      "insured_property": "Involves property requirements.",
-      "coverage_details": "Details on protective safeguards required.",
-      "dates": "N/A",
-      "amounts": "N/A",
-      "addresses": "N/A"
+      "insured_property": "807 Broadway St Ne, Minneapolis, MN 55413",
+      "coverage_details": "Conditions relating to exclusion of coverage if safeguards are not maintained",
+      "dates": "No specific dates mentioned",
+      "amounts": "Not specified",
+      "addresses": "No new addresses introduced"
     },
     "relationships": {
-      "continues_from_previous": "Continuation of endorsements related to exclusions.",
-      "continues_to_next": "More details might continue onto the next page.",
-      "references": "Connected with policy conditions and additional endorsements."
+      "continues_from_previous": "Description of maintained safeguards necessary for insurance",
+      "continues_to_next": "Introduction to general terms and section changes",
+      "references": "Referenced safeguard codes and operational conditions"
     },
     "document_structure": {
-      "section_title": "Endorsements",
-      "subsections": ["Protective Devices"],
+      "section_title": "Protective Devices or Services Provisions",
+      "subsections": ["Safeguard Failure Exclusions", "Fire and Security Systems"],
+      "page_type": "content"
+    }
+  },
+  {
+    "page_number": 12,
+    "summary": "The page includes general policy amendments and exclusions such as those related to auto coverage and terrorism. It notes the elective nature of terrorism coverage and provides conditions under which certain coverages are applied.",
+    "full_text": "Text will be extracted separately",
+    "tables_and_figures": [],
+    "key_information": {
+      "insured_property": "Not specified",
+      "coverage_details": "Includes terrorism insurance and Primary And Non-Contributory endorsements",
+      "dates": "No specific dates mentioned",
+      "amounts": "Not specified",
+      "addresses": "No new addresses introduced"
+    },
+    "relationships": {
+      "continues_from_previous": "Endorsements related to safeguarding exclusions",
+      "continues_to_next": "Coverage limits and general liability description",
+      "references": "References to policyholders’ right to elect terrorism coverage"
+    },
+    "document_structure": {
+      "section_title": "General Exclusions and Endorsements",
+      "subsections": ["Endorsements for Exclusions", "Terrorism Insurance"],
       "page_type": "content"
     }
   }

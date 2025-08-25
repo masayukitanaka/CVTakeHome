@@ -1,111 +1,117 @@
 [
   {
     "page_number": 1,
-    "summary": "The first page contains the description of premises, including location, construction details, territory, and the protected causes of loss. Coverage limits and deductibles for Business Income and Extra Expense are detailed along with other financial summaries.",
+    "summary": "This page contains business owners property coverage declarations, including details about premises location, covered causes of loss, and protection class. It outlines specific coverage limits, general conditions, and minimum premiums.",
     "full_text": "Text will be extracted separately",
     "tables_and_figures": [
       {
         "type": "table",
-        "description": "Coverage and Financial Summary Table",
-        "content": "Location, Construction, Coverage Limits, Deductibles, Valuation Method, Premium Details"
+        "description": "Property Coverage Details Table",
+        "content": "Prem Bldg Coverage, Valuation, Premium, Deductible, Business Income and Extra Expense, Business Personal Property, Minimum Premium, etc."
       }
     ],
     "key_information": {
       "insured_property": "807 Broadway St Ne, Minneapolis, MN 55413",
-      "coverage_details": "Business Income and Extra Expense, Business Personal Property",
+      "coverage_details": "Business Income and Extra Expense ($16,552), Business Personal Property ($5,000), Liability and Medical Expenses ($1,000,000)",
       "dates": "Effective Date: 10/05/2024",
-      "amounts": "Coverage Amounts: $16,552 for Business Income and Extra Expense, $5,000 for Business Personal Property",
+      "amounts": "Total Premium for Property Coverage Part: $50",
       "addresses": "807 Broadway St Ne, Minneapolis, MN 55413"
     },
     "relationships": {
       "continues_from_previous": "N/A",
-      "continues_to_next": "Financial details and coverage specifications",
-      "references": "Businessowners Property Coverage Part Declarations"
+      "continues_to_next": "Coverage details likely continue on subsequent page",
+      "references": "References to limits of insurance and premises location"
     },
     "document_structure": {
       "section_title": "Businessowners Property Coverage Part Declarations",
-      "subsections": ["Coverage Details", "Premium Information"],
+      "subsections": ["Description of Premises", "Coverages Provided"],
       "page_type": "content"
     }
   },
   {
     "page_number": 2,
-    "summary": "This page describes the applicable coverages, limits of insurance, liability, and deductible features for premises owned or rented. Membership organization classifications and associated premiums are outlined.",
+    "summary": "The page lists forms and endorsements included in the insurance policy, like exclusions for vendor/exhibitor-related events, Minnesota changes, and cyber incident exclusions. It summarizes key exclusions and modifications applicable to the policy.",
     "full_text": "Text will be extracted separately",
     "tables_and_figures": [
       {
-        "type": "table",
-        "description": "Insurance Limits and Premium Computation Table",
-        "content": "Liability Limits, Medical Expenses, Deductible, Location Address, Territory, Premium Basis"
+        "type": "list",
+        "description": "List of Forms and Endorsements",
+        "content": "BP-97 Exclusion Event Vendor/Exhibitor, BP0003 Businessowners Coverage Form, BP0125 Minnesota Changes"
       }
     ],
     "key_information": {
-      "insured_property": "807 Broadway St Ne, Minneapolis, MN 55413",
-      "coverage_details": "Liability and Medical Expenses, Damages to Premises",
+      "insured_property": null,
+      "coverage_details": "Exclusions for various liabilities",
       "dates": "Effective Date: 10/05/2024",
-      "amounts": "Liability and Medical Expenses: $1,000,000; Medical Expense (per person): $5,000",
-      "addresses": "807 Broadway St Ne, Minneapolis, MN 55413"
+      "amounts": null,
+      "addresses": null
     },
     "relationships": {
-      "continues_from_previous": "Coverage details",
-      "continues_to_next": "Endorsements and protective safeguards",
-      "references": "Premium Computation for Membership Organizations"
+      "continues_from_previous": "Continuation from description of coverage",
+      "continues_to_next": "Further details on extensions and exclusions",
+      "references": "Extensions of Declarations, specific exclusions"
     },
     "document_structure": {
-      "section_title": "Businessowners General Liability Coverage Part Declarations",
-      "subsections": ["Limits of Insurance", "Locations", "Premium Computation"],
+      "section_title": "Forms and Endorsements",
+      "subsections": ["Exclusions", "Extensions"],
       "page_type": "content"
     }
   },
   {
     "page_number": 3,
-    "summary": "Details regarding endorsements such as the Protective Devices or Services Provisions are introduced, along with schedule descriptions for various protective systems and their requirements.",
+    "summary": "This renewal certificate page details the insurance renewal, including named insured, coverage parts, total premium amount, and effective dates. It acts as a summary of included coverage and premiums for the insured.",
     "full_text": "Text will be extracted separately",
     "tables_and_figures": [
       {
-        "type": "table",
-        "description": "Protective Devices and Systems Table",
-        "content": "Description of Protective Safeguards, Requirements, Endorsement Modifications"
+        "type": "summary",
+        "description": "Renewal Certificate Summary",
+        "content": "Named Insured and Address, Businessowners Liability Coverage Part, Businessowners Property Coverage Part, Fire Safety Surcharge, Total"
       }
     ],
     "key_information": {
-      "insured_property": "General premises and device requirements",
-      "coverage_details": "Protective Safeguards",
-      "dates": "Effective Date: 10/05/2024",
-      "amounts": "Not specified",
-      "addresses": "Not specified"
+      "insured_property": "807 Broadway St Ne, Ste 70, Minneapolis, MN 55413",
+      "coverage_details": "Property and liability coverages",
+      "dates": "Policy Period: 10/05/2024 to 10/05/2025",
+      "amounts": "Total: $461.33",
+      "addresses": "807 Broadway St Ne, Ste 70, Minneapolis, MN 55413"
     },
     "relationships": {
-      "continues_from_previous": "Details on insurance provisions",
-      "continues_to_next": "Endorsements and Coverage modifications",
-      "references": "Protective Safeguards Schedule"
+      "continues_from_previous": "Likely continuation of general policy details",
+      "continues_to_next": "References continuation and further policy breakdown",
+      "references": "Reference to terms of the renewal"
     },
     "document_structure": {
-      "section_title": "Protective Devices or Services Provisions",
-      "subsections": ["Schedule of Protective Safeguards", "Endorsement Modifications"],
+      "section_title": "Policy Declarations and Renewal Certificate",
+      "subsections": ["Premium", "Total Costs"],
       "page_type": "content"
     }
   },
   {
     "page_number": 4,
-    "summary": "The page provides details on specific exclusions within the insurance terms, particularly focusing on limitations like those associated with terrorism and protective safeguards.",
+    "summary": "This page contains additional coverage and protection safeguards, detailing requirements for maintaining alarms and other protective measures. It includes provisions for primary and non-contributory coverage under specific conditions.",
     "full_text": "Text will be extracted separately",
-    "tables_and_figures": [],
+    "tables_and_figures": [
+      {
+        "type": "provision table",
+        "description": "Protective Safeguards and Conditions",
+        "content": "List of protective safeguards like automatic sprinklers, alarms, and systems; conditions for maintaining these safeguards"
+      }
+    ],
     "key_information": {
-      "insured_property": "General property exclusions",
-      "coverage_details": "Exclusions related to terrorism and operational requirements",
-      "dates": "Notice dated for the policy and exclusions",
-      "amounts": "Not specified",
-      "addresses": "Not specified"
+      "insured_property": "2424 Kennedy St Ne, Minneapolis, MN 55413",
+      "coverage_details": "Primary and non-contributory coverage conditions",
+      "dates": "Effective Date: 10/05/2024",
+      "amounts": null,
+      "addresses": "2424 Kennedy St Ne, Minneapolis, MN 55413"
     },
     "relationships": {
-      "continues_from_previous": "Exclusion details",
-      "continues_to_next": "Continuation of exclusion terms",
-      "references": "Exclusion of Certified Acts of Terrorism"
+      "continues_from_previous": "Continuing from previous protection conditions",
+      "continues_to_next": "Potentially continues protective details or starts new section",
+      "references": "References secondary and primary coverage terms"
     },
     "document_structure": {
-      "section_title": "Exclusions and Coverage Limitations",
-      "subsections": ["Terrorism Exclusion", "Protective Systems"],
+      "section_title": "Protective Devices or Services Provisions",
+      "subsections": ["Safeguards", "Exclusions"],
       "page_type": "content"
     }
   }
