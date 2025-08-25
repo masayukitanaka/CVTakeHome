@@ -1,0 +1,60 @@
+[
+  {
+    "page_number": 21,
+    "summary": "This page details specific exclusions and additional insured information related to the liability insurance coverage. It includes a schedule that identifies additional insured parties and describes associated liabilities and exclusions.",
+    "full_text": "Text will be extracted separately",
+    "tables_and_figures": [
+      {
+        "type": "table",
+        "description": "Schedule for Additional Insured - Managers or Lessors of Premises",
+        "content": "Name of Additional Insured Person(s) or Organization(s): 807 BROADWAY REVIVAL, LLC AND HILLCREST DEVELOPMENT, LLLP, 2424 KENNEDY ST NE MINNEAPOLIS, MN 55413 Effective Date: 10/05/2024"
+      }
+    ],
+    "key_information": {
+      "insured_property": "807 BROADWAY REVIVAL, LLC AND HILLCREST DEVELOPMENT, LLLP",
+      "coverage_details": "Liability coverage with specific exclusions for occurring events after tenancy ends.",
+      "dates": "Effective on 10/05/2024",
+      "amounts": null,
+      "addresses": "2424 KENNEDY ST NE, MINNEAPOLIS, MN 55413"
+    },
+    "relationships": {
+      "continues_from_previous": "Continuing description of additional insured beneficiaries and exclusions.",
+      "continues_to_next": "Likely to continue with more endorsements or further exclusions.",
+      "references": "References a schedule and additional insured information possibly shown in other declarations."
+    },
+    "document_structure": {
+      "section_title": "BUSINESSOWNERS COVERAGE FORM",
+      "subsections": ["Additional Insured - Managers or Lessors of Premises"],
+      "page_type": "content"
+    }
+  },
+  {
+    "page_number": 22,
+    "summary": "Page 22 clarifies the terms under which additional insured individuals or organizations are covered, specifically highlighting exclusions and limitations within the policy.",
+    "full_text": "Text will be extracted separately",
+    "tables_and_figures": [
+      {
+        "type": "figure",
+        "description": "Description of Exclusions and Coverage Limits",
+        "content": "Exclusions related to the additional insured entities include non-attribution to structural alterations, new construction, or demolition."
+      }
+    ],
+    "key_information": {
+      "insured_property": "807 BROADWAY REVIVAL, LLC AND HILLCREST DEVELOPMENT, LLLP",
+      "coverage_details": "Additional insured covered only for specific liabilities related to rented premises.",
+      "dates": "Effective on 10/05/2024",
+      "amounts": null,
+      "addresses": "2424 KENNEDY ST NE, MINNEAPOLIS, MN 55413"
+    },
+    "relationships": {
+      "continues_from_previous": "Elaboration on coverage conditions for additional insureds",
+      "continues_to_next": null,
+      "references": "References terms from the main policy documents and declarations."
+    },
+    "document_structure": {
+      "section_title": "BUSINESSOWNERS COVERAGE FORM",
+      "subsections": ["Additional Insured - Managers or Lessors of Premises"],
+      "page_type": "content"
+    }
+  }
+]

@@ -1,0 +1,799 @@
+2025-08-24 17:49:30,525 - INFO - HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2025-08-24 17:49:30,992 - INFO - HTTP Request: POST https://api.openai.com/v1/assistants "HTTP/1.1 200 OK"
+2025-08-24 17:49:31,274 - INFO - HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+2025-08-24 17:49:33,647 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_laL1mhg1bEumVVidgHDQF6Tl/messages "HTTP/1.1 200 OK"
+2025-08-24 17:49:34,597 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_laL1mhg1bEumVVidgHDQF6Tl/runs "HTTP/1.1 200 OK"
+2025-08-24 17:49:34,909 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_laL1mhg1bEumVVidgHDQF6Tl/runs/run_1iuWo1xTQSr8JBzIzxWgjGje "HTTP/1.1 200 OK"
+2025-08-24 17:49:36,338 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_laL1mhg1bEumVVidgHDQF6Tl/runs/run_1iuWo1xTQSr8JBzIzxWgjGje "HTTP/1.1 200 OK"
+2025-08-24 17:49:37,641 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_laL1mhg1bEumVVidgHDQF6Tl/runs/run_1iuWo1xTQSr8JBzIzxWgjGje "HTTP/1.1 200 OK"
+2025-08-24 17:49:39,002 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_laL1mhg1bEumVVidgHDQF6Tl/runs/run_1iuWo1xTQSr8JBzIzxWgjGje "HTTP/1.1 200 OK"
+2025-08-24 17:49:40,813 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_laL1mhg1bEumVVidgHDQF6Tl/runs/run_1iuWo1xTQSr8JBzIzxWgjGje "HTTP/1.1 200 OK"
+2025-08-24 17:49:42,176 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_laL1mhg1bEumVVidgHDQF6Tl/runs/run_1iuWo1xTQSr8JBzIzxWgjGje "HTTP/1.1 200 OK"
+2025-08-24 17:49:43,473 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_laL1mhg1bEumVVidgHDQF6Tl/runs/run_1iuWo1xTQSr8JBzIzxWgjGje "HTTP/1.1 200 OK"
+2025-08-24 17:49:44,865 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_laL1mhg1bEumVVidgHDQF6Tl/runs/run_1iuWo1xTQSr8JBzIzxWgjGje "HTTP/1.1 200 OK"
+2025-08-24 17:49:46,403 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_laL1mhg1bEumVVidgHDQF6Tl/runs/run_1iuWo1xTQSr8JBzIzxWgjGje "HTTP/1.1 200 OK"
+2025-08-24 17:49:47,660 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_laL1mhg1bEumVVidgHDQF6Tl/runs/run_1iuWo1xTQSr8JBzIzxWgjGje "HTTP/1.1 200 OK"
+2025-08-24 17:49:48,923 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_laL1mhg1bEumVVidgHDQF6Tl/runs/run_1iuWo1xTQSr8JBzIzxWgjGje "HTTP/1.1 200 OK"
+2025-08-24 17:49:50,206 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_laL1mhg1bEumVVidgHDQF6Tl/runs/run_1iuWo1xTQSr8JBzIzxWgjGje "HTTP/1.1 200 OK"
+2025-08-24 17:49:51,470 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_laL1mhg1bEumVVidgHDQF6Tl/runs/run_1iuWo1xTQSr8JBzIzxWgjGje "HTTP/1.1 200 OK"
+2025-08-24 17:49:52,807 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_laL1mhg1bEumVVidgHDQF6Tl/runs/run_1iuWo1xTQSr8JBzIzxWgjGje "HTTP/1.1 200 OK"
+2025-08-24 17:49:54,068 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_laL1mhg1bEumVVidgHDQF6Tl/runs/run_1iuWo1xTQSr8JBzIzxWgjGje "HTTP/1.1 200 OK"
+2025-08-24 17:49:55,383 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_laL1mhg1bEumVVidgHDQF6Tl/runs/run_1iuWo1xTQSr8JBzIzxWgjGje "HTTP/1.1 200 OK"
+2025-08-24 17:49:56,713 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_laL1mhg1bEumVVidgHDQF6Tl/runs/run_1iuWo1xTQSr8JBzIzxWgjGje "HTTP/1.1 200 OK"
+2025-08-24 17:49:58,047 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_laL1mhg1bEumVVidgHDQF6Tl/runs/run_1iuWo1xTQSr8JBzIzxWgjGje "HTTP/1.1 200 OK"
+2025-08-24 17:49:59,481 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_laL1mhg1bEumVVidgHDQF6Tl/runs/run_1iuWo1xTQSr8JBzIzxWgjGje "HTTP/1.1 200 OK"
+2025-08-24 17:50:00,914 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_laL1mhg1bEumVVidgHDQF6Tl/runs/run_1iuWo1xTQSr8JBzIzxWgjGje "HTTP/1.1 200 OK"
+2025-08-24 17:50:02,274 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_laL1mhg1bEumVVidgHDQF6Tl/runs/run_1iuWo1xTQSr8JBzIzxWgjGje "HTTP/1.1 200 OK"
+2025-08-24 17:50:03,535 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_laL1mhg1bEumVVidgHDQF6Tl/runs/run_1iuWo1xTQSr8JBzIzxWgjGje "HTTP/1.1 200 OK"
+2025-08-24 17:50:05,127 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_laL1mhg1bEumVVidgHDQF6Tl/runs/run_1iuWo1xTQSr8JBzIzxWgjGje "HTTP/1.1 200 OK"
+2025-08-24 17:50:06,393 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_laL1mhg1bEumVVidgHDQF6Tl/runs/run_1iuWo1xTQSr8JBzIzxWgjGje "HTTP/1.1 200 OK"
+2025-08-24 17:50:07,765 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_laL1mhg1bEumVVidgHDQF6Tl/runs/run_1iuWo1xTQSr8JBzIzxWgjGje "HTTP/1.1 200 OK"
+2025-08-24 17:50:09,065 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_laL1mhg1bEumVVidgHDQF6Tl/runs/run_1iuWo1xTQSr8JBzIzxWgjGje "HTTP/1.1 200 OK"
+2025-08-24 17:50:10,345 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_laL1mhg1bEumVVidgHDQF6Tl/runs/run_1iuWo1xTQSr8JBzIzxWgjGje "HTTP/1.1 200 OK"
+2025-08-24 17:50:11,667 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_laL1mhg1bEumVVidgHDQF6Tl/runs/run_1iuWo1xTQSr8JBzIzxWgjGje "HTTP/1.1 200 OK"
+2025-08-24 17:50:12,996 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_laL1mhg1bEumVVidgHDQF6Tl/runs/run_1iuWo1xTQSr8JBzIzxWgjGje "HTTP/1.1 200 OK"
+2025-08-24 17:50:14,285 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_laL1mhg1bEumVVidgHDQF6Tl/runs/run_1iuWo1xTQSr8JBzIzxWgjGje "HTTP/1.1 200 OK"
+2025-08-24 17:50:15,661 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_laL1mhg1bEumVVidgHDQF6Tl/runs/run_1iuWo1xTQSr8JBzIzxWgjGje "HTTP/1.1 200 OK"
+2025-08-24 17:50:17,009 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_laL1mhg1bEumVVidgHDQF6Tl/runs/run_1iuWo1xTQSr8JBzIzxWgjGje "HTTP/1.1 200 OK"
+2025-08-24 17:50:18,342 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_laL1mhg1bEumVVidgHDQF6Tl/runs/run_1iuWo1xTQSr8JBzIzxWgjGje "HTTP/1.1 200 OK"
+2025-08-24 17:50:19,757 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_laL1mhg1bEumVVidgHDQF6Tl/runs/run_1iuWo1xTQSr8JBzIzxWgjGje "HTTP/1.1 200 OK"
+2025-08-24 17:50:19,934 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_laL1mhg1bEumVVidgHDQF6Tl/messages "HTTP/1.1 200 OK"
+2025-08-24 17:50:19,978 - INFO - Initial OpenAI response length: 8614 characters
+2025-08-24 17:50:19,978 - INFO - Initial response preview: [
+  {
+    "page_number": 3,
+    "summary": "This page defines additional insured persons or organizations that are covered under the policy for liabilities arising from the ownership or use of leased premises. It also lists exclusions related to events occurring after cessation as a tenant, and structural changes made by designated entities.",
+    "full_text": "The person or organization shown in the Schedule is also an insured, but only with respect to liability arising out of the ownership, ma...
+2025-08-24 17:50:19,979 - INFO - Full initial response saved to openai_response_initial_3_5.txt
+2025-08-24 17:50:20,132 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_laL1mhg1bEumVVidgHDQF6Tl/messages "HTTP/1.1 200 OK"
+2025-08-24 17:50:20,175 - INFO - Final OpenAI response length: 8614 characters
+2025-08-24 17:50:20,175 - INFO - Final response preview: [
+  {
+    "page_number": 3,
+    "summary": "This page defines additional insured persons or organizations that are covered under the policy for liabilities arising from the ownership or use of leased premises. It also lists exclusions related to events occurring after cessation as a tenant, and structural changes made by designated entities.",
+    "full_text": "The person or organization shown in the Schedule is also an insured, but only with respect to liability arising out of the ownership, ma...
+2025-08-24 17:50:20,176 - INFO - Full final response saved to openai_response_final_3_5.txt
+2025-08-24 17:50:20,176 - INFO - Parsing JSON response for pages 3-5
+2025-08-24 17:50:20,176 - INFO - Successfully parsed 3 pages
+2025-08-24 17:50:20,176 - INFO - Page 3 summary: This page defines additional insured persons or organizations that are covered under the policy for ...
+2025-08-24 17:50:20,176 - INFO - Page 3 full_text length: 1163 chars
+2025-08-24 17:50:20,176 - INFO - Page 4 summary: This page provides information on waivers of the transfer of rights of recovery against others and d...
+2025-08-24 17:50:20,177 - INFO - Page 4 full_text length: 1364 chars
+2025-08-24 17:50:20,177 - INFO - Page 5 summary: The page outlines the exclusions concerning PFAS, detailing substances not covered by the policy due...
+2025-08-24 17:50:20,177 - INFO - Page 5 full_text length: 2091 chars
+2025-08-24 17:50:20,636 - INFO - HTTP Request: DELETE https://api.openai.com/v1/assistants/asst_OINmd8CwaJwJQsIeBNUOrVCM "HTTP/1.1 200 OK"
+2025-08-24 17:50:21,189 - INFO - HTTP Request: DELETE https://api.openai.com/v1/files/file-VodfaFRiCSCmndVE9TyGbG "HTTP/1.1 200 OK"
+2025-08-24 17:52:39,948 - INFO - HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2025-08-24 17:52:40,267 - INFO - HTTP Request: POST https://api.openai.com/v1/assistants "HTTP/1.1 200 OK"
+2025-08-24 17:52:40,543 - INFO - HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+2025-08-24 17:52:51,291 - INFO - HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2025-08-24 17:52:51,544 - INFO - HTTP Request: POST https://api.openai.com/v1/assistants "HTTP/1.1 200 OK"
+2025-08-24 17:52:51,778 - INFO - HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+2025-08-24 17:52:52,846 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_qAU3AkXPsVZlDX6G9DvlXsI9/messages "HTTP/1.1 200 OK"
+2025-08-24 17:52:53,973 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_qAU3AkXPsVZlDX6G9DvlXsI9/runs "HTTP/1.1 200 OK"
+2025-08-24 17:52:54,241 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_qAU3AkXPsVZlDX6G9DvlXsI9/runs/run_7iGFQnMgQuWhInWW5WwPzhGB "HTTP/1.1 200 OK"
+2025-08-24 17:52:55,488 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_qAU3AkXPsVZlDX6G9DvlXsI9/runs/run_7iGFQnMgQuWhInWW5WwPzhGB "HTTP/1.1 200 OK"
+2025-08-24 17:52:56,814 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_qAU3AkXPsVZlDX6G9DvlXsI9/runs/run_7iGFQnMgQuWhInWW5WwPzhGB "HTTP/1.1 200 OK"
+2025-08-24 17:52:58,100 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_qAU3AkXPsVZlDX6G9DvlXsI9/runs/run_7iGFQnMgQuWhInWW5WwPzhGB "HTTP/1.1 200 OK"
+2025-08-24 17:52:59,605 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_qAU3AkXPsVZlDX6G9DvlXsI9/runs/run_7iGFQnMgQuWhInWW5WwPzhGB "HTTP/1.1 200 OK"
+2025-08-24 17:53:00,937 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_qAU3AkXPsVZlDX6G9DvlXsI9/runs/run_7iGFQnMgQuWhInWW5WwPzhGB "HTTP/1.1 200 OK"
+2025-08-24 17:53:02,269 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_qAU3AkXPsVZlDX6G9DvlXsI9/runs/run_7iGFQnMgQuWhInWW5WwPzhGB "HTTP/1.1 200 OK"
+2025-08-24 17:53:03,604 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_qAU3AkXPsVZlDX6G9DvlXsI9/runs/run_7iGFQnMgQuWhInWW5WwPzhGB "HTTP/1.1 200 OK"
+2025-08-24 17:53:04,900 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_qAU3AkXPsVZlDX6G9DvlXsI9/runs/run_7iGFQnMgQuWhInWW5WwPzhGB "HTTP/1.1 200 OK"
+2025-08-24 17:53:06,161 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_qAU3AkXPsVZlDX6G9DvlXsI9/runs/run_7iGFQnMgQuWhInWW5WwPzhGB "HTTP/1.1 200 OK"
+2025-08-24 17:53:07,452 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_qAU3AkXPsVZlDX6G9DvlXsI9/runs/run_7iGFQnMgQuWhInWW5WwPzhGB "HTTP/1.1 200 OK"
+2025-08-24 17:53:08,806 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_qAU3AkXPsVZlDX6G9DvlXsI9/runs/run_7iGFQnMgQuWhInWW5WwPzhGB "HTTP/1.1 200 OK"
+2025-08-24 17:53:10,173 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_qAU3AkXPsVZlDX6G9DvlXsI9/runs/run_7iGFQnMgQuWhInWW5WwPzhGB "HTTP/1.1 200 OK"
+2025-08-24 17:53:11,444 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_qAU3AkXPsVZlDX6G9DvlXsI9/runs/run_7iGFQnMgQuWhInWW5WwPzhGB "HTTP/1.1 200 OK"
+2025-08-24 17:53:12,711 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_qAU3AkXPsVZlDX6G9DvlXsI9/runs/run_7iGFQnMgQuWhInWW5WwPzhGB "HTTP/1.1 200 OK"
+2025-08-24 17:53:13,955 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_qAU3AkXPsVZlDX6G9DvlXsI9/runs/run_7iGFQnMgQuWhInWW5WwPzhGB "HTTP/1.1 200 OK"
+2025-08-24 17:53:15,392 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_qAU3AkXPsVZlDX6G9DvlXsI9/runs/run_7iGFQnMgQuWhInWW5WwPzhGB "HTTP/1.1 200 OK"
+2025-08-24 17:53:16,681 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_qAU3AkXPsVZlDX6G9DvlXsI9/runs/run_7iGFQnMgQuWhInWW5WwPzhGB "HTTP/1.1 200 OK"
+2025-08-24 17:53:17,971 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_qAU3AkXPsVZlDX6G9DvlXsI9/runs/run_7iGFQnMgQuWhInWW5WwPzhGB "HTTP/1.1 200 OK"
+2025-08-24 17:53:19,304 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_qAU3AkXPsVZlDX6G9DvlXsI9/runs/run_7iGFQnMgQuWhInWW5WwPzhGB "HTTP/1.1 200 OK"
+2025-08-24 17:53:20,568 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_qAU3AkXPsVZlDX6G9DvlXsI9/runs/run_7iGFQnMgQuWhInWW5WwPzhGB "HTTP/1.1 200 OK"
+2025-08-24 17:53:21,842 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_qAU3AkXPsVZlDX6G9DvlXsI9/runs/run_7iGFQnMgQuWhInWW5WwPzhGB "HTTP/1.1 200 OK"
+2025-08-24 17:53:23,130 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_qAU3AkXPsVZlDX6G9DvlXsI9/runs/run_7iGFQnMgQuWhInWW5WwPzhGB "HTTP/1.1 200 OK"
+2025-08-24 17:53:24,460 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_qAU3AkXPsVZlDX6G9DvlXsI9/runs/run_7iGFQnMgQuWhInWW5WwPzhGB "HTTP/1.1 200 OK"
+2025-08-24 17:53:25,940 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_qAU3AkXPsVZlDX6G9DvlXsI9/runs/run_7iGFQnMgQuWhInWW5WwPzhGB "HTTP/1.1 200 OK"
+2025-08-24 17:53:27,357 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_qAU3AkXPsVZlDX6G9DvlXsI9/runs/run_7iGFQnMgQuWhInWW5WwPzhGB "HTTP/1.1 200 OK"
+2025-08-24 17:53:28,609 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_qAU3AkXPsVZlDX6G9DvlXsI9/runs/run_7iGFQnMgQuWhInWW5WwPzhGB "HTTP/1.1 200 OK"
+2025-08-24 17:53:30,019 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_qAU3AkXPsVZlDX6G9DvlXsI9/runs/run_7iGFQnMgQuWhInWW5WwPzhGB "HTTP/1.1 200 OK"
+2025-08-24 17:53:31,452 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_qAU3AkXPsVZlDX6G9DvlXsI9/runs/run_7iGFQnMgQuWhInWW5WwPzhGB "HTTP/1.1 200 OK"
+2025-08-24 17:53:32,782 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_qAU3AkXPsVZlDX6G9DvlXsI9/runs/run_7iGFQnMgQuWhInWW5WwPzhGB "HTTP/1.1 200 OK"
+2025-08-24 17:53:33,251 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_qAU3AkXPsVZlDX6G9DvlXsI9/messages "HTTP/1.1 200 OK"
+2025-08-24 17:53:33,258 - INFO - Initial OpenAI response length: 7127 characters
+2025-08-24 17:53:33,258 - INFO - Initial response preview: [
+  {
+    "page_number": 1,
+    "summary": "This page includes an endorsement modifying insurance provisions under the Businessowners Coverage Form and clarifying what is considered an insured entity. It outlines what coverage does not apply to, specifically for autos.",
+    "full_text": "However, the coverage provided by this endorsement does not apply to any coverage provided for an 'auto' on a 'non-owned auto', 'hired auto', uninsured motorists coverage, underinsured motorists coverage, perso...
+2025-08-24 17:53:33,259 - INFO - Full initial response saved to openai_response_initial_1_2.txt
+2025-08-24 17:53:33,425 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_qAU3AkXPsVZlDX6G9DvlXsI9/messages "HTTP/1.1 200 OK"
+2025-08-24 17:53:33,426 - INFO - Final OpenAI response length: 7127 characters
+2025-08-24 17:53:33,427 - INFO - Final response preview: [
+  {
+    "page_number": 1,
+    "summary": "This page includes an endorsement modifying insurance provisions under the Businessowners Coverage Form and clarifying what is considered an insured entity. It outlines what coverage does not apply to, specifically for autos.",
+    "full_text": "However, the coverage provided by this endorsement does not apply to any coverage provided for an 'auto' on a 'non-owned auto', 'hired auto', uninsured motorists coverage, underinsured motorists coverage, perso...
+2025-08-24 17:53:33,427 - INFO - Full final response saved to openai_response_final_1_2.txt
+2025-08-24 17:53:33,427 - INFO - Parsing JSON response for pages 1-2
+2025-08-24 17:53:33,428 - INFO - Successfully parsed 2 pages
+2025-08-24 17:53:33,428 - INFO - Page 1 summary: This page includes an endorsement modifying insurance provisions under the Businessowners Coverage F...
+2025-08-24 17:53:33,428 - INFO - Page 1 full_text length: 2103 chars
+2025-08-24 17:53:33,428 - INFO - Page 2 summary: This page outlines the liability exclusions specifically mentioning situations involving continued t...
+2025-08-24 17:53:33,428 - INFO - Page 2 full_text length: 1863 chars
+2025-08-24 17:53:34,114 - INFO - HTTP Request: DELETE https://api.openai.com/v1/assistants/asst_0RBqkffSUuHNYz24rrAn7r8l "HTTP/1.1 200 OK"
+2025-08-24 17:53:34,637 - INFO - HTTP Request: DELETE https://api.openai.com/v1/files/file-Q6rrhSRQWjzzMqFouRsD3W "HTTP/1.1 200 OK"
+2025-08-24 17:59:39,375 - INFO - Extracted 335 characters from page 3
+2025-08-24 17:59:40,447 - INFO - HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2025-08-24 17:59:40,854 - INFO - HTTP Request: POST https://api.openai.com/v1/assistants "HTTP/1.1 200 OK"
+2025-08-24 17:59:41,144 - INFO - HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+2025-08-24 17:59:42,496 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_1Vu8Gkp5OLcRUezBAdCM0w3T/messages "HTTP/1.1 200 OK"
+2025-08-24 17:59:43,464 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_1Vu8Gkp5OLcRUezBAdCM0w3T/runs "HTTP/1.1 200 OK"
+2025-08-24 17:59:43,811 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_1Vu8Gkp5OLcRUezBAdCM0w3T/runs/run_yRLh81eLu8Wisd3zrLOCjHpZ "HTTP/1.1 200 OK"
+2025-08-24 17:59:45,056 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_1Vu8Gkp5OLcRUezBAdCM0w3T/runs/run_yRLh81eLu8Wisd3zrLOCjHpZ "HTTP/1.1 200 OK"
+2025-08-24 17:59:46,381 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_1Vu8Gkp5OLcRUezBAdCM0w3T/runs/run_yRLh81eLu8Wisd3zrLOCjHpZ "HTTP/1.1 200 OK"
+2025-08-24 17:59:47,622 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_1Vu8Gkp5OLcRUezBAdCM0w3T/runs/run_yRLh81eLu8Wisd3zrLOCjHpZ "HTTP/1.1 200 OK"
+2025-08-24 17:59:48,945 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_1Vu8Gkp5OLcRUezBAdCM0w3T/runs/run_yRLh81eLu8Wisd3zrLOCjHpZ "HTTP/1.1 200 OK"
+2025-08-24 17:59:50,237 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_1Vu8Gkp5OLcRUezBAdCM0w3T/runs/run_yRLh81eLu8Wisd3zrLOCjHpZ "HTTP/1.1 200 OK"
+2025-08-24 17:59:51,606 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_1Vu8Gkp5OLcRUezBAdCM0w3T/runs/run_yRLh81eLu8Wisd3zrLOCjHpZ "HTTP/1.1 200 OK"
+2025-08-24 17:59:52,877 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_1Vu8Gkp5OLcRUezBAdCM0w3T/runs/run_yRLh81eLu8Wisd3zrLOCjHpZ "HTTP/1.1 200 OK"
+2025-08-24 17:59:54,150 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_1Vu8Gkp5OLcRUezBAdCM0w3T/runs/run_yRLh81eLu8Wisd3zrLOCjHpZ "HTTP/1.1 200 OK"
+2025-08-24 17:59:55,498 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_1Vu8Gkp5OLcRUezBAdCM0w3T/runs/run_yRLh81eLu8Wisd3zrLOCjHpZ "HTTP/1.1 200 OK"
+2025-08-24 17:59:56,760 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_1Vu8Gkp5OLcRUezBAdCM0w3T/runs/run_yRLh81eLu8Wisd3zrLOCjHpZ "HTTP/1.1 200 OK"
+2025-08-24 17:59:56,971 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_1Vu8Gkp5OLcRUezBAdCM0w3T/messages "HTTP/1.1 200 OK"
+2025-08-24 17:59:56,979 - INFO - Initial OpenAI response length: 1612 characters
+2025-08-24 17:59:56,979 - INFO - Initial response preview: [
+  {
+    "page_number": 3,
+    "summary": "This page includes a continuation of specific exclusions in liability coverage and outlines policy conditions including a waiver of transfer of rights of recovery against others. It defines roles for additional insured parties and includes a schedule for premises and protective devices.",
+    "full_text": "Text will be extracted separately",
+    "tables_and_figures": [
+      {
+        "type": "table",
+        "description": "Schedule of Additional Insu...
+2025-08-24 17:59:56,980 - INFO - Full initial response saved to openai_response_initial_3_3.txt
+2025-08-24 17:59:57,228 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_1Vu8Gkp5OLcRUezBAdCM0w3T/messages "HTTP/1.1 200 OK"
+2025-08-24 17:59:58,439 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_1Vu8Gkp5OLcRUezBAdCM0w3T/runs "HTTP/1.1 200 OK"
+2025-08-24 17:59:58,668 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_1Vu8Gkp5OLcRUezBAdCM0w3T/runs/run_B1sRelIsefKqABbthjAByact "HTTP/1.1 200 OK"
+2025-08-24 18:00:00,004 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_1Vu8Gkp5OLcRUezBAdCM0w3T/runs/run_B1sRelIsefKqABbthjAByact "HTTP/1.1 200 OK"
+2025-08-24 18:00:01,374 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_1Vu8Gkp5OLcRUezBAdCM0w3T/runs/run_B1sRelIsefKqABbthjAByact "HTTP/1.1 200 OK"
+2025-08-24 18:00:02,665 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_1Vu8Gkp5OLcRUezBAdCM0w3T/runs/run_B1sRelIsefKqABbthjAByact "HTTP/1.1 200 OK"
+2025-08-24 18:00:03,947 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_1Vu8Gkp5OLcRUezBAdCM0w3T/runs/run_B1sRelIsefKqABbthjAByact "HTTP/1.1 200 OK"
+2025-08-24 18:00:05,231 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_1Vu8Gkp5OLcRUezBAdCM0w3T/runs/run_B1sRelIsefKqABbthjAByact "HTTP/1.1 200 OK"
+2025-08-24 18:00:07,393 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_1Vu8Gkp5OLcRUezBAdCM0w3T/runs/run_B1sRelIsefKqABbthjAByact "HTTP/1.1 200 OK"
+2025-08-24 18:00:08,870 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_1Vu8Gkp5OLcRUezBAdCM0w3T/runs/run_B1sRelIsefKqABbthjAByact "HTTP/1.1 200 OK"
+2025-08-24 18:00:10,163 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_1Vu8Gkp5OLcRUezBAdCM0w3T/runs/run_B1sRelIsefKqABbthjAByact "HTTP/1.1 200 OK"
+2025-08-24 18:00:11,704 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_1Vu8Gkp5OLcRUezBAdCM0w3T/runs/run_B1sRelIsefKqABbthjAByact "HTTP/1.1 200 OK"
+2025-08-24 18:00:13,007 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_1Vu8Gkp5OLcRUezBAdCM0w3T/runs/run_B1sRelIsefKqABbthjAByact "HTTP/1.1 200 OK"
+2025-08-24 18:00:14,340 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_1Vu8Gkp5OLcRUezBAdCM0w3T/runs/run_B1sRelIsefKqABbthjAByact "HTTP/1.1 200 OK"
+2025-08-24 18:00:15,599 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_1Vu8Gkp5OLcRUezBAdCM0w3T/runs/run_B1sRelIsefKqABbthjAByact "HTTP/1.1 200 OK"
+2025-08-24 18:00:16,892 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_1Vu8Gkp5OLcRUezBAdCM0w3T/runs/run_B1sRelIsefKqABbthjAByact "HTTP/1.1 200 OK"
+2025-08-24 18:00:17,052 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_1Vu8Gkp5OLcRUezBAdCM0w3T/messages "HTTP/1.1 200 OK"
+2025-08-24 18:00:17,054 - INFO - Final OpenAI response length: 3386 characters
+2025-08-24 18:00:17,054 - INFO - Final response preview: [
+  {
+    "page_number": 1,
+    "summary": "This page introduces the policy with a declaration for terrorism insurance coverage renewal, listing options for acceptance or decline.",
+    "full_text": "Complete text including form of business, policy period, names and addresses of insured, agents, and policy premium details.",
+    "tables_and_figures": [],
+    "key_information": {
+      "insured_property": "Not specified on this page",
+      "coverage_details": "Option to include terrorism insuran...
+2025-08-24 18:00:17,055 - INFO - Full final response saved to openai_response_final_3_3.txt
+2025-08-24 18:00:17,055 - INFO - Parsing JSON response for pages 3-3
+2025-08-24 18:00:17,056 - INFO - Successfully parsed 3 pages
+2025-08-24 18:00:17,056 - INFO - Page 1 summary: This page introduces the policy with a declaration for terrorism insurance coverage renewal, listing...
+2025-08-24 18:00:17,056 - INFO - Page 1 full_text length: 124 chars
+2025-08-24 18:00:17,056 - INFO - Page 2 summary: This page lists forms and endorsements included as part of the policy, with detailed exclusions for ...
+2025-08-24 18:00:17,056 - INFO - Page 2 full_text length: 85 chars
+2025-08-24 18:00:17,056 - INFO - Page 3 summary: This page provides a detailed schedule of additional insured parties and premises, alongside a waive...
+2025-08-24 18:00:17,056 - INFO - Page 3 full_text length: 85 chars
+2025-08-24 18:00:17,910 - INFO - HTTP Request: DELETE https://api.openai.com/v1/assistants/asst_4PyIiMlDzsQLhCfgjOMmHe0I "HTTP/1.1 200 OK"
+2025-08-24 18:00:17,912 - INFO - Replaced full_text for page 3 with PyPDF2 extracted text (335 chars)
+2025-08-24 18:00:18,295 - INFO - HTTP Request: DELETE https://api.openai.com/v1/files/file-K9giNP5yAkLpWcvk6F7MAN "HTTP/1.1 200 OK"
+2025-08-24 18:03:09,475 - INFO - Extracted 1540 characters from page 10
+2025-08-24 18:03:09,475 - INFO -   Key content found: Property Coverage, Business Income/Extra Expense, 807 Broadway Address
+2025-08-24 18:03:10,675 - INFO - HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2025-08-24 18:03:11,173 - INFO - HTTP Request: POST https://api.openai.com/v1/assistants "HTTP/1.1 200 OK"
+2025-08-24 18:03:11,420 - INFO - HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+2025-08-24 18:03:12,563 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_8v9nsTSqbz5Sgyr4lIfXamex/messages "HTTP/1.1 200 OK"
+2025-08-24 18:03:13,560 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_8v9nsTSqbz5Sgyr4lIfXamex/runs "HTTP/1.1 200 OK"
+2025-08-24 18:03:13,786 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_8v9nsTSqbz5Sgyr4lIfXamex/runs/run_fh6fTFVIznHvsQ0yzctCyseQ "HTTP/1.1 200 OK"
+2025-08-24 18:03:15,056 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_8v9nsTSqbz5Sgyr4lIfXamex/runs/run_fh6fTFVIznHvsQ0yzctCyseQ "HTTP/1.1 200 OK"
+2025-08-24 18:03:16,316 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_8v9nsTSqbz5Sgyr4lIfXamex/runs/run_fh6fTFVIznHvsQ0yzctCyseQ "HTTP/1.1 200 OK"
+2025-08-24 18:03:17,636 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_8v9nsTSqbz5Sgyr4lIfXamex/runs/run_fh6fTFVIznHvsQ0yzctCyseQ "HTTP/1.1 200 OK"
+2025-08-24 18:03:18,966 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_8v9nsTSqbz5Sgyr4lIfXamex/runs/run_fh6fTFVIznHvsQ0yzctCyseQ "HTTP/1.1 200 OK"
+2025-08-24 18:03:20,308 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_8v9nsTSqbz5Sgyr4lIfXamex/runs/run_fh6fTFVIznHvsQ0yzctCyseQ "HTTP/1.1 200 OK"
+2025-08-24 18:03:21,831 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_8v9nsTSqbz5Sgyr4lIfXamex/runs/run_fh6fTFVIznHvsQ0yzctCyseQ "HTTP/1.1 200 OK"
+2025-08-24 18:03:23,109 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_8v9nsTSqbz5Sgyr4lIfXamex/runs/run_fh6fTFVIznHvsQ0yzctCyseQ "HTTP/1.1 200 OK"
+2025-08-24 18:03:24,374 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_8v9nsTSqbz5Sgyr4lIfXamex/runs/run_fh6fTFVIznHvsQ0yzctCyseQ "HTTP/1.1 200 OK"
+2025-08-24 18:03:25,636 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_8v9nsTSqbz5Sgyr4lIfXamex/runs/run_fh6fTFVIznHvsQ0yzctCyseQ "HTTP/1.1 200 OK"
+2025-08-24 18:03:25,778 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_8v9nsTSqbz5Sgyr4lIfXamex/messages "HTTP/1.1 200 OK"
+2025-08-24 18:03:25,782 - INFO - Initial OpenAI response length: 1707 characters
+2025-08-24 18:03:25,782 - INFO - Initial response preview: [
+  {
+    "page_number": 10,
+    "summary": "This page of the insurance document describes protective devices or services provisions. It outlines requirements for maintaining various types of protective equipment and systems, including automatic sprinkler systems and fire alarms. Exclusions from coverage are specified if these safeguards are not properly maintained.",
+    "full_text": "Text will be extracted separately",
+    "tables_and_figures": [
+      {
+        "type": "table",
+        "descr...
+2025-08-24 18:03:25,783 - INFO - Full initial response saved to openai_response_initial_10_10.txt
+2025-08-24 18:03:26,134 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_8v9nsTSqbz5Sgyr4lIfXamex/messages "HTTP/1.1 200 OK"
+2025-08-24 18:03:27,322 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_8v9nsTSqbz5Sgyr4lIfXamex/runs "HTTP/1.1 200 OK"
+2025-08-24 18:03:27,577 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_8v9nsTSqbz5Sgyr4lIfXamex/runs/run_Q2B1zHzCwAllxfvd9Ffuhpyg "HTTP/1.1 200 OK"
+2025-08-24 18:03:28,796 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_8v9nsTSqbz5Sgyr4lIfXamex/runs/run_Q2B1zHzCwAllxfvd9Ffuhpyg "HTTP/1.1 200 OK"
+2025-08-24 18:03:30,155 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_8v9nsTSqbz5Sgyr4lIfXamex/runs/run_Q2B1zHzCwAllxfvd9Ffuhpyg "HTTP/1.1 200 OK"
+2025-08-24 18:03:31,422 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_8v9nsTSqbz5Sgyr4lIfXamex/runs/run_Q2B1zHzCwAllxfvd9Ffuhpyg "HTTP/1.1 200 OK"
+2025-08-24 18:03:32,761 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_8v9nsTSqbz5Sgyr4lIfXamex/runs/run_Q2B1zHzCwAllxfvd9Ffuhpyg "HTTP/1.1 200 OK"
+2025-08-24 18:03:32,933 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_8v9nsTSqbz5Sgyr4lIfXamex/messages "HTTP/1.1 200 OK"
+2025-08-24 18:03:32,936 - INFO - Final OpenAI response length: 2216 characters
+2025-08-24 18:03:32,936 - INFO - Final response preview: I'm unable to provide the full text directly from the documents, but I can assist you by summarizing the content and identifying the key elements you need. If you want the complete text, please ensure you have the necessary tools to extract it directly from the document. Here is a more detailed analysis of page 10:
+
+[
+  {
+    "page_number": 10,
+    "summary": "This page of the insurance document describes protective devices or services provisions. It outlines requirements for maintaining various...
+2025-08-24 18:03:32,936 - INFO - Full final response saved to openai_response_final_10_10.txt
+2025-08-24 18:03:32,937 - INFO - Parsing JSON response for pages 10-10
+2025-08-24 18:03:32,937 - INFO - Successfully parsed 1 pages
+2025-08-24 18:03:32,937 - INFO - Page 10 summary: This page of the insurance document describes protective devices or services provisions. It outlines...
+2025-08-24 18:03:32,937 - INFO - Page 10 full_text length: 33 chars
+2025-08-24 18:03:33,373 - INFO - HTTP Request: DELETE https://api.openai.com/v1/assistants/asst_Qv3nu47sq651LEj8rZn1yJ3x "HTTP/1.1 200 OK"
+2025-08-24 18:03:33,375 - INFO - Replaced full_text for page 10 with PyPDF2 extracted text (1540 chars)
+2025-08-24 18:03:33,918 - INFO - HTTP Request: DELETE https://api.openai.com/v1/files/file-DT94L54ZJCSWfg3WvSJ6Zi "HTTP/1.1 200 OK"
+2025-08-24 18:04:27,126 - INFO - Extracted 2856 characters from page 1
+2025-08-24 18:04:27,141 - INFO - Extracted 642 characters from page 2
+2025-08-24 18:04:29,332 - INFO - HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2025-08-24 18:04:29,817 - INFO - HTTP Request: POST https://api.openai.com/v1/assistants "HTTP/1.1 200 OK"
+2025-08-24 18:04:30,344 - INFO - HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+2025-08-24 18:04:31,834 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_AzWwEIYj3g0fBeo4zJ757XSJ/messages "HTTP/1.1 200 OK"
+2025-08-24 18:04:32,799 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_AzWwEIYj3g0fBeo4zJ757XSJ/runs "HTTP/1.1 200 OK"
+2025-08-24 18:04:33,106 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_AzWwEIYj3g0fBeo4zJ757XSJ/runs/run_TEcfA63XmdetsFUT7WgjVzXr "HTTP/1.1 200 OK"
+2025-08-24 18:04:34,366 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_AzWwEIYj3g0fBeo4zJ757XSJ/runs/run_TEcfA63XmdetsFUT7WgjVzXr "HTTP/1.1 200 OK"
+2025-08-24 18:04:35,770 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_AzWwEIYj3g0fBeo4zJ757XSJ/runs/run_TEcfA63XmdetsFUT7WgjVzXr "HTTP/1.1 200 OK"
+2025-08-24 18:04:37,022 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_AzWwEIYj3g0fBeo4zJ757XSJ/runs/run_TEcfA63XmdetsFUT7WgjVzXr "HTTP/1.1 200 OK"
+2025-08-24 18:04:38,344 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_AzWwEIYj3g0fBeo4zJ757XSJ/runs/run_TEcfA63XmdetsFUT7WgjVzXr "HTTP/1.1 200 OK"
+2025-08-24 18:04:39,669 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_AzWwEIYj3g0fBeo4zJ757XSJ/runs/run_TEcfA63XmdetsFUT7WgjVzXr "HTTP/1.1 200 OK"
+2025-08-24 18:04:40,978 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_AzWwEIYj3g0fBeo4zJ757XSJ/runs/run_TEcfA63XmdetsFUT7WgjVzXr "HTTP/1.1 200 OK"
+2025-08-24 18:04:42,297 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_AzWwEIYj3g0fBeo4zJ757XSJ/runs/run_TEcfA63XmdetsFUT7WgjVzXr "HTTP/1.1 200 OK"
+2025-08-24 18:04:43,578 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_AzWwEIYj3g0fBeo4zJ757XSJ/runs/run_TEcfA63XmdetsFUT7WgjVzXr "HTTP/1.1 200 OK"
+2025-08-24 18:04:44,952 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_AzWwEIYj3g0fBeo4zJ757XSJ/runs/run_TEcfA63XmdetsFUT7WgjVzXr "HTTP/1.1 200 OK"
+2025-08-24 18:04:46,406 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_AzWwEIYj3g0fBeo4zJ757XSJ/runs/run_TEcfA63XmdetsFUT7WgjVzXr "HTTP/1.1 200 OK"
+2025-08-24 18:04:47,853 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_AzWwEIYj3g0fBeo4zJ757XSJ/runs/run_TEcfA63XmdetsFUT7WgjVzXr "HTTP/1.1 200 OK"
+2025-08-24 18:04:49,098 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_AzWwEIYj3g0fBeo4zJ757XSJ/runs/run_TEcfA63XmdetsFUT7WgjVzXr "HTTP/1.1 200 OK"
+2025-08-24 18:04:49,396 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_AzWwEIYj3g0fBeo4zJ757XSJ/messages "HTTP/1.1 200 OK"
+2025-08-24 18:04:49,400 - INFO - Initial OpenAI response length: 2922 characters
+2025-08-24 18:04:49,400 - INFO - Initial response preview: [
+  {
+    "page_number": 1,
+    "summary": "The first page primarily introduces the policy and outlines coverage details. It mentions the policy number and effective date, and details the naming of insured entities and addresses related to the insurance policy.",
+    "full_text": "Text will be extracted separately",
+    "tables_and_figures": [
+      {
+        "type": "table",
+        "description": "Insurance Policy Declarations",
+        "content": "Includes details like policy number, named in...
+2025-08-24 18:04:49,401 - INFO - Full initial response saved to openai_response_initial_1_2.txt
+2025-08-24 18:04:49,799 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_AzWwEIYj3g0fBeo4zJ757XSJ/messages "HTTP/1.1 200 OK"
+2025-08-24 18:04:50,754 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_AzWwEIYj3g0fBeo4zJ757XSJ/runs "HTTP/1.1 200 OK"
+2025-08-24 18:04:51,116 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_AzWwEIYj3g0fBeo4zJ757XSJ/runs/run_INwuO9vMgh8zNst6n056PatA "HTTP/1.1 200 OK"
+2025-08-24 18:04:52,448 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_AzWwEIYj3g0fBeo4zJ757XSJ/runs/run_INwuO9vMgh8zNst6n056PatA "HTTP/1.1 200 OK"
+2025-08-24 18:04:53,772 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_AzWwEIYj3g0fBeo4zJ757XSJ/runs/run_INwuO9vMgh8zNst6n056PatA "HTTP/1.1 200 OK"
+2025-08-24 18:04:55,027 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_AzWwEIYj3g0fBeo4zJ757XSJ/runs/run_INwuO9vMgh8zNst6n056PatA "HTTP/1.1 200 OK"
+2025-08-24 18:04:56,456 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_AzWwEIYj3g0fBeo4zJ757XSJ/runs/run_INwuO9vMgh8zNst6n056PatA "HTTP/1.1 200 OK"
+2025-08-24 18:04:57,786 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_AzWwEIYj3g0fBeo4zJ757XSJ/runs/run_INwuO9vMgh8zNst6n056PatA "HTTP/1.1 200 OK"
+2025-08-24 18:04:59,055 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_AzWwEIYj3g0fBeo4zJ757XSJ/runs/run_INwuO9vMgh8zNst6n056PatA "HTTP/1.1 200 OK"
+2025-08-24 18:05:00,452 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_AzWwEIYj3g0fBeo4zJ757XSJ/runs/run_INwuO9vMgh8zNst6n056PatA "HTTP/1.1 200 OK"
+2025-08-24 18:05:01,779 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_AzWwEIYj3g0fBeo4zJ757XSJ/runs/run_INwuO9vMgh8zNst6n056PatA "HTTP/1.1 200 OK"
+2025-08-24 18:05:03,067 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_AzWwEIYj3g0fBeo4zJ757XSJ/runs/run_INwuO9vMgh8zNst6n056PatA "HTTP/1.1 200 OK"
+2025-08-24 18:05:04,367 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_AzWwEIYj3g0fBeo4zJ757XSJ/runs/run_INwuO9vMgh8zNst6n056PatA "HTTP/1.1 200 OK"
+2025-08-24 18:05:05,645 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_AzWwEIYj3g0fBeo4zJ757XSJ/runs/run_INwuO9vMgh8zNst6n056PatA "HTTP/1.1 200 OK"
+2025-08-24 18:05:06,938 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_AzWwEIYj3g0fBeo4zJ757XSJ/runs/run_INwuO9vMgh8zNst6n056PatA "HTTP/1.1 200 OK"
+2025-08-24 18:05:08,435 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_AzWwEIYj3g0fBeo4zJ757XSJ/runs/run_INwuO9vMgh8zNst6n056PatA "HTTP/1.1 200 OK"
+2025-08-24 18:05:09,869 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_AzWwEIYj3g0fBeo4zJ757XSJ/runs/run_INwuO9vMgh8zNst6n056PatA "HTTP/1.1 200 OK"
+2025-08-24 18:05:11,155 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_AzWwEIYj3g0fBeo4zJ757XSJ/runs/run_INwuO9vMgh8zNst6n056PatA "HTTP/1.1 200 OK"
+2025-08-24 18:05:11,438 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_AzWwEIYj3g0fBeo4zJ757XSJ/messages "HTTP/1.1 200 OK"
+2025-08-24 18:05:11,471 - INFO - Final OpenAI response length: 3631 characters
+2025-08-24 18:05:11,471 - INFO - Final response preview: [
+  {
+    "page_number": 1,
+    "summary": "This page contains the details of the insurance policy including the insured entities, policy number, and coverage summary. It outlines the primary details of the coverage provided by the United States Liability Insurance Group.",
+    "full_text": "807 BROADWAY REVIVAL, LLC AND HILLCREST DEVELOPMENT, LLLP\n2424 KENNEDY ST NE\nMINNEAPOLIS, MN 55413\n10/05/2024 Effective Date: Name of Person or Organization: Schedule:\nSECTION III - COMMON POLICY CONDITI...
+2025-08-24 18:05:11,472 - INFO - Full final response saved to openai_response_final_1_2.txt
+2025-08-24 18:05:11,472 - INFO - Parsing JSON response for pages 1-2
+2025-08-24 18:05:11,473 - INFO - Successfully parsed 2 pages
+2025-08-24 18:05:11,473 - INFO - Page 1 summary: This page contains the details of the insurance policy including the insured entities, policy number...
+2025-08-24 18:05:11,473 - INFO - Page 1 full_text length: 500 chars
+2025-08-24 18:05:11,473 - INFO - Page 2 summary: The second page details specific exclusions and conditions related to the coverage, focusing on prot...
+2025-08-24 18:05:11,473 - INFO - Page 2 full_text length: 437 chars
+2025-08-24 18:05:11,905 - INFO - HTTP Request: DELETE https://api.openai.com/v1/assistants/asst_zx7mH6rlZFQYOrR7ylcJdUEN "HTTP/1.1 200 OK"
+2025-08-24 18:05:11,907 - INFO - Replaced full_text for page 1 with PyPDF2 extracted text (2856 chars)
+2025-08-24 18:05:11,908 - INFO - Replaced full_text for page 2 with PyPDF2 extracted text (642 chars)
+2025-08-24 18:05:12,617 - INFO - HTTP Request: DELETE https://api.openai.com/v1/files/file-WdKUjhKrd3XLU7kcPyNbc4 "HTTP/1.1 200 OK"
+2025-08-24 18:06:35,764 - INFO - Extracted 2856 characters from page 1
+2025-08-24 18:06:35,779 - INFO - Extracted 642 characters from page 2
+2025-08-24 18:06:35,799 - INFO - Extracted 333 characters from page 3
+2025-08-24 18:06:35,839 - INFO - Extracted 1220 characters from page 4
+2025-08-24 18:06:36,621 - INFO - HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2025-08-24 18:06:36,923 - INFO - HTTP Request: POST https://api.openai.com/v1/assistants "HTTP/1.1 200 OK"
+2025-08-24 18:06:37,195 - INFO - HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+2025-08-24 18:06:38,266 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_4rPdriFe78tGd1NK95jM5uVe/messages "HTTP/1.1 200 OK"
+2025-08-24 18:06:40,392 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_4rPdriFe78tGd1NK95jM5uVe/runs "HTTP/1.1 200 OK"
+2025-08-24 18:06:40,796 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_4rPdriFe78tGd1NK95jM5uVe/runs/run_Q21TWxSgO5UWELtL4FrvjCGk "HTTP/1.1 200 OK"
+2025-08-24 18:06:42,340 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_4rPdriFe78tGd1NK95jM5uVe/runs/run_Q21TWxSgO5UWELtL4FrvjCGk "HTTP/1.1 200 OK"
+2025-08-24 18:06:45,986 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_4rPdriFe78tGd1NK95jM5uVe/runs/run_Q21TWxSgO5UWELtL4FrvjCGk "HTTP/1.1 200 OK"
+2025-08-24 18:06:47,356 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_4rPdriFe78tGd1NK95jM5uVe/runs/run_Q21TWxSgO5UWELtL4FrvjCGk "HTTP/1.1 200 OK"
+2025-08-24 18:06:48,790 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_4rPdriFe78tGd1NK95jM5uVe/runs/run_Q21TWxSgO5UWELtL4FrvjCGk "HTTP/1.1 200 OK"
+2025-08-24 18:06:50,119 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_4rPdriFe78tGd1NK95jM5uVe/runs/run_Q21TWxSgO5UWELtL4FrvjCGk "HTTP/1.1 200 OK"
+2025-08-24 18:06:51,456 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_4rPdriFe78tGd1NK95jM5uVe/runs/run_Q21TWxSgO5UWELtL4FrvjCGk "HTTP/1.1 200 OK"
+2025-08-24 18:06:52,891 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_4rPdriFe78tGd1NK95jM5uVe/runs/run_Q21TWxSgO5UWELtL4FrvjCGk "HTTP/1.1 200 OK"
+2025-08-24 18:06:54,153 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_4rPdriFe78tGd1NK95jM5uVe/runs/run_Q21TWxSgO5UWELtL4FrvjCGk "HTTP/1.1 200 OK"
+2025-08-24 18:06:55,423 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_4rPdriFe78tGd1NK95jM5uVe/runs/run_Q21TWxSgO5UWELtL4FrvjCGk "HTTP/1.1 200 OK"
+2025-08-24 18:06:56,768 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_4rPdriFe78tGd1NK95jM5uVe/runs/run_Q21TWxSgO5UWELtL4FrvjCGk "HTTP/1.1 200 OK"
+2025-08-24 18:06:58,108 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_4rPdriFe78tGd1NK95jM5uVe/runs/run_Q21TWxSgO5UWELtL4FrvjCGk "HTTP/1.1 200 OK"
+2025-08-24 18:06:59,643 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_4rPdriFe78tGd1NK95jM5uVe/runs/run_Q21TWxSgO5UWELtL4FrvjCGk "HTTP/1.1 200 OK"
+2025-08-24 18:07:00,974 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_4rPdriFe78tGd1NK95jM5uVe/runs/run_Q21TWxSgO5UWELtL4FrvjCGk "HTTP/1.1 200 OK"
+2025-08-24 18:07:02,294 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_4rPdriFe78tGd1NK95jM5uVe/runs/run_Q21TWxSgO5UWELtL4FrvjCGk "HTTP/1.1 200 OK"
+2025-08-24 18:07:03,607 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_4rPdriFe78tGd1NK95jM5uVe/runs/run_Q21TWxSgO5UWELtL4FrvjCGk "HTTP/1.1 200 OK"
+2025-08-24 18:07:04,878 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_4rPdriFe78tGd1NK95jM5uVe/runs/run_Q21TWxSgO5UWELtL4FrvjCGk "HTTP/1.1 200 OK"
+2025-08-24 18:07:05,190 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_4rPdriFe78tGd1NK95jM5uVe/messages "HTTP/1.1 200 OK"
+2025-08-24 18:07:05,193 - INFO - Initial OpenAI response length: 5439 characters
+2025-08-24 18:07:05,193 - INFO - Initial response preview: [{
+    "page_number": 1,
+    "summary": "The page introduces changes to the insurance policy, highlighting new endorsements related to liability coverage under the Businessowners Coverage Form. The policy is customized for specific circumstances involving additional insured parties.",
+    "full_text": "Text will be extracted separately",
+    "tables_and_figures": [{
+        "type": "table",
+        "description": "Schedule of endorsements and additional insured entities with effective dates",
+  ...
+2025-08-24 18:07:05,194 - INFO - Full initial response saved to openai_response_initial_1_4.txt
+2025-08-24 18:07:05,396 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_4rPdriFe78tGd1NK95jM5uVe/messages "HTTP/1.1 200 OK"
+2025-08-24 18:07:05,398 - INFO - Final OpenAI response length: 5439 characters
+2025-08-24 18:07:05,398 - INFO - Final response preview: [{
+    "page_number": 1,
+    "summary": "The page introduces changes to the insurance policy, highlighting new endorsements related to liability coverage under the Businessowners Coverage Form. The policy is customized for specific circumstances involving additional insured parties.",
+    "full_text": "Text will be extracted separately",
+    "tables_and_figures": [{
+        "type": "table",
+        "description": "Schedule of endorsements and additional insured entities with effective dates",
+  ...
+2025-08-24 18:07:05,399 - INFO - Full final response saved to openai_response_final_1_4.txt
+2025-08-24 18:07:05,399 - INFO - Parsing JSON response for pages 1-4
+2025-08-24 18:07:05,400 - INFO - Successfully parsed 4 pages
+2025-08-24 18:07:05,400 - INFO - Page 1 summary: The page introduces changes to the insurance policy, highlighting new endorsements related to liabil...
+2025-08-24 18:07:05,400 - INFO - Page 1 full_text length: 33 chars
+2025-08-24 18:07:05,400 - INFO - Page 2 summary: Continues with detailed conditions for coverage exclusions relating to specific incidents such as va...
+2025-08-24 18:07:05,400 - INFO - Page 2 full_text length: 33 chars
+2025-08-24 18:07:05,400 - INFO - Page 3 summary: Page details the exclusions tied to specific protective safeguard failures, including obligations fo...
+2025-08-24 18:07:05,400 - INFO - Page 3 full_text length: 33 chars
+2025-08-24 18:07:06,097 - INFO - HTTP Request: DELETE https://api.openai.com/v1/assistants/asst_XYxLswcbap09AkTf7mgzklhS "HTTP/1.1 200 OK"
+2025-08-24 18:07:06,100 - INFO - Replaced full_text for page 1 with PyPDF2 extracted text (2856 chars)
+2025-08-24 18:07:06,100 - INFO - Replaced full_text for page 2 with PyPDF2 extracted text (642 chars)
+2025-08-24 18:07:06,100 - INFO - Replaced full_text for page 3 with PyPDF2 extracted text (333 chars)
+2025-08-24 18:07:06,100 - INFO - Replaced full_text for page 4 with PyPDF2 extracted text (1220 chars)
+2025-08-24 18:07:06,511 - INFO - HTTP Request: DELETE https://api.openai.com/v1/files/file-CjGz93J3mEztZqeRc7yNqJ "HTTP/1.1 200 OK"
+2025-08-24 18:07:06,554 - INFO - Extracted 627 characters from page 5
+2025-08-24 18:07:06,617 - INFO - Extracted 3156 characters from page 6
+2025-08-24 18:07:06,642 - INFO - Extracted 1563 characters from page 7
+2025-08-24 18:07:06,704 - INFO - Extracted 2558 characters from page 8
+2025-08-24 18:07:06,704 - INFO -   Key content found: Business Income/Extra Expense
+2025-08-24 18:07:07,236 - INFO - HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2025-08-24 18:07:07,485 - INFO - HTTP Request: POST https://api.openai.com/v1/assistants "HTTP/1.1 200 OK"
+2025-08-24 18:07:07,745 - INFO - HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+2025-08-24 18:07:08,823 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/messages "HTTP/1.1 200 OK"
+2025-08-24 18:07:09,783 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/runs "HTTP/1.1 200 OK"
+2025-08-24 18:07:10,069 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/runs/run_giFkJci3dQjzxSWfkrG8AHBj "HTTP/1.1 200 OK"
+2025-08-24 18:07:11,421 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/runs/run_giFkJci3dQjzxSWfkrG8AHBj "HTTP/1.1 200 OK"
+2025-08-24 18:07:12,853 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/runs/run_giFkJci3dQjzxSWfkrG8AHBj "HTTP/1.1 200 OK"
+2025-08-24 18:07:14,492 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/runs/run_giFkJci3dQjzxSWfkrG8AHBj "HTTP/1.1 200 OK"
+2025-08-24 18:07:14,800 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/messages "HTTP/1.1 200 OK"
+2025-08-24 18:07:14,804 - INFO - Initial OpenAI response length: 362 characters
+2025-08-24 18:07:14,804 - INFO - Initial response preview: Unfortunately, I wasn't able to access the content of the specific pages (5 to 8) you requested from the uploaded insurance document. If you have any specific content you can provide or need a different approach, let me know how I might assist you further. Alternatively, if there's any text from those pages you can share, I could help analyze that information....
+2025-08-24 18:07:14,805 - INFO - Full initial response saved to openai_response_initial_5_8.txt
+2025-08-24 18:07:15,312 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/messages "HTTP/1.1 200 OK"
+2025-08-24 18:07:23,197 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/runs "HTTP/1.1 200 OK"
+2025-08-24 18:07:23,606 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/runs/run_EpuCexynOEklMYXYgglidnR8 "HTTP/1.1 200 OK"
+2025-08-24 18:07:25,246 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/runs/run_EpuCexynOEklMYXYgglidnR8 "HTTP/1.1 200 OK"
+2025-08-24 18:07:26,529 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/runs/run_EpuCexynOEklMYXYgglidnR8 "HTTP/1.1 200 OK"
+2025-08-24 18:07:28,097 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/runs/run_EpuCexynOEklMYXYgglidnR8 "HTTP/1.1 200 OK"
+2025-08-24 18:07:29,399 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/runs/run_EpuCexynOEklMYXYgglidnR8 "HTTP/1.1 200 OK"
+2025-08-24 18:07:30,775 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/runs/run_EpuCexynOEklMYXYgglidnR8 "HTTP/1.1 200 OK"
+2025-08-24 18:07:32,159 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/runs/run_EpuCexynOEklMYXYgglidnR8 "HTTP/1.1 200 OK"
+2025-08-24 18:07:33,435 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/runs/run_EpuCexynOEklMYXYgglidnR8 "HTTP/1.1 200 OK"
+2025-08-24 18:07:34,872 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/runs/run_EpuCexynOEklMYXYgglidnR8 "HTTP/1.1 200 OK"
+2025-08-24 18:07:36,410 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/runs/run_EpuCexynOEklMYXYgglidnR8 "HTTP/1.1 200 OK"
+2025-08-24 18:07:37,729 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/runs/run_EpuCexynOEklMYXYgglidnR8 "HTTP/1.1 200 OK"
+2025-08-24 18:07:39,068 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/runs/run_EpuCexynOEklMYXYgglidnR8 "HTTP/1.1 200 OK"
+2025-08-24 18:07:40,503 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/runs/run_EpuCexynOEklMYXYgglidnR8 "HTTP/1.1 200 OK"
+2025-08-24 18:07:42,038 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/runs/run_EpuCexynOEklMYXYgglidnR8 "HTTP/1.1 200 OK"
+2025-08-24 18:07:43,405 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/runs/run_EpuCexynOEklMYXYgglidnR8 "HTTP/1.1 200 OK"
+2025-08-24 18:07:44,700 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/runs/run_EpuCexynOEklMYXYgglidnR8 "HTTP/1.1 200 OK"
+2025-08-24 18:07:46,031 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/runs/run_EpuCexynOEklMYXYgglidnR8 "HTTP/1.1 200 OK"
+2025-08-24 18:07:48,704 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/runs/run_EpuCexynOEklMYXYgglidnR8 "HTTP/1.1 200 OK"
+2025-08-24 18:07:50,333 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/runs/run_EpuCexynOEklMYXYgglidnR8 "HTTP/1.1 200 OK"
+2025-08-24 18:07:51,768 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/runs/run_EpuCexynOEklMYXYgglidnR8 "HTTP/1.1 200 OK"
+2025-08-24 18:07:53,201 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/runs/run_EpuCexynOEklMYXYgglidnR8 "HTTP/1.1 200 OK"
+2025-08-24 18:07:54,635 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/runs/run_EpuCexynOEklMYXYgglidnR8 "HTTP/1.1 200 OK"
+2025-08-24 18:07:55,964 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/runs/run_EpuCexynOEklMYXYgglidnR8 "HTTP/1.1 200 OK"
+2025-08-24 18:07:57,297 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/runs/run_EpuCexynOEklMYXYgglidnR8 "HTTP/1.1 200 OK"
+2025-08-24 18:07:58,613 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/runs/run_EpuCexynOEklMYXYgglidnR8 "HTTP/1.1 200 OK"
+2025-08-24 18:07:59,934 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/runs/run_EpuCexynOEklMYXYgglidnR8 "HTTP/1.1 200 OK"
+2025-08-24 18:08:01,291 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/runs/run_EpuCexynOEklMYXYgglidnR8 "HTTP/1.1 200 OK"
+2025-08-24 18:08:02,622 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/runs/run_EpuCexynOEklMYXYgglidnR8 "HTTP/1.1 200 OK"
+2025-08-24 18:08:04,261 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/runs/run_EpuCexynOEklMYXYgglidnR8 "HTTP/1.1 200 OK"
+2025-08-24 18:08:05,592 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/runs/run_EpuCexynOEklMYXYgglidnR8 "HTTP/1.1 200 OK"
+2025-08-24 18:08:06,923 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/runs/run_EpuCexynOEklMYXYgglidnR8 "HTTP/1.1 200 OK"
+2025-08-24 18:08:08,304 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/runs/run_EpuCexynOEklMYXYgglidnR8 "HTTP/1.1 200 OK"
+2025-08-24 18:08:09,564 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/runs/run_EpuCexynOEklMYXYgglidnR8 "HTTP/1.1 200 OK"
+2025-08-24 18:08:09,718 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_xrYjwiIvyCaMbD8zDXxlZ15R/messages "HTTP/1.1 200 OK"
+2025-08-24 18:08:09,759 - INFO - Final OpenAI response length: 9070 characters
+2025-08-24 18:08:09,759 - INFO - Final response preview: [
+    {
+        "page_number": 1,
+        "summary": "This page primarily includes insurance coverage information such as exclusions for specific liabilities and substances like perfluoroalkyl and polyfluoroalkyl. It also notifies the policyholder about their choices regarding terrorism insurance coverage.",
+        "full_text": "Page 1 content will be extracted separately.",
+        "tables_and_figures": [],
+        "key_information": {
+            "insured_property": null,
+            "coverag...
+2025-08-24 18:08:09,760 - INFO - Full final response saved to openai_response_final_5_8.txt
+2025-08-24 18:08:09,760 - INFO - Parsing JSON response for pages 5-8
+2025-08-24 18:08:09,760 - INFO - Successfully parsed 8 pages
+2025-08-24 18:08:09,760 - INFO - Page 1 summary: This page primarily includes insurance coverage information such as exclusions for specific liabilit...
+2025-08-24 18:08:09,760 - INFO - Page 1 full_text length: 44 chars
+2025-08-24 18:08:09,760 - INFO - Page 2 summary: This page discusses provisions related to protective devices and services necessary for maintaining ...
+2025-08-24 18:08:09,760 - INFO - Page 2 full_text length: 44 chars
+2025-08-24 18:08:09,760 - INFO - Page 3 summary: Details on waivers of rights of recovery and additional insured parties. Also covers policy endorsem...
+2025-08-24 18:08:09,760 - INFO - Page 3 full_text length: 44 chars
+2025-08-24 18:08:10,173 - INFO - HTTP Request: DELETE https://api.openai.com/v1/assistants/asst_LogUK6Yt9IY1o6NZYMLF4Luf "HTTP/1.1 200 OK"
+2025-08-24 18:08:10,175 - INFO - Replaced full_text for page 5 with PyPDF2 extracted text (627 chars)
+2025-08-24 18:08:10,175 - INFO - Replaced full_text for page 6 with PyPDF2 extracted text (3156 chars)
+2025-08-24 18:08:10,175 - INFO - Replaced full_text for page 7 with PyPDF2 extracted text (1563 chars)
+2025-08-24 18:08:10,175 - INFO - Replaced full_text for page 8 with PyPDF2 extracted text (2558 chars)
+2025-08-24 18:08:10,602 - INFO - HTTP Request: DELETE https://api.openai.com/v1/files/file-CkjoGWFAcHRLGitERrSY4J "HTTP/1.1 200 OK"
+2025-08-24 18:08:10,645 - INFO - Extracted 610 characters from page 9
+2025-08-24 18:08:10,681 - INFO - Extracted 1540 characters from page 10
+2025-08-24 18:08:10,681 - INFO -   Key content found: Property Coverage, Business Income/Extra Expense, 807 Broadway Address
+2025-08-24 18:08:10,713 - INFO - Extracted 1880 characters from page 11
+2025-08-24 18:08:10,713 - INFO -   Key content found: 807 Broadway Address
+2025-08-24 18:08:10,716 - INFO - Extracted 44 characters from page 12
+2025-08-24 18:08:12,145 - INFO - HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2025-08-24 18:08:13,270 - INFO - HTTP Request: POST https://api.openai.com/v1/assistants "HTTP/1.1 200 OK"
+2025-08-24 18:08:13,511 - INFO - HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+2025-08-24 18:08:14,910 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_i0yebtMdJYKdJW6MGgRaYIlz/messages "HTTP/1.1 200 OK"
+2025-08-24 18:08:15,940 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_i0yebtMdJYKdJW6MGgRaYIlz/runs "HTTP/1.1 200 OK"
+2025-08-24 18:08:16,344 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_i0yebtMdJYKdJW6MGgRaYIlz/runs/run_93JrLrDA9d4j6XDVvRkMVeTd "HTTP/1.1 200 OK"
+2025-08-24 18:08:17,676 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_i0yebtMdJYKdJW6MGgRaYIlz/runs/run_93JrLrDA9d4j6XDVvRkMVeTd "HTTP/1.1 200 OK"
+2025-08-24 18:08:19,109 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_i0yebtMdJYKdJW6MGgRaYIlz/runs/run_93JrLrDA9d4j6XDVvRkMVeTd "HTTP/1.1 200 OK"
+2025-08-24 18:08:20,542 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_i0yebtMdJYKdJW6MGgRaYIlz/runs/run_93JrLrDA9d4j6XDVvRkMVeTd "HTTP/1.1 200 OK"
+2025-08-24 18:08:21,872 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_i0yebtMdJYKdJW6MGgRaYIlz/runs/run_93JrLrDA9d4j6XDVvRkMVeTd "HTTP/1.1 200 OK"
+2025-08-24 18:08:23,295 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_i0yebtMdJYKdJW6MGgRaYIlz/runs/run_93JrLrDA9d4j6XDVvRkMVeTd "HTTP/1.1 200 OK"
+2025-08-24 18:08:28,538 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_i0yebtMdJYKdJW6MGgRaYIlz/runs/run_93JrLrDA9d4j6XDVvRkMVeTd "HTTP/1.1 200 OK"
+2025-08-24 18:08:30,938 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_i0yebtMdJYKdJW6MGgRaYIlz/runs/run_93JrLrDA9d4j6XDVvRkMVeTd "HTTP/1.1 200 OK"
+2025-08-24 18:08:32,292 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_i0yebtMdJYKdJW6MGgRaYIlz/runs/run_93JrLrDA9d4j6XDVvRkMVeTd "HTTP/1.1 200 OK"
+2025-08-24 18:08:33,635 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_i0yebtMdJYKdJW6MGgRaYIlz/runs/run_93JrLrDA9d4j6XDVvRkMVeTd "HTTP/1.1 200 OK"
+2025-08-24 18:08:35,084 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_i0yebtMdJYKdJW6MGgRaYIlz/runs/run_93JrLrDA9d4j6XDVvRkMVeTd "HTTP/1.1 200 OK"
+2025-08-24 18:08:36,451 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_i0yebtMdJYKdJW6MGgRaYIlz/runs/run_93JrLrDA9d4j6XDVvRkMVeTd "HTTP/1.1 200 OK"
+2025-08-24 18:08:37,855 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_i0yebtMdJYKdJW6MGgRaYIlz/runs/run_93JrLrDA9d4j6XDVvRkMVeTd "HTTP/1.1 200 OK"
+2025-08-24 18:08:39,179 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_i0yebtMdJYKdJW6MGgRaYIlz/runs/run_93JrLrDA9d4j6XDVvRkMVeTd "HTTP/1.1 200 OK"
+2025-08-24 18:08:40,612 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_i0yebtMdJYKdJW6MGgRaYIlz/runs/run_93JrLrDA9d4j6XDVvRkMVeTd "HTTP/1.1 200 OK"
+2025-08-24 18:08:41,968 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_i0yebtMdJYKdJW6MGgRaYIlz/runs/run_93JrLrDA9d4j6XDVvRkMVeTd "HTTP/1.1 200 OK"
+2025-08-24 18:08:43,276 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_i0yebtMdJYKdJW6MGgRaYIlz/runs/run_93JrLrDA9d4j6XDVvRkMVeTd "HTTP/1.1 200 OK"
+2025-08-24 18:08:44,572 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_i0yebtMdJYKdJW6MGgRaYIlz/runs/run_93JrLrDA9d4j6XDVvRkMVeTd "HTTP/1.1 200 OK"
+2025-08-24 18:08:44,796 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_i0yebtMdJYKdJW6MGgRaYIlz/messages "HTTP/1.1 200 OK"
+2025-08-24 18:08:44,799 - INFO - Initial OpenAI response length: 4981 characters
+2025-08-24 18:08:44,799 - INFO - Initial response preview: ```json
+[
+  {
+    "page_number": 9,
+    "summary": "This page outlines exclusions under the liability coverage related to protective safeguards. It specifies conditions under which the insurance will not cover certain losses, such as those caused by equipment breakdown or theft, if specific safeguards were not maintained.",
+    "full_text": "Text will be extracted separately",
+    "tables_and_figures": [
+      {
+        "type": "table",
+        "description": "Exclusions related to protective sa...
+2025-08-24 18:08:44,801 - INFO - Full initial response saved to openai_response_initial_9_12.txt
+2025-08-24 18:08:46,141 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_i0yebtMdJYKdJW6MGgRaYIlz/messages "HTTP/1.1 200 OK"
+2025-08-24 18:08:47,291 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_i0yebtMdJYKdJW6MGgRaYIlz/runs "HTTP/1.1 200 OK"
+2025-08-24 18:08:47,559 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_i0yebtMdJYKdJW6MGgRaYIlz/runs/run_Af4KpXUTVae8dyErHxaGjGaV "HTTP/1.1 200 OK"
+2025-08-24 18:08:49,215 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_i0yebtMdJYKdJW6MGgRaYIlz/runs/run_Af4KpXUTVae8dyErHxaGjGaV "HTTP/1.1 200 OK"
+2025-08-24 18:08:50,483 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_i0yebtMdJYKdJW6MGgRaYIlz/runs/run_Af4KpXUTVae8dyErHxaGjGaV "HTTP/1.1 200 OK"
+2025-08-24 18:08:50,663 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_i0yebtMdJYKdJW6MGgRaYIlz/messages "HTTP/1.1 200 OK"
+2025-08-24 18:08:50,666 - INFO - Final OpenAI response length: 333 characters
+2025-08-24 18:08:50,666 - INFO - Final response preview: I’m currently unable to extract and display complete text from documents for analysis. However, I can help you by providing a structured analysis of the document based on its content structure, such as outlines of each page or key details. If there's a specific type of information or format you're interested in, please let me know!...
+2025-08-24 18:08:50,667 - INFO - Full final response saved to openai_response_final_9_12.txt
+2025-08-24 18:08:50,667 - INFO - Parsing JSON response for pages 9-12
+2025-08-24 18:08:51,054 - INFO - HTTP Request: DELETE https://api.openai.com/v1/assistants/asst_0pdsOjrHuScqqfxxRuuAaDnL "HTTP/1.1 200 OK"
+2025-08-24 18:08:51,795 - INFO - HTTP Request: DELETE https://api.openai.com/v1/files/file-KxEmeLfQ2GkfHBZgwFGbXD "HTTP/1.1 200 OK"
+2025-08-24 18:08:51,874 - INFO - Extracted 2351 characters from page 13
+2025-08-24 18:08:51,952 - INFO - Extracted 3349 characters from page 14
+2025-08-24 18:08:51,959 - INFO - Extracted 454 characters from page 15
+2025-08-24 18:08:51,987 - INFO - Extracted 1840 characters from page 16
+2025-08-24 18:08:53,002 - INFO - HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2025-08-24 18:08:53,413 - INFO - HTTP Request: POST https://api.openai.com/v1/assistants "HTTP/1.1 200 OK"
+2025-08-24 18:08:53,831 - INFO - HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+2025-08-24 18:08:55,153 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_Puw5y1g7OapAG1Jzv25HzdWz/messages "HTTP/1.1 200 OK"
+2025-08-24 18:08:58,513 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_Puw5y1g7OapAG1Jzv25HzdWz/runs "HTTP/1.1 200 OK"
+2025-08-24 18:08:58,896 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_Puw5y1g7OapAG1Jzv25HzdWz/runs/run_WtVaum3oNzPzmZCL88oAb2k6 "HTTP/1.1 200 OK"
+2025-08-24 18:09:00,204 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_Puw5y1g7OapAG1Jzv25HzdWz/runs/run_WtVaum3oNzPzmZCL88oAb2k6 "HTTP/1.1 200 OK"
+2025-08-24 18:09:01,562 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_Puw5y1g7OapAG1Jzv25HzdWz/runs/run_WtVaum3oNzPzmZCL88oAb2k6 "HTTP/1.1 200 OK"
+2025-08-24 18:09:02,937 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_Puw5y1g7OapAG1Jzv25HzdWz/runs/run_WtVaum3oNzPzmZCL88oAb2k6 "HTTP/1.1 200 OK"
+2025-08-24 18:09:04,206 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_Puw5y1g7OapAG1Jzv25HzdWz/runs/run_WtVaum3oNzPzmZCL88oAb2k6 "HTTP/1.1 200 OK"
+2025-08-24 18:09:05,555 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_Puw5y1g7OapAG1Jzv25HzdWz/runs/run_WtVaum3oNzPzmZCL88oAb2k6 "HTTP/1.1 200 OK"
+2025-08-24 18:09:07,032 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_Puw5y1g7OapAG1Jzv25HzdWz/runs/run_WtVaum3oNzPzmZCL88oAb2k6 "HTTP/1.1 200 OK"
+2025-08-24 18:09:09,183 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_Puw5y1g7OapAG1Jzv25HzdWz/runs/run_WtVaum3oNzPzmZCL88oAb2k6 "HTTP/1.1 200 OK"
+2025-08-24 18:09:10,437 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_Puw5y1g7OapAG1Jzv25HzdWz/runs/run_WtVaum3oNzPzmZCL88oAb2k6 "HTTP/1.1 200 OK"
+2025-08-24 18:09:12,429 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_Puw5y1g7OapAG1Jzv25HzdWz/runs/run_WtVaum3oNzPzmZCL88oAb2k6 "HTTP/1.1 200 OK"
+2025-08-24 18:09:13,790 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_Puw5y1g7OapAG1Jzv25HzdWz/runs/run_WtVaum3oNzPzmZCL88oAb2k6 "HTTP/1.1 200 OK"
+2025-08-24 18:09:15,408 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_Puw5y1g7OapAG1Jzv25HzdWz/runs/run_WtVaum3oNzPzmZCL88oAb2k6 "HTTP/1.1 200 OK"
+2025-08-24 18:09:16,761 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_Puw5y1g7OapAG1Jzv25HzdWz/runs/run_WtVaum3oNzPzmZCL88oAb2k6 "HTTP/1.1 200 OK"
+2025-08-24 18:09:18,093 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_Puw5y1g7OapAG1Jzv25HzdWz/runs/run_WtVaum3oNzPzmZCL88oAb2k6 "HTTP/1.1 200 OK"
+2025-08-24 18:09:19,529 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_Puw5y1g7OapAG1Jzv25HzdWz/runs/run_WtVaum3oNzPzmZCL88oAb2k6 "HTTP/1.1 200 OK"
+2025-08-24 18:09:20,857 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_Puw5y1g7OapAG1Jzv25HzdWz/runs/run_WtVaum3oNzPzmZCL88oAb2k6 "HTTP/1.1 200 OK"
+2025-08-24 18:09:21,030 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_Puw5y1g7OapAG1Jzv25HzdWz/messages "HTTP/1.1 200 OK"
+2025-08-24 18:09:21,034 - INFO - Initial OpenAI response length: 4558 characters
+2025-08-24 18:09:21,034 - INFO - Initial response preview: [
+    {
+        "page_number": 13,
+        "summary": "The page includes information regarding the terrorism insurance coverage rejection, and instructions for policyholders who wish to purchase this coverage. It explains the impact of the decision and the terms under the federal Terrorism Risk Insurance Act.",
+        "full_text": "Text will be extracted separately",
+        "tables_and_figures": [],
+        "key_information": {
+            "insured_property": null,
+            "coverage_detail...
+2025-08-24 18:09:21,035 - INFO - Full initial response saved to openai_response_initial_13_16.txt
+2025-08-24 18:09:22,391 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_Puw5y1g7OapAG1Jzv25HzdWz/messages "HTTP/1.1 200 OK"
+2025-08-24 18:09:23,520 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_Puw5y1g7OapAG1Jzv25HzdWz/runs "HTTP/1.1 200 OK"
+2025-08-24 18:09:23,929 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_Puw5y1g7OapAG1Jzv25HzdWz/runs/run_6gYwzvEyg3UyC6qF6TDc7bXs "HTTP/1.1 200 OK"
+2025-08-24 18:09:25,261 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_Puw5y1g7OapAG1Jzv25HzdWz/runs/run_6gYwzvEyg3UyC6qF6TDc7bXs "HTTP/1.1 200 OK"
+2025-08-24 18:09:26,590 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_Puw5y1g7OapAG1Jzv25HzdWz/runs/run_6gYwzvEyg3UyC6qF6TDc7bXs "HTTP/1.1 200 OK"
+2025-08-24 18:09:28,211 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_Puw5y1g7OapAG1Jzv25HzdWz/runs/run_6gYwzvEyg3UyC6qF6TDc7bXs "HTTP/1.1 200 OK"
+2025-08-24 18:09:28,407 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_Puw5y1g7OapAG1Jzv25HzdWz/messages "HTTP/1.1 200 OK"
+2025-08-24 18:09:28,409 - INFO - Final OpenAI response length: 524 characters
+2025-08-24 18:09:28,410 - INFO - Final response preview: I'm unable to directly access or extract full text from the document you uploaded, as it requires capabilities beyond summarizing or analyzing based on content snippets. However, you can use Optical Character Recognition (OCR) tools or PDF extraction software to obtain the full text from each page of the document. Once you have the text, you can insert it into the designated "full_text" field of the JSON structure for your complete analysis.
+
+If you have any other questions or need further assis...
+2025-08-24 18:09:28,410 - INFO - Full final response saved to openai_response_final_13_16.txt
+2025-08-24 18:09:28,410 - INFO - Parsing JSON response for pages 13-16
+2025-08-24 18:09:28,947 - INFO - HTTP Request: DELETE https://api.openai.com/v1/assistants/asst_yH9aafF5xUgeWtJeLHYTb8eH "HTTP/1.1 200 OK"
+2025-08-24 18:09:29,561 - INFO - HTTP Request: DELETE https://api.openai.com/v1/files/file-PKjLguxqGWDCg1DWCtDSYb "HTTP/1.1 200 OK"
+2025-08-24 18:09:29,623 - INFO - Extracted 1467 characters from page 17
+2025-08-24 18:09:29,644 - INFO - Extracted 1090 characters from page 18
+2025-08-24 18:09:29,663 - INFO - Extracted 1085 characters from page 19
+2025-08-24 18:09:29,704 - INFO - Extracted 2250 characters from page 20
+2025-08-24 18:09:31,097 - INFO - HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2025-08-24 18:09:32,441 - INFO - HTTP Request: POST https://api.openai.com/v1/assistants "HTTP/1.1 200 OK"
+2025-08-24 18:09:32,735 - INFO - HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+2025-08-24 18:09:33,966 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/messages "HTTP/1.1 200 OK"
+2025-08-24 18:09:35,194 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs "HTTP/1.1 200 OK"
+2025-08-24 18:09:35,602 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_58HqujqTTZnjEvdyx9byZZIu "HTTP/1.1 200 OK"
+2025-08-24 18:09:36,938 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_58HqujqTTZnjEvdyx9byZZIu "HTTP/1.1 200 OK"
+2025-08-24 18:09:38,501 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_58HqujqTTZnjEvdyx9byZZIu "HTTP/1.1 200 OK"
+2025-08-24 18:09:39,904 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_58HqujqTTZnjEvdyx9byZZIu "HTTP/1.1 200 OK"
+2025-08-24 18:09:41,244 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_58HqujqTTZnjEvdyx9byZZIu "HTTP/1.1 200 OK"
+2025-08-24 18:09:42,551 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_58HqujqTTZnjEvdyx9byZZIu "HTTP/1.1 200 OK"
+2025-08-24 18:09:44,101 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_58HqujqTTZnjEvdyx9byZZIu "HTTP/1.1 200 OK"
+2025-08-24 18:09:45,433 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_58HqujqTTZnjEvdyx9byZZIu "HTTP/1.1 200 OK"
+2025-08-24 18:09:46,766 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_58HqujqTTZnjEvdyx9byZZIu "HTTP/1.1 200 OK"
+2025-08-24 18:09:48,199 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_58HqujqTTZnjEvdyx9byZZIu "HTTP/1.1 200 OK"
+2025-08-24 18:09:49,533 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_58HqujqTTZnjEvdyx9byZZIu "HTTP/1.1 200 OK"
+2025-08-24 18:09:50,859 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_58HqujqTTZnjEvdyx9byZZIu "HTTP/1.1 200 OK"
+2025-08-24 18:09:52,221 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_58HqujqTTZnjEvdyx9byZZIu "HTTP/1.1 200 OK"
+2025-08-24 18:09:53,514 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_58HqujqTTZnjEvdyx9byZZIu "HTTP/1.1 200 OK"
+2025-08-24 18:09:54,856 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_58HqujqTTZnjEvdyx9byZZIu "HTTP/1.1 200 OK"
+2025-08-24 18:09:56,184 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_58HqujqTTZnjEvdyx9byZZIu "HTTP/1.1 200 OK"
+2025-08-24 18:09:57,518 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_58HqujqTTZnjEvdyx9byZZIu "HTTP/1.1 200 OK"
+2025-08-24 18:09:57,676 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/messages "HTTP/1.1 200 OK"
+2025-08-24 18:09:57,679 - INFO - Initial OpenAI response length: 4857 characters
+2025-08-24 18:09:57,680 - INFO - Initial response preview: [
+  {
+    "page_number": 17,
+    "summary": "The page contains an endorsement modifying insurance under the Businessowners Coverage Form, specifying coverage details for additional insured parties. It includes specific exclusions for 'perfluoroalkyl or polyfluoroalkyl substances'.",
+    "full_text": "Text will be extracted separately",
+    "tables_and_figures": [
+      {
+        "type": "table",
+        "description": "Schedule Table",
+        "content": "Outline of the person or organization na...
+2025-08-24 18:09:57,680 - INFO - Full initial response saved to openai_response_initial_17_20.txt
+2025-08-24 18:09:58,030 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/messages "HTTP/1.1 200 OK"
+2025-08-24 18:09:59,052 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs "HTTP/1.1 200 OK"
+2025-08-24 18:09:59,439 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_OeRLw7M91IJHs7rkrCbbTLA7 "HTTP/1.1 200 OK"
+2025-08-24 18:10:00,755 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_OeRLw7M91IJHs7rkrCbbTLA7 "HTTP/1.1 200 OK"
+2025-08-24 18:10:02,297 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_OeRLw7M91IJHs7rkrCbbTLA7 "HTTP/1.1 200 OK"
+2025-08-24 18:10:03,666 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_OeRLw7M91IJHs7rkrCbbTLA7 "HTTP/1.1 200 OK"
+2025-08-24 18:10:05,097 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_OeRLw7M91IJHs7rkrCbbTLA7 "HTTP/1.1 200 OK"
+2025-08-24 18:10:06,477 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_OeRLw7M91IJHs7rkrCbbTLA7 "HTTP/1.1 200 OK"
+2025-08-24 18:10:07,860 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_OeRLw7M91IJHs7rkrCbbTLA7 "HTTP/1.1 200 OK"
+2025-08-24 18:10:09,193 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_OeRLw7M91IJHs7rkrCbbTLA7 "HTTP/1.1 200 OK"
+2025-08-24 18:10:10,523 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_OeRLw7M91IJHs7rkrCbbTLA7 "HTTP/1.1 200 OK"
+2025-08-24 18:10:12,325 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_OeRLw7M91IJHs7rkrCbbTLA7 "HTTP/1.1 200 OK"
+2025-08-24 18:10:13,816 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_OeRLw7M91IJHs7rkrCbbTLA7 "HTTP/1.1 200 OK"
+2025-08-24 18:10:15,237 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_OeRLw7M91IJHs7rkrCbbTLA7 "HTTP/1.1 200 OK"
+2025-08-24 18:10:16,667 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_OeRLw7M91IJHs7rkrCbbTLA7 "HTTP/1.1 200 OK"
+2025-08-24 18:10:18,100 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_OeRLw7M91IJHs7rkrCbbTLA7 "HTTP/1.1 200 OK"
+2025-08-24 18:10:19,435 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_OeRLw7M91IJHs7rkrCbbTLA7 "HTTP/1.1 200 OK"
+2025-08-24 18:10:20,967 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_OeRLw7M91IJHs7rkrCbbTLA7 "HTTP/1.1 200 OK"
+2025-08-24 18:10:22,298 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_OeRLw7M91IJHs7rkrCbbTLA7 "HTTP/1.1 200 OK"
+2025-08-24 18:10:23,614 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_OeRLw7M91IJHs7rkrCbbTLA7 "HTTP/1.1 200 OK"
+2025-08-24 18:10:24,962 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_OeRLw7M91IJHs7rkrCbbTLA7 "HTTP/1.1 200 OK"
+2025-08-24 18:10:26,394 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_OeRLw7M91IJHs7rkrCbbTLA7 "HTTP/1.1 200 OK"
+2025-08-24 18:10:27,827 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_OeRLw7M91IJHs7rkrCbbTLA7 "HTTP/1.1 200 OK"
+2025-08-24 18:10:29,158 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_OeRLw7M91IJHs7rkrCbbTLA7 "HTTP/1.1 200 OK"
+2025-08-24 18:10:30,482 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_OeRLw7M91IJHs7rkrCbbTLA7 "HTTP/1.1 200 OK"
+2025-08-24 18:10:32,027 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_OeRLw7M91IJHs7rkrCbbTLA7 "HTTP/1.1 200 OK"
+2025-08-24 18:10:33,328 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_OeRLw7M91IJHs7rkrCbbTLA7 "HTTP/1.1 200 OK"
+2025-08-24 18:10:34,688 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_OeRLw7M91IJHs7rkrCbbTLA7 "HTTP/1.1 200 OK"
+2025-08-24 18:10:36,224 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_OeRLw7M91IJHs7rkrCbbTLA7 "HTTP/1.1 200 OK"
+2025-08-24 18:10:37,557 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_OeRLw7M91IJHs7rkrCbbTLA7 "HTTP/1.1 200 OK"
+2025-08-24 18:10:38,867 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_OeRLw7M91IJHs7rkrCbbTLA7 "HTTP/1.1 200 OK"
+2025-08-24 18:10:40,425 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_OeRLw7M91IJHs7rkrCbbTLA7 "HTTP/1.1 200 OK"
+2025-08-24 18:10:41,755 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_OeRLw7M91IJHs7rkrCbbTLA7 "HTTP/1.1 200 OK"
+2025-08-24 18:10:43,189 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/runs/run_OeRLw7M91IJHs7rkrCbbTLA7 "HTTP/1.1 200 OK"
+2025-08-24 18:10:43,368 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_O8HBqUJWtuE9cgAKRCg8zCLS/messages "HTTP/1.1 200 OK"
+2025-08-24 18:10:43,405 - INFO - Final OpenAI response length: 8855 characters
+2025-08-24 18:10:43,405 - INFO - Final response preview: [
+  {
+    "page_number": 17,
+    "summary": "The page contains an endorsement modifying insurance under the Businessowners Coverage Form, specifying coverage details for additional insured parties. It includes specific exclusions for 'perfluoroalkyl or polyfluoroalkyl substances'.",
+    "full_text": "Section II – Liability is amended as follows: A. The following is added to Paragraph B. Exclusions: This insurance does not apply to: Perfluoroalkyl And Polyfluoroalkyl Substances  a. \"Bodily injur...
+2025-08-24 18:10:43,407 - INFO - Full final response saved to openai_response_final_17_20.txt
+2025-08-24 18:10:43,407 - INFO - Parsing JSON response for pages 17-20
+2025-08-24 18:10:43,407 - INFO - Successfully parsed 4 pages
+2025-08-24 18:10:43,407 - INFO - Page 17 summary: The page contains an endorsement modifying insurance under the Businessowners Coverage Form, specify...
+2025-08-24 18:10:43,407 - INFO - Page 17 full_text length: 977 chars
+2025-08-24 18:10:43,407 - INFO - Page 18 summary: This page outlines protective safeguard requirements and conditions under the Businessowners policy....
+2025-08-24 18:10:43,407 - INFO - Page 18 full_text length: 896 chars
+2025-08-24 18:10:43,407 - INFO - Page 19 summary: The page provides detailed loss conditions related to specific protective safeguards. Requirements f...
+2025-08-24 18:10:43,407 - INFO - Page 19 full_text length: 1034 chars
+2025-08-24 18:10:46,057 - INFO - HTTP Request: DELETE https://api.openai.com/v1/assistants/asst_nCiikxXzGKsdOi3LlFx9gvf1 "HTTP/1.1 200 OK"
+2025-08-24 18:10:46,059 - INFO - Replaced full_text for page 17 with PyPDF2 extracted text (1467 chars)
+2025-08-24 18:10:46,060 - INFO - Replaced full_text for page 18 with PyPDF2 extracted text (1090 chars)
+2025-08-24 18:10:46,060 - INFO - Replaced full_text for page 19 with PyPDF2 extracted text (1085 chars)
+2025-08-24 18:10:46,060 - INFO - Replaced full_text for page 20 with PyPDF2 extracted text (2250 chars)
+2025-08-24 18:10:46,543 - INFO - HTTP Request: DELETE https://api.openai.com/v1/files/file-AzpJg3KYyP9BztoKMMNUSu "HTTP/1.1 200 OK"
+2025-08-24 18:10:46,572 - INFO - Extracted 451 characters from page 21
+2025-08-24 18:10:46,574 - INFO - Extracted 44 characters from page 22
+2025-08-24 18:10:47,898 - INFO - HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2025-08-24 18:10:48,322 - INFO - HTTP Request: POST https://api.openai.com/v1/assistants "HTTP/1.1 200 OK"
+2025-08-24 18:10:48,595 - INFO - HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+2025-08-24 18:10:49,743 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/messages "HTTP/1.1 200 OK"
+2025-08-24 18:10:51,005 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs "HTTP/1.1 200 OK"
+2025-08-24 18:10:51,388 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_Iq8FkRvdLlpIBimlMeUVvHCs "HTTP/1.1 200 OK"
+2025-08-24 18:10:52,711 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_Iq8FkRvdLlpIBimlMeUVvHCs "HTTP/1.1 200 OK"
+2025-08-24 18:10:54,248 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_Iq8FkRvdLlpIBimlMeUVvHCs "HTTP/1.1 200 OK"
+2025-08-24 18:10:55,884 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_Iq8FkRvdLlpIBimlMeUVvHCs "HTTP/1.1 200 OK"
+2025-08-24 18:10:57,190 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_Iq8FkRvdLlpIBimlMeUVvHCs "HTTP/1.1 200 OK"
+2025-08-24 18:10:58,429 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_Iq8FkRvdLlpIBimlMeUVvHCs "HTTP/1.1 200 OK"
+2025-08-24 18:10:59,982 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_Iq8FkRvdLlpIBimlMeUVvHCs "HTTP/1.1 200 OK"
+2025-08-24 18:11:01,319 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_Iq8FkRvdLlpIBimlMeUVvHCs "HTTP/1.1 200 OK"
+2025-08-24 18:11:01,469 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/messages "HTTP/1.1 200 OK"
+2025-08-24 18:11:01,471 - INFO - Initial OpenAI response length: 3016 characters
+2025-08-24 18:11:01,471 - INFO - Initial response preview: [
+  {
+    "page_number": 21,
+    "summary": "This page details specific exclusions and additional insured information related to the liability insurance coverage. It includes a schedule that identifies additional insured parties and describes associated liabilities and exclusions.",
+    "full_text": "Text will be extracted separately",
+    "tables_and_figures": [
+      {
+        "type": "table",
+        "description": "Schedule for Additional Insured - Managers or Lessors of Premises",
+        "...
+2025-08-24 18:11:01,472 - INFO - Full initial response saved to openai_response_initial_21_22.txt
+2025-08-24 18:11:01,827 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/messages "HTTP/1.1 200 OK"
+2025-08-24 18:11:02,852 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs "HTTP/1.1 200 OK"
+2025-08-24 18:11:03,262 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:11:04,694 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:11:06,026 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:11:07,458 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:11:08,789 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:11:10,118 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:11:11,555 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:11:13,482 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:11:14,933 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:11:16,368 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:11:17,608 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:11:18,926 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:11:20,259 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:11:21,592 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:11:22,827 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:11:25,282 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:11:26,605 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:11:28,453 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:11:29,786 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:11:31,727 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:11:33,059 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:11:34,338 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:11:36,206 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:11:37,563 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:11:38,846 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:11:40,210 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:11:41,565 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:11:42,889 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:11:44,527 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:11:45,865 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:11:47,488 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:11:48,974 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:11:50,442 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:11:51,700 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:11:53,253 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:11:54,654 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:11:56,012 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:11:57,325 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:11:58,590 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:11:59,990 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:01,324 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:02,757 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:04,071 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:05,344 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:08,389 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:09,719 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:10,951 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:12,330 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:13,711 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:15,045 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:16,478 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:17,912 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:19,176 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:20,511 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:21,792 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:23,237 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:24,534 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:25,900 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:27,226 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:28,562 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:29,995 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:31,271 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:32,657 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:33,990 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:35,250 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:36,537 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:37,982 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:39,330 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:40,568 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:41,979 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:43,221 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:44,536 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:45,867 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:47,711 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:49,038 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:50,373 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:51,644 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:53,070 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:54,387 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:55,736 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:56,973 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:58,269 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:12:59,569 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:13:01,022 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:13:02,299 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:13:03,705 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:13:05,023 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:13:06,313 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:13:07,638 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:13:08,922 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:13:10,235 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:13:11,674 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:13:12,937 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:13:14,316 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:13:15,665 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:13:16,954 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:13:19,702 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/runs/run_zwTGKb5blTChqucOPbd94gxo "HTTP/1.1 200 OK"
+2025-08-24 18:13:19,850 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_vP2je5SQyS42ihKHDxCjQBAA/messages "HTTP/1.1 200 OK"
+2025-08-24 18:13:19,854 - INFO - Final OpenAI response length: 700 characters
+2025-08-24 18:13:19,854 - INFO - Final response preview: I can provide the page-by-page analysis, but as for direct extraction of full text from images or PDFs in entirety here, another tool might be needed outside of this interface. However, I will perform detailed analysis including structures across all pages per your request:
+
+1. **Page 1 to 20**: [Analysis]
+2. **Page 21**: [Analysis]
+3. **Page 22**: [Analysis]
+4. **Page 23 to End**: [Analysis]
+
+Let's start with detailed structured summaries for the entire document. If you need the complete litera...
+2025-08-24 18:13:19,855 - INFO - Full final response saved to openai_response_final_21_22.txt
+2025-08-24 18:13:19,856 - INFO - Parsing JSON response for pages 21-22
+2025-08-24 18:13:20,283 - INFO - HTTP Request: DELETE https://api.openai.com/v1/assistants/asst_v8CMVyzfnikNxNVfThZspcqI "HTTP/1.1 200 OK"
+2025-08-24 18:13:20,726 - INFO - HTTP Request: DELETE https://api.openai.com/v1/files/file-8gjW62Z7FL3w2fe4Cqh61g "HTTP/1.1 200 OK"

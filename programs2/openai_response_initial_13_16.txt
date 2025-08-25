@@ -1,0 +1,94 @@
+[
+    {
+        "page_number": 13,
+        "summary": "The page includes information regarding the terrorism insurance coverage rejection, and instructions for policyholders who wish to purchase this coverage. It explains the impact of the decision and the terms under the federal Terrorism Risk Insurance Act.",
+        "full_text": "Text will be extracted separately",
+        "tables_and_figures": [],
+        "key_information": {
+            "insured_property": null,
+            "coverage_details": "Details on terrorism insurance and rejection process",
+            "dates": "11/04/2024 deadline for purchasing terrorism coverage",
+            "amounts": null,
+            "addresses": "LOGAN PARK NEIGHBORHOOD ASSOCIATION, 807 Broadway St NE, STE 70, Minneapolis, MN 55413"
+        },
+        "relationships": {
+            "continues_from_previous": "Discussion on terrorism insurance coverage",
+            "continues_to_next": "Potential continuation on terrorism insurance",
+            "references": "Reference to the Terrorism Risk Insurance Act"
+        },
+        "document_structure": {
+            "section_title": "Terrorism Insurance Coverage Notice",
+            "subsections": [],
+            "page_type": "content"
+        }
+    },
+    {
+        "page_number": 14,
+        "summary": "This page contains information on protective devices or services provisions for the insurance policy, detailing protective safeguards required for coverage. These include automatic sprinkler systems, fire alarms, security systems, and more.",
+        "full_text": "Text will be extracted separately",
+        "tables_and_figures": [],
+        "key_information": {
+            "insured_property": null,
+            "coverage_details": "Protective devices and services required for coverage",
+            "dates": null,
+            "amounts": null,
+            "addresses": null
+        },
+        "relationships": {
+            "continues_from_previous": "Continues description of coverage conditions",
+            "continues_to_next": "Continuation of coverage conditions details",
+            "references": null
+        },
+        "document_structure": {
+            "section_title": "Protective Devices or Services Provisions",
+            "subsections": [],
+            "page_type": "content"
+        }
+    },
+    {
+        "page_number": 15,
+        "summary": "Details about the business owners' general liability coverage, specifying effective dates and coverage amounts for different liability types. It also includes the minimum premium and description of premises.",
+        "full_text": "Text will be extracted separately",
+        "tables_and_figures": [],
+        "key_information": {
+            "insured_property": "807 Broadway St Ne, Minneapolis, MN 55413",
+            "coverage_details": "General liability coverage specifics",
+            "dates": "Effective Date: 10/05/2024",
+            "amounts": "Liability and Medical Expenses: $1,000,000, Medical Expense (per person): $5,000",
+            "addresses": "807 Broadway St Ne, Minneapolis, MN 55413"
+        },
+        "relationships": {
+            "continues_from_previous": "General liability coverage part",
+            "continues_to_next": "Continuation of liability details",
+            "references": "General liability declarations"
+        },
+        "document_structure": {
+            "section_title": "General Liability Coverage Part Declarations",
+            "subsections": [],
+            "page_type": "content"
+        }
+    },
+    {
+        "page_number": 16,
+        "summary": "The page includes terms for liability coverage and exclusions, focusing on specific chemicals (PFAS) and their exclusions in liability terms. It also discusses optional terrorism insurance coverage not selected by the policyholder.",
+        "full_text": "Text will be extracted separately",
+        "tables_and_figures": [],
+        "key_information": {
+            "insured_property": null,
+            "coverage_details": "Exclusion of PFAS from liability coverage",
+            "dates": null,
+            "amounts": null,
+            "addresses": null
+        },
+        "relationships": {
+            "continues_from_previous": "Discussion on liability coverage terms",
+            "continues_to_next": "Continuation of coverage terms",
+            "references": "PFAS exclusion details"
+        },
+        "document_structure": {
+            "section_title": "Liability Coverage Exclusions",
+            "subsections": [],
+            "page_type": "content"
+        }
+    }
+]

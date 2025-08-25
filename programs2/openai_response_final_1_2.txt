@@ -1,0 +1,54 @@
+[
+  {
+    "page_number": 1,
+    "summary": "This page contains the details of the insurance policy including the insured entities, policy number, and coverage summary. It outlines the primary details of the coverage provided by the United States Liability Insurance Group.",
+    "full_text": "807 BROADWAY REVIVAL, LLC AND HILLCREST DEVELOPMENT, LLLP\n2424 KENNEDY ST NE\nMINNEAPOLIS, MN 55413\n10/05/2024 Effective Date: Name of Person or Organization: Schedule:\nSECTION III - COMMON POLICY CONDITIONS, Paragraph H. OTHER INSURANCE, is amended with the addition of the following: The coverage afforded by this policy to the person(s) or organization(s) listed above is primary and non-contributory if: 1. This insurance is required to be primary or non-contributory under a written contract: and",
+    "tables_and_figures": [],
+    "key_information": {
+      "insured_property": "807 BROADWAY ST NE, MINNEAPOLIS, MN 55413",
+      "coverage_details": "Businessowners Liability Coverage, Businessowners Property Coverage",
+      "dates": "10/05/2024 to 10/05/2025",
+      "amounts": "Total Premium: $461.33",
+      "addresses": "2424 Kennedy St NE, Minneapolis, MN 55413"
+    },
+    "relationships": {
+      "continues_from_previous": "Introduction and context of the policy.",
+      "continues_to_next": "Detailed terms and conditions likely continue.",
+      "references": "References to endorsements and policy number NBP1555904G."
+    },
+    "document_structure": {
+      "section_title": "Policy Declarations",
+      "subsections": ["Named Insured and Address", "Policy Period", "Premium Breakdown"],
+      "page_type": "cover"
+    }
+  },
+  {
+    "page_number": 2,
+    "summary": "The second page details specific exclusions and conditions related to the coverage, focusing on protective safeguard requirements. Specific scenarios where coverage does not apply are listed, outlined under various codes such as 'P-6', 'P-8'.",
+    "full_text": "With respect to 'P-3', 'P-7' and 'P-15', we will not pay for loss or damage caused by or resulting from vandalism, burglary, theft or any other act of stealing if, prior to the vandalism, burglary, theft or any other act of stealing, you knew of any suspension or impairment in any protective safeguard listed in the Schedule and failed to notify us of that fact; or failed to maintain any protective safeguard in complete working order.",
+    "tables_and_figures": [
+      {
+        "type": "table",
+        "description": "Protective Safeguards and Exclusions",
+        "content": "Lists safeguards like P-1, P-2, etc., and conditions under which coverage is not applicable."
+      }
+    ],
+    "key_information": {
+      "insured_property": "Coverage applies to properties listed under insured properties with required safeguards.",
+      "coverage_details": "Additional requirements on insured entities to maintain specified safety devices and services.",
+      "dates": "Amended date applications as per declaration.",
+      "amounts": "No specific amounts are mentioned.",
+      "addresses": "Applies to addresses noted in declarations."
+    },
+    "relationships": {
+      "continues_from_previous": "Continuation of coverage details from policy declarations.",
+      "continues_to_next": "More exclusions or conditions may follow.",
+      "references": "References to safeguard details and their importance in coverage here."
+    },
+    "document_structure": {
+      "section_title": "Protective Devices Or Services Provisions",
+      "subsections": ["Protective Safeguards Description", "Exclusions Based on Safeguard Maintenance"],
+      "page_type": "content"
+    }
+  }
+]

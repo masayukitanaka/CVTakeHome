@@ -1,0 +1,108 @@
+[{
+    "page_number": 1,
+    "summary": "The page introduces changes to the insurance policy, highlighting new endorsements related to liability coverage under the Businessowners Coverage Form. The policy is customized for specific circumstances involving additional insured parties.",
+    "full_text": "Text will be extracted separately",
+    "tables_and_figures": [{
+        "type": "table",
+        "description": "Schedule of endorsements and additional insured entities with effective dates",
+        "content": "BP 04 02 01 06 with details on designation of premises and entities covered"
+    }],
+    "key_information": {
+        "insured_property": "807 Broadway Revival, LLC",
+        "coverage_details": "Covers managers or lessors of premises",
+        "dates": "Effective Date: 10/05/2024",
+        "amounts": "Not specified",
+        "addresses": "2424 Kennedy St NE, Minneapolis, MN 55413"
+    },
+    "relationships": {
+        "continues_from_previous": "Introduction of policy modifications",
+        "continues_to_next": "Further details on coverage endorsements",
+        "references": "References previous policy terms, parts of the Businessowners Coverage Form"
+    },
+    "document_structure": {
+        "section_title": "THIS ENDORSEMENT CHANGES THE POLICY",
+        "subsections": ["Additional Insured - Managers or Lessors of Premises"],
+        "page_type": "content"
+    }
+},
+{
+    "page_number": 2,
+    "summary": "Continues with detailed conditions for coverage exclusions relating to specific incidents such as vandalism or equipment breakdown. Emphasizes the policyholder's responsibility in maintaining protective safeguards.",
+    "full_text": "Text will be extracted separately",
+    "tables_and_figures": [{
+        "type": "figure",
+        "description": "List of conditions affecting insurance coverage",
+        "content": "Conditions under which coverage does not apply due to failure to maintain protective safeguards."
+    }],
+    "key_information": {
+        "insured_property": "Not directly specified",
+        "coverage_details": "Excludes coverage for vandalism and equipment breakdown if safeguards are not maintained",
+        "dates": "Relevant to policy's effective date",
+        "amounts": "Not specified",
+        "addresses": "Implicitly for insured locations"
+    },
+    "relationships": {
+        "continues_from_previous": "Coverage exclusions in detail",
+        "continues_to_next": "Finalizing endorsements and conditions",
+        "references": "Exclusions discussed are related to previous general terms"
+    },
+    "document_structure": {
+        "section_title": "Coverage Exclusions based on Protective Safeguards",
+        "subsections": ["Exclusion Details for Various Coverage Incidents"],
+        "page_type": "content"
+    }
+},
+{
+    "page_number": 3,
+    "summary": "Page details the exclusions tied to specific protective safeguard failures, including obligations for reporting and maintaining these safeguards. It further clarifies responsibilities of the insured with examples.",
+    "full_text": "Text will be extracted separately",
+    "tables_and_figures": [{
+        "type": "figure",
+        "description": "Protective safeguards and corresponding exclusions",
+        "content": "Descriptions of various protective safeguards such as 'P-3', 'P-6', etc., and implications on coverage."
+    }],
+    "key_information": {
+        "insured_property": "Not directly specified",
+        "coverage_details": "Highlights exclusions due to failure to maintain safeguards",
+        "dates": "Effective: 10/05/2024",
+        "amounts": "Not specified",
+        "addresses": "Implicitly for insured locations"
+    },
+    "relationships": {
+        "continues_from_previous": "Detailed exclusions and safeguard descriptions",
+        "continues_to_next": "Further conditions in policy specifics",
+        "references": "Related to previous pages with overall liability details"
+    },
+    "document_structure": {
+        "section_title": "Exclusions and Conditions",
+        "subsections": ["Protective Safeguards Descriptions", "Exclusions Linked to Safeguards"],
+        "page_type": "content"
+    }
+},
+{
+    "page_number": 4,
+    "summary": "Concludes the description of policy structure focusing on liability exclusions. Introduces common policy conditions and emphasizes the importance of waiver and exclusion clauses.",
+    "full_text": "Text will be extracted separately",
+    "tables_and_figures": [{
+        "type": "table",
+        "description": "Common policy conditions and waiver of rights",
+        "content": "Includes waiver details and how they affect recovery rights"
+    }],
+    "key_information": {
+        "insured_property": "Not directly specified",
+        "coverage_details": "Waiver of transfer of rights of recovery against others",
+        "dates": "Effective Date: 10/05/2024",
+        "amounts": "Not specified",
+        "addresses": "Implicitly for insured locations"
+    },
+    "relationships": {
+        "continues_from_previous": "Coverage and exclusion detailing",
+        "continues_to_next": "Document completes with general policy commentary",
+        "references": "Completes the summaries of coverage adjustments and conditions"
+    },
+    "document_structure": {
+        "section_title": "Common Policy Conditions",
+        "subsections": ["Transfer of Rights of Recovery", "Waiver Details"],
+        "page_type": "content"
+    }
+}]
