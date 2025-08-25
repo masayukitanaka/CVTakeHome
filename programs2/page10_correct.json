@@ -24,9 +24,14 @@
     },
     "document_structure": {
       "section_title": "Policy Declarations",
-      "subsections": ["Coverage Parts", "Premium", "Agent Information"],
+      "subsections": [
+        "Coverage Parts",
+        "Premium",
+        "Agent Information"
+      ],
       "page_type": "content"
-    }
+    },
+    "analyzed_at": "2025-08-24T18:18:37.961709"
   },
   {
     "page_number": 2,
@@ -47,9 +52,13 @@
     },
     "document_structure": {
       "section_title": "Exclusions",
-      "subsections": ["Exclusion List", "Amendments"],
+      "subsections": [
+        "Exclusion List",
+        "Amendments"
+      ],
       "page_type": "content"
-    }
+    },
+    "analyzed_at": "2025-08-24T18:18:37.961719"
   },
   {
     "page_number": 3,
@@ -76,9 +85,13 @@
     },
     "document_structure": {
       "section_title": "Amendments and Extensions",
-      "subsections": ["Additional Insured", "Protective Safeguards"],
+      "subsections": [
+        "Additional Insured",
+        "Protective Safeguards"
+      ],
       "page_type": "content"
-    }
+    },
+    "analyzed_at": "2025-08-24T18:18:37.961721"
   },
   {
     "page_number": 4,
@@ -105,9 +118,13 @@
     },
     "document_structure": {
       "section_title": "Terrorism Insurance Options",
-      "subsections": ["Policyholder Decisions", "Federal Act References"],
+      "subsections": [
+        "Policyholder Decisions",
+        "Federal Act References"
+      ],
       "page_type": "content"
-    }
+    },
+    "analyzed_at": "2025-08-24T18:18:37.961723"
   },
   {
     "page_number": 5,
@@ -134,8 +151,12 @@
     },
     "document_structure": {
       "section_title": "Liability Coverage",
-      "subsections": ["Premiums", "Coverage Limits"],
+      "subsections": [
+        "Premiums",
+        "Coverage Limits"
+      ],
       "page_type": "content"
-    }
+    },
+    "analyzed_at": "2025-08-24T18:18:37.961725"
   }
 ]

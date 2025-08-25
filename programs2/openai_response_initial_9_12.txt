@@ -1,110 +1,118 @@
-```json
 [
   {
     "page_number": 9,
-    "summary": "This page outlines exclusions under the liability coverage related to protective safeguards. It specifies conditions under which the insurance will not cover certain losses, such as those caused by equipment breakdown or theft, if specific safeguards were not maintained.",
+    "summary": "This page describes exclusions related to Perfluoroalkyl and Polyfluoroalkyl Substances, detailing instances where liability does not apply for bodily injury or property damage caused by these substances. The page elaborates on the definition and scope of these substances.",
     "full_text": "Text will be extracted separately",
     "tables_and_figures": [
       {
-        "type": "table",
-        "description": "Exclusions related to protective safeguards",
-        "content": "The table lists different conditions like P-3, P-7, P-15, and their associated exclusions if safeguards are impaired."
+        "type": "n/a",
+        "description": "No tables or figures on this page.",
+        "content": "N/A"
       }
     ],
     "key_information": {
-      "insured_property": "None specifically mentioned",
-      "coverage_details": "Exclusions under liability coverage for protective safeguards",
-      "dates": "10/05/2024 as the effective date",
-      "amounts": "None specified",
-      "addresses": "807 BROADWAY REVIVAL, LLC AND HILLCREST DEVELOPMENT, LLLP, 2424 KENNEDY ST NE, MINNEAPOLIS, MN 55413"
+      "insured_property": "No specific property information found.",
+      "coverage_details": "Exclusion of coverage for damages involving PFAS.",
+      "dates": "N/A",
+      "amounts": "N/A",
+      "addresses": "N/A"
     },
     "relationships": {
-      "continues_from_previous": "Continuation of exclusions in the policy",
-      "continues_to_next": "Likely continues exclusions or conditions",
-      "references": "Refers to exclusions and conditions in the policy related to specific equipment and safeguard impairments"
+      "continues_from_previous": "Exclusions and definitions continued from previous page sections.",
+      "continues_to_next": "The exclusion continues with further details.",
+      "references": "References to liability terms and PFAS definitions in insurance context."
     },
     "document_structure": {
-      "section_title": "Protective Safeguards Exclusions",
-      "subsections": ["Conditions P-3, P-7, P-15"],
+      "section_title": "Exclusions Related to PFAS",
+      "subsections": ["Exclusions", "Definitions"],
       "page_type": "content"
     }
   },
   {
     "page_number": 10,
-    "summary": "This page contains the waiver of transfer of rights of recovery against others. It specifies when rights of recovery may be waived and the conditions under which these waivers apply.",
+    "summary": "Discusses the exclusion of coverage for losses due to terrorism in the renewed policy. It explains the Terrorism Risk Insurance Program and the policyholder's decision not to include terrorism coverage.",
     "full_text": "Text will be extracted separately",
-    "tables_and_figures": [],
+    "tables_and_figures": [
+      {
+        "type": "n/a",
+        "description": "No tables or figures on this page.",
+        "content": "N/A"
+      }
+    ],
     "key_information": {
-      "insured_property": "None specifically mentioned",
-      "coverage_details": "Waiver of rights recovery conditions",
-      "dates": "Effective from 10/05/2024",
-      "amounts": "None specified",
-      "addresses": "807 BROADWAY REVIVAL, LLC, 2424 KENNEDY ST NE, MINNEAPOLIS, MN 55413"
+      "insured_property": "N/A",
+      "coverage_details": "Exclusion of Terrorism Insurance Coverage.",
+      "dates": "10/05/2024 - 10/05/2025 policy period.",
+      "amounts": "N/A",
+      "addresses": "N/A"
     },
     "relationships": {
-      "continues_from_previous": "Continuation from policy conditions",
-      "continues_to_next": "May extend to other endorsement conditions",
-      "references": "Linked to policy endorsements and conditions"
+      "continues_from_previous": "Follows terrorism exclusion notifications.",
+      "continues_to_next": "May reference general insurance exclusions in upcoming sections.",
+      "references": "References the federal Terrorism Risk Insurance Program."
     },
     "document_structure": {
-      "section_title": "Waiver of Recovery Rights Endorsement",
-      "subsections": ["Conditions for waivers"],
+      "section_title": "Policyholder Disclosure Notice of Terrorism Insurance Coverage",
+      "subsections": ["Rejection or Selection of Coverage"],
       "page_type": "content"
     }
   },
   {
     "page_number": 11,
-    "summary": "The page details an exclusion policy specifically for 'Perfluoroalkyl And Polyfluoroalkyl Substances (PFAS)'. It outlines the bodily injuries, property damage, and costs not covered by the insurance due to these substances.",
+    "summary": "The page lists various endorsements and exclusions incorporated into the insurance policy. Specific attention is given to exclusions for fiduciary liability, pollution, and cyber incidents.",
     "full_text": "Text will be extracted separately",
-    "tables_and_figures": [],
+    "tables_and_figures": [
+      {
+        "type": "list",
+        "description": "List of endorsements and exclusions.",
+        "content": "Includes exclusions for asbestos, fiduciary liability, and cyber incidents."
+      }
+    ],
     "key_information": {
-      "insured_property": "Property related to PFAS exclusion",
-      "coverage_details": "Exclusions involving PFAS",
-      "dates": "Effective from 10/05/2024",
-      "amounts": "None specified",
-      "addresses": "None specifically mentioned"
+      "insured_property": "N/A",
+      "coverage_details": "Detailed endorsement and exclusion list.",
+      "dates": "Various revision dates for each endorsement.",
+      "amounts": "N/A",
+      "addresses": "N/A"
     },
     "relationships": {
-      "continues_from_previous": "Related to chemical exclusions",
-      "continues_to_next": "May continue with more specific exclusions",
-      "references": "Specific to liability exclusions in the policy"
+      "continues_from_previous": "Follows previous sections of exclusions.",
+      "continues_to_next": "Endorsements and exclusions may continue in subsequent pages.",
+      "references": "References multiple insurance forms and exclusions."
     },
     "document_structure": {
-      "section_title": "PFAS Exclusion",
-      "subsections": ["Liability coverage exclusions"],
-      "page_type": "content"
+      "section_title": "Endorsements and Exclusions",
+      "subsections": ["Detailed listing of insurance policy endorsements"],
+      "page_type": "technical list"
     }
   },
   {
     "page_number": 12,
-    "summary": "This page contains the renewal certificate for the Businessowners policy, listing coverage parts and premium details for the policy period. It briefly mentions the non-inclusion of terrorism insurance unless specifically purchased.",
+    "summary": "This page focuses on safety recommendations to prevent common insurance claims. It highlights issues like slips, trips, and falls, and advises on implementing preventive measures like maintaining lighting and removing clutter.",
     "full_text": "Text will be extracted separately",
     "tables_and_figures": [
       {
-        "type": "table",
-        "description": "Policy coverage and premium details",
-        "content": "Details of coverage parts and corresponding premiums"
+        "type": "notice",
+        "description": "Safety notice emphasizing loss prevention.",
+        "content": "Includes a list of common causes for accidents and preventative steps."
       }
     ],
     "key_information": {
-      "insured_property": "None mentioned",
-      "coverage_details": "Businessowners coverage, property and liability",
-      "dates": "Policy period from 10/05/2024 to 10/05/2025",
-      "amounts": {
-        "Premium": "$461.33"
-      },
-      "addresses": "LOGAN PARK NEIGHBORHOOD ASSOCIATION, 807 BROADWAY ST NE, STE 70, MINNEAPOLIS, MN 55413"
+      "insured_property": "N/A",
+      "coverage_details": "General guidance on safety improvements.",
+      "dates": "N/A",
+      "amounts": "N/A",
+      "addresses": "N/A"
     },
     "relationships": {
-      "continues_from_previous": "Continuation of policy renewal terms",
-      "continues_to_next": "Likely followed by detailed policy terms",
-      "references": "References expiring policy and its renewal"
+      "continues_from_previous": "Follows general advice and policy details.",
+      "continues_to_next": "May link to further detailed safety guidelines.",
+      "references": "Emphasis on implementing safety measures to avoid future claims."
     },
     "document_structure": {
-      "section_title": "Policy Renewal Certificate",
-      "subsections": ["Coverage Parts", "Premium Details"],
-      "page_type": "content"
+      "section_title": "Loss Control and Safety Recommendations",
+      "subsections": ["Safety Advice", "Examples of Common Issues"],
+      "page_type": "advisory notice"
     }
   }
 ]
-```

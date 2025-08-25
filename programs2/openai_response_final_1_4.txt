@@ -1,108 +1,112 @@
-[{
+[
+  {
     "page_number": 1,
-    "summary": "The page introduces changes to the insurance policy, highlighting new endorsements related to liability coverage under the Businessowners Coverage Form. The policy is customized for specific circumstances involving additional insured parties.",
+    "summary": "The first page contains the description of premises, including location, construction details, territory, and the protected causes of loss. Coverage limits and deductibles for Business Income and Extra Expense are detailed along with other financial summaries.",
     "full_text": "Text will be extracted separately",
-    "tables_and_figures": [{
+    "tables_and_figures": [
+      {
         "type": "table",
-        "description": "Schedule of endorsements and additional insured entities with effective dates",
-        "content": "BP 04 02 01 06 with details on designation of premises and entities covered"
-    }],
+        "description": "Coverage and Financial Summary Table",
+        "content": "Location, Construction, Coverage Limits, Deductibles, Valuation Method, Premium Details"
+      }
+    ],
     "key_information": {
-        "insured_property": "807 Broadway Revival, LLC",
-        "coverage_details": "Covers managers or lessors of premises",
-        "dates": "Effective Date: 10/05/2024",
-        "amounts": "Not specified",
-        "addresses": "2424 Kennedy St NE, Minneapolis, MN 55413"
+      "insured_property": "807 Broadway St Ne, Minneapolis, MN 55413",
+      "coverage_details": "Business Income and Extra Expense, Business Personal Property",
+      "dates": "Effective Date: 10/05/2024",
+      "amounts": "Coverage Amounts: $16,552 for Business Income and Extra Expense, $5,000 for Business Personal Property",
+      "addresses": "807 Broadway St Ne, Minneapolis, MN 55413"
     },
     "relationships": {
-        "continues_from_previous": "Introduction of policy modifications",
-        "continues_to_next": "Further details on coverage endorsements",
-        "references": "References previous policy terms, parts of the Businessowners Coverage Form"
+      "continues_from_previous": "N/A",
+      "continues_to_next": "Financial details and coverage specifications",
+      "references": "Businessowners Property Coverage Part Declarations"
     },
     "document_structure": {
-        "section_title": "THIS ENDORSEMENT CHANGES THE POLICY",
-        "subsections": ["Additional Insured - Managers or Lessors of Premises"],
-        "page_type": "content"
+      "section_title": "Businessowners Property Coverage Part Declarations",
+      "subsections": ["Coverage Details", "Premium Information"],
+      "page_type": "content"
     }
-},
-{
+  },
+  {
     "page_number": 2,
-    "summary": "Continues with detailed conditions for coverage exclusions relating to specific incidents such as vandalism or equipment breakdown. Emphasizes the policyholder's responsibility in maintaining protective safeguards.",
+    "summary": "This page describes the applicable coverages, limits of insurance, liability, and deductible features for premises owned or rented. Membership organization classifications and associated premiums are outlined.",
     "full_text": "Text will be extracted separately",
-    "tables_and_figures": [{
-        "type": "figure",
-        "description": "List of conditions affecting insurance coverage",
-        "content": "Conditions under which coverage does not apply due to failure to maintain protective safeguards."
-    }],
-    "key_information": {
-        "insured_property": "Not directly specified",
-        "coverage_details": "Excludes coverage for vandalism and equipment breakdown if safeguards are not maintained",
-        "dates": "Relevant to policy's effective date",
-        "amounts": "Not specified",
-        "addresses": "Implicitly for insured locations"
-    },
-    "relationships": {
-        "continues_from_previous": "Coverage exclusions in detail",
-        "continues_to_next": "Finalizing endorsements and conditions",
-        "references": "Exclusions discussed are related to previous general terms"
-    },
-    "document_structure": {
-        "section_title": "Coverage Exclusions based on Protective Safeguards",
-        "subsections": ["Exclusion Details for Various Coverage Incidents"],
-        "page_type": "content"
-    }
-},
-{
-    "page_number": 3,
-    "summary": "Page details the exclusions tied to specific protective safeguard failures, including obligations for reporting and maintaining these safeguards. It further clarifies responsibilities of the insured with examples.",
-    "full_text": "Text will be extracted separately",
-    "tables_and_figures": [{
-        "type": "figure",
-        "description": "Protective safeguards and corresponding exclusions",
-        "content": "Descriptions of various protective safeguards such as 'P-3', 'P-6', etc., and implications on coverage."
-    }],
-    "key_information": {
-        "insured_property": "Not directly specified",
-        "coverage_details": "Highlights exclusions due to failure to maintain safeguards",
-        "dates": "Effective: 10/05/2024",
-        "amounts": "Not specified",
-        "addresses": "Implicitly for insured locations"
-    },
-    "relationships": {
-        "continues_from_previous": "Detailed exclusions and safeguard descriptions",
-        "continues_to_next": "Further conditions in policy specifics",
-        "references": "Related to previous pages with overall liability details"
-    },
-    "document_structure": {
-        "section_title": "Exclusions and Conditions",
-        "subsections": ["Protective Safeguards Descriptions", "Exclusions Linked to Safeguards"],
-        "page_type": "content"
-    }
-},
-{
-    "page_number": 4,
-    "summary": "Concludes the description of policy structure focusing on liability exclusions. Introduces common policy conditions and emphasizes the importance of waiver and exclusion clauses.",
-    "full_text": "Text will be extracted separately",
-    "tables_and_figures": [{
+    "tables_and_figures": [
+      {
         "type": "table",
-        "description": "Common policy conditions and waiver of rights",
-        "content": "Includes waiver details and how they affect recovery rights"
-    }],
+        "description": "Insurance Limits and Premium Computation Table",
+        "content": "Liability Limits, Medical Expenses, Deductible, Location Address, Territory, Premium Basis"
+      }
+    ],
     "key_information": {
-        "insured_property": "Not directly specified",
-        "coverage_details": "Waiver of transfer of rights of recovery against others",
-        "dates": "Effective Date: 10/05/2024",
-        "amounts": "Not specified",
-        "addresses": "Implicitly for insured locations"
+      "insured_property": "807 Broadway St Ne, Minneapolis, MN 55413",
+      "coverage_details": "Liability and Medical Expenses, Damages to Premises",
+      "dates": "Effective Date: 10/05/2024",
+      "amounts": "Liability and Medical Expenses: $1,000,000; Medical Expense (per person): $5,000",
+      "addresses": "807 Broadway St Ne, Minneapolis, MN 55413"
     },
     "relationships": {
-        "continues_from_previous": "Coverage and exclusion detailing",
-        "continues_to_next": "Document completes with general policy commentary",
-        "references": "Completes the summaries of coverage adjustments and conditions"
+      "continues_from_previous": "Coverage details",
+      "continues_to_next": "Endorsements and protective safeguards",
+      "references": "Premium Computation for Membership Organizations"
     },
     "document_structure": {
-        "section_title": "Common Policy Conditions",
-        "subsections": ["Transfer of Rights of Recovery", "Waiver Details"],
-        "page_type": "content"
+      "section_title": "Businessowners General Liability Coverage Part Declarations",
+      "subsections": ["Limits of Insurance", "Locations", "Premium Computation"],
+      "page_type": "content"
     }
-}]
+  },
+  {
+    "page_number": 3,
+    "summary": "Details regarding endorsements such as the Protective Devices or Services Provisions are introduced, along with schedule descriptions for various protective systems and their requirements.",
+    "full_text": "Text will be extracted separately",
+    "tables_and_figures": [
+      {
+        "type": "table",
+        "description": "Protective Devices and Systems Table",
+        "content": "Description of Protective Safeguards, Requirements, Endorsement Modifications"
+      }
+    ],
+    "key_information": {
+      "insured_property": "General premises and device requirements",
+      "coverage_details": "Protective Safeguards",
+      "dates": "Effective Date: 10/05/2024",
+      "amounts": "Not specified",
+      "addresses": "Not specified"
+    },
+    "relationships": {
+      "continues_from_previous": "Details on insurance provisions",
+      "continues_to_next": "Endorsements and Coverage modifications",
+      "references": "Protective Safeguards Schedule"
+    },
+    "document_structure": {
+      "section_title": "Protective Devices or Services Provisions",
+      "subsections": ["Schedule of Protective Safeguards", "Endorsement Modifications"],
+      "page_type": "content"
+    }
+  },
+  {
+    "page_number": 4,
+    "summary": "The page provides details on specific exclusions within the insurance terms, particularly focusing on limitations like those associated with terrorism and protective safeguards.",
+    "full_text": "Text will be extracted separately",
+    "tables_and_figures": [],
+    "key_information": {
+      "insured_property": "General property exclusions",
+      "coverage_details": "Exclusions related to terrorism and operational requirements",
+      "dates": "Notice dated for the policy and exclusions",
+      "amounts": "Not specified",
+      "addresses": "Not specified"
+    },
+    "relationships": {
+      "continues_from_previous": "Exclusion details",
+      "continues_to_next": "Continuation of exclusion terms",
+      "references": "Exclusion of Certified Acts of Terrorism"
+    },
+    "document_structure": {
+      "section_title": "Exclusions and Coverage Limitations",
+      "subsections": ["Terrorism Exclusion", "Protective Systems"],
+      "page_type": "content"
+    }
+  }
+]

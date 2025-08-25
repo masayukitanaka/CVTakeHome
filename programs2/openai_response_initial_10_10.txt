@@ -1,31 +1,33 @@
+```json
 [
   {
     "page_number": 10,
-    "summary": "This page of the insurance document describes protective devices or services provisions. It outlines requirements for maintaining various types of protective equipment and systems, including automatic sprinkler systems and fire alarms. Exclusions from coverage are specified if these safeguards are not properly maintained.",
+    "summary": "This page discusses the conditions under which the waiver of transfer of rights of recovery is applicable, detailing out the specific endorsements that modify the insurance policy. It specifies the effective dates and entities involved, under the Businessowners Coverage Form, detailing the included exclusions and specific agencies or persons involved.",
     "full_text": "Text will be extracted separately",
     "tables_and_figures": [
       {
         "type": "table",
-        "description": "Table listing protective safeguards required under the policy",
-        "content": "\"P-1\" Automatic Sprinkler System, \"P-2\" Automatic Fire Alarm, \"P-3\" Security Service, \"P-4\" Service Contract, \"P-5\" Smoke/Heat Detectors, \"P-6\" Circuit Breakers, \"P-7\" Burglar Alarm, \"P-8\" Surge Protectors, \"P-9\" Refrigeration Maintenance Contract, \"P-10\" Fire Suppression System."
+        "description": "Schedule of endorsements and exceptions related to waiver of rights",
+        "content": "Includes relevant details of insured parties and applicable exclusions."
       }
     ],
     "key_information": {
-      "insured_property": "N/A",
-      "coverage_details": "Protection systems are required for coverage to be effective; lack of maintenance voids the coverage.",
-      "dates": "10/05/2024 as the effective date of the policy",
-      "amounts": "N/A",
-      "addresses": "Not specified on this page"
+      "insured_property": "807 BROADWAY REVIVAL, LLC AND HILLCREST DEVELOPMENT, LLLP",
+      "coverage_details": "The waiver covers ongoing operations under a contract with designated parties included in the 'products-completed operations hazard'.",
+      "dates": "Effective Date: 10/05/2024",
+      "amounts": "Not specified in this section",
+      "addresses": "2424 KENNEDY ST NE, MINNEAPOLIS, MN 55413"
     },
     "relationships": {
-      "continues_from_previous": "Continuation of protective devices discussions",
-      "continues_to_next": "Further details on protective measures and related exclusions",
-      "references": "References made to the importance of maintaining listed protective systems"
+      "continues_from_previous": "Previous pages likely detail additional endorsements or coverages.",
+      "continues_to_next": "Content may continue with more detailed exclusions or policy extensions.",
+      "references": "Reference to other sections for further endorsements or conditions."
     },
     "document_structure": {
-      "section_title": "Protective Devices or Services Provisions",
-      "subsections": [],
+      "section_title": "WAIVER OF TRANSFER OF RIGHTS OF RECOVERY AGAINST OTHERS TO US",
+      "subsections": ["Schedule", "Exclusions"],
       "page_type": "content"
     }
   }
 ]
+```

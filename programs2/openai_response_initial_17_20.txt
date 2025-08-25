@@ -1,100 +1,118 @@
 [
   {
     "page_number": 17,
-    "summary": "The page contains an endorsement modifying insurance under the Businessowners Coverage Form, specifying coverage details for additional insured parties. It includes specific exclusions for 'perfluoroalkyl or polyfluoroalkyl substances'.",
+    "summary": "The page outlines limitations and prohibitions regarding coverage related to the maintenance and operation of various protective safeguards. It details exclusions from coverage if certain conditions of the protective safeguards are not met.",
     "full_text": "Text will be extracted separately",
     "tables_and_figures": [
       {
         "type": "table",
-        "description": "Schedule Table",
-        "content": "Outline of the person or organization name for additional insured and modified rights of recovery."
+        "description": "Descriptions of protective safeguards and exclusions related to their maintenance.",
+        "content": "P-1 to P-18 descriptions and exclusions, details on protective safeguard conditions."
       }
     ],
     "key_information": {
-      "insured_property": "807 Broadway Revival, LLC and Hillcrest Development, LLLP",
-      "coverage_details": "Additional insured coverage with exclusions for 'perfluoroalkyl or polyfluoroalkyl substances'.",
-      "dates": "10/05/2024",
-      "amounts": "Not specified",
-      "addresses": "2424 Kennedy St NE, Minneapolis, MN 55413"
+      "insured_property": "Various premises with specified safeguards.",
+      "coverage_details": "Exclusions on coverage if conditions are not met.",
+      "dates": "None found",
+      "amounts": "None found",
+      "addresses": "Not specified"
     },
     "relationships": {
-      "continues_from_previous": "General liability insurance continuity and modifications.",
-      "continues_to_next": "Detailed exclusions for insured substances.",
-      "references": "Businessowners Coverage Form, Waiver of Transfer of Rights of Recovery."
+      "continues_from_previous": "Continuation of policy endorsements",
+      "continues_to_next": "Continues with more specific policies and conditions",
+      "references": "References previous policy sections, relates to subsequent exclusions"
     },
     "document_structure": {
-      "section_title": "Endorsement Modifications",
-      "subsections": ["Schedule", "Exclusions"],
-      "page_type": "endorsement or content"
+      "section_title": "Protective Safeguards and Exclusions",
+      "subsections": ["Descriptions of safeguards", "Exclusions conditions"],
+      "page_type": "content"
     }
   },
   {
     "page_number": 18,
-    "summary": "This page outlines protective safeguard requirements and conditions under the Businessowners policy. Detailed exclusions and conditions for maintaining safety equipment are defined.",
+    "summary": "This page continues to list exclusions to coverage and specifies situations where loss or damage will not be compensated due to failures in maintaining or reporting impairments in specified safeguards.",
     "full_text": "Text will be extracted separately",
-    "tables_and_figures": [],
+    "tables_and_figures": [
+      {
+        "type": "textual list",
+        "description": "Conditions under which no coverage is offered",
+        "content": "Exclusion conditions for P-1 through P-21 safeguards."
+      }
+    ],
     "key_information": {
-      "insured_property": "Protection Safeguards applicable to insured properties.",
-      "coverage_details": "Conditions for safeguard maintenance to ensure coverage.",
-      "dates": "Effective from the date of the policy",
-      "amounts": "Not specified",
+      "insured_property": "Properties with specific safeguards",
+      "coverage_details": "Conditions under which no cover is provided",
+      "dates": "None found",
+      "amounts": "None found",
       "addresses": "Not specified"
     },
     "relationships": {
-      "continues_from_previous": "Exclusions related to protective safeguards.",
-      "continues_to_next": "Continuation of exclusions related to safeguards and policies.",
-      "references": "Protective Safeguards and Safety Equipment requirements."
+      "continues_from_previous": "Continues listing of exclusions",
+      "continues_to_next": "Likely to continue exclusions or endorse additional policies",
+      "references": "References earlier sections on policy conditions"
     },
     "document_structure": {
-      "section_title": "Protective Safeguard Conditions",
-      "subsections": ["Conditions and Requirements", "Exclusions"],
-      "page_type": "terms and conditions"
+      "section_title": "Coverage Exclusions Continued",
+      "subsections": ["Further exclusionary clauses"],
+      "page_type": "content"
     }
   },
   {
     "page_number": 19,
-    "summary": "The page provides detailed loss conditions related to specific protective safeguards. Requirements for operational and maintenance compliance are emphasized, specifying punitive actions in cases of non-compliance.",
+    "summary": "This page outlines additional endorsements and their interaction with existing insurance policies, particularly around additional insureds and liability conditions. It includes conditions related to ‘Primary and Non-Contributory’ clauses.",
     "full_text": "Text will be extracted separately",
-    "tables_and_figures": [],
+    "tables_and_figures": [
+      {
+        "type": "endorsement list",
+        "description": "Details of conditions for additional insureds",
+        "content": "Primary and Non-Contributory - Written Contract conditions"
+      }
+    ],
     "key_information": {
-      "insured_property": "Compliance requirements for protective equipment.",
-      "coverage_details": "Loss payment exclusions due to failure in equipment maintenance.",
-      "dates": "Not specified",
-      "amounts": "Not specified",
-      "addresses": "Not specified"
+      "insured_property": "Specific insured organizations",
+      "coverage_details": "Additional insured conditions",
+      "dates": "10/05/2024 Effective Date",
+      "amounts": "None specified",
+      "addresses": "807 BROADWAY ST NE, MINNEAPOLIS, MN 55413"
     },
     "relationships": {
-      "continues_from_previous": "Continuation of punitive measures for safeguard compliance failures.",
-      "continues_to_next": "Discusses the impact of compliance on loss payment.",
-      "references": "Protective safeguards related to insurance loss payments."
+      "continues_from_previous": "Details on Primary and Non-Contributory clauses",
+      "continues_to_next": "Likely mentions additional exclusions or further conditions",
+      "references": "Refer to various contractual clauses and liabilities"
     },
     "document_structure": {
-      "section_title": "Loss Condition Specifications",
-      "subsections": ["Preventive Maintenance Failures", "Loss Payment Conditions"],
-      "page_type": "terms and conditions"
+      "section_title": "Endorsements - Additional Insureds",
+      "subsections": ["Primary and Non-Contributory Details"],
+      "page_type": "content"
     }
   },
   {
     "page_number": 20,
-    "summary": "This page highlights additional endorsements for the insurance policy, focusing on liability exclusion for specific substances and the impact on policy coverage.",
+    "summary": "The page emphasizes terrorism exclusions and provides options for policyholders regarding terror-related coverage. Instructions for declining or accepting terrorism insurance are provided, alongside the implications.",
     "full_text": "Text will be extracted separately",
-    "tables_and_figures": [],
+    "tables_and_figures": [
+      {
+        "type": "policy notice",
+        "description": "Notice about terrorism insurance coverage",
+        "content": "Policyholder Disclosure Notice of Terrorism Insurance Coverage"
+      }
+    ],
     "key_information": {
-      "insured_property": "Exclusion applies broadly to policy coverages.",
-      "coverage_details": "Amendment highlights exclusions of certain substances from coverage.",
-      "dates": "Effective within policy period.",
-      "amounts": "Not specified",
-      "addresses": "Not specified"
+      "insured_property": "Policyholder's business operations",
+      "coverage_details": "Terrorism insurance coverage rejection or acceptance",
+      "dates": "Deadline 11/04/2024",
+      "amounts": "Premium adjustments not specified",
+      "addresses": "Logan Park Neighborhood Association's address on file"
     },
     "relationships": {
-      "continues_from_previous": "Coverage exclusions regarding specific hazardous substances.",
-      "continues_to_next": "Further details on exclusions derived from federal acts.",
-      "references": "Businessowners Coverage Form, Federal Risk Insurance Act implications."
+      "continues_from_previous": "Previous endorsements and exclusions information",
+      "continues_to_next": "Likely further policyholder instructions or new sections",
+      "references": "Terrorism Risk Insurance Act regulations"
     },
     "document_structure": {
-      "section_title": "Endorsement Additions and Federal Compliance",
-      "subsections": ["Substance Exclusions", "Coverage Modifications"],
-      "page_type": "endorsement"
+      "section_title": "Terrorism Insurance Coverage",
+      "subsections": ["Notice and selection forms"],
+      "page_type": "content"
     }
   }
 ]

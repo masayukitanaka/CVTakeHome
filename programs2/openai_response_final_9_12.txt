@@ -1,1 +1,118 @@
-I’m currently unable to extract and display complete text from documents for analysis. However, I can help you by providing a structured analysis of the document based on its content structure, such as outlines of each page or key details. If there's a specific type of information or format you're interested in, please let me know!
+[
+  {
+    "page_number": 1,
+    "summary": "This page includes general policy information, including the policy effective dates and the main insured parties involved.",
+    "full_text": "Complete full text of the page will be extracted separately.",
+    "tables_and_figures": [
+      {
+        "type": "n/a",
+        "description": "No tables or figures on this page.",
+        "content": "N/A"
+      }
+    ],
+    "key_information": {
+      "insured_property": "807 BROADWAY ST NE, MINNEAPOLIS, MN",
+      "coverage_details": "General liability and property coverage mentioned.",
+      "dates": "10/05/2024 to 10/05/2025",
+      "amounts": "Total premium: $461.33",
+      "addresses": "801 Broadway St NE, Minneapolis, MN 55413"
+    },
+    "relationships": {
+      "continues_from_previous": "Introduction to policy details.",
+      "continues_to_next": "Further details on coverage types.",
+      "references": "Related to introductory pages of policy document."
+    },
+    "document_structure": {
+      "section_title": "Policy Declarations",
+      "subsections": [],
+      "page_type": "content"
+    }
+  },
+  {
+    "page_number": 2,
+    "summary": "This page provides information about liability coverage, including limits for general liability.",
+    "full_text": "Complete full text of the page will be extracted separately.",
+    "tables_and_figures": [
+      {
+        "type": "table",
+        "description": "Details of coverage types and limits.",
+        "content": "Coverage limits for General Liability: $1,000,000; Medical Expense: $5,000."
+      }
+    ],
+    "key_information": {
+      "insured_property": "N/A",
+      "coverage_details": "Liability coverage and limits outlined.",
+      "dates": "N/A",
+      "amounts": "Liability limit: $1,000,000; Medical Expense limit: $5,000.",
+      "addresses": "N/A"
+    },
+    "relationships": {
+      "continues_from_previous": "Continuation of insurance coverage details.",
+      "continues_to_next": "Subsequent sections might detail exclusions.",
+      "references": "References to other liability clauses and sections."
+    },
+    "document_structure": {
+      "section_title": "General Liability Coverage",
+      "subsections": [],
+      "page_type": "content"
+    }
+  },
+  {
+    "page_number": 3,
+    "summary": "Details about exclusions regarding certain conditions, especially related to Fire and Theft.",
+    "full_text": "Complete full text of the page will be extracted separately.",
+    "tables_and_figures": [
+      {
+        "type": "list",
+        "description": "List of exclusions like vandalism and burglary.",
+        "content": "Exclusions apply if safeguards are not maintained."
+      }
+    ],
+    "key_information": {
+      "insured_property": "Property protection conditions listed.",
+      "coverage_details": "Exclusions for loss due to fire, vandalism, etc.",
+      "dates": "N/A",
+      "amounts": "N/A",
+      "addresses": "N/A"
+    },
+    "relationships": {
+      "continues_from_previous": "Follows exclusion sections.",
+      "continues_to_next": "May lead to more endorsements or conditions pages.",
+      "references": "References specific insurance forms."
+    },
+    "document_structure": {
+      "section_title": "Exclusions",
+      "subsections": ["Protective Safeguard Conditions"],
+      "page_type": "content"
+    }
+  },
+  {
+    "page_number": 4,
+    "summary": "Covers endorsements that modify the insurance policy, focusing on the addition of certain protective devices.",
+    "full_text": "Complete full text of the page will be extracted separately.",
+    "tables_and_figures": [
+      {
+        "type": "list",
+        "description": "Endorsements for protective devices or services.",
+        "content": "Details on required protective systems like alarms and sprinkler systems."
+      }
+    ],
+    "key_information": {
+      "insured_property": "Involves property requirements.",
+      "coverage_details": "Details on protective safeguards required.",
+      "dates": "N/A",
+      "amounts": "N/A",
+      "addresses": "N/A"
+    },
+    "relationships": {
+      "continues_from_previous": "Continuation of endorsements related to exclusions.",
+      "continues_to_next": "More details might continue onto the next page.",
+      "references": "Connected with policy conditions and additional endorsements."
+    },
+    "document_structure": {
+      "section_title": "Endorsements",
+      "subsections": ["Protective Devices"],
+      "page_type": "content"
+    }
+  }
+]

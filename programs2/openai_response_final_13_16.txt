@@ -1,3 +1,118 @@
-I'm unable to directly access or extract full text from the document you uploaded, as it requires capabilities beyond summarizing or analyzing based on content snippets. However, you can use Optical Character Recognition (OCR) tools or PDF extraction software to obtain the full text from each page of the document. Once you have the text, you can insert it into the designated "full_text" field of the JSON structure for your complete analysis.
-
-If you have any other questions or need further assistance, feel free to ask!
+[
+  {
+    "page_number": 13,
+    "summary": "This page outlines certain insurance endorsements which modify liability coverage, specifically including details on exclusions regarding structural alterations, and adding organizations as insureds. The coverage is explained with respect to premises leased as specified in a schedule.",
+    "full_text": "Text will be extracted separately",
+    "tables_and_figures": [
+      {
+        "type": "endorsement table",
+        "description": "Additional Insured - Managers or Lessors of Premises",
+        "content": "Designation of premises, policy number, endorsement codes, and name of insured organizations."
+      }
+    ],
+    "key_information": {
+      "insured_property": "807 BROADWAY ST NE, MINNEAPOLIS, MN 55413",
+      "coverage_details": "Businessowner's coverage modified to include certain additional insureds.",
+      "dates": "Effective date: 10/05/2024",
+      "amounts": "Policy Number: NBP1555904G",
+      "addresses": "2424 KENNEDY ST NE, MINNEAPOLIS, MN 55413"
+    },
+    "relationships": {
+      "continues_from_previous": "Basic liability details and exclusions in section II",
+      "continues_to_next": "Further endorsements and schedule information",
+      "references": "Figure references a specific section within businessowner's coverage form"
+    },
+    "document_structure": {
+      "section_title": "ADDITIONAL INSURED - MANAGERS OR LESSORS OF PREMISES",
+      "subsections": [],
+      "page_type": "endorsement"
+    }
+  },
+  {
+    "page_number": 14,
+    "summary": "This section discusses exclusions related to property loss, particularly focusing on protective safeguards. It specifies conditions under which insurance will not cover losses due to vandalism, theft, and equipment breakdown.",
+    "full_text": "Text will be extracted separately",
+    "tables_and_figures": [
+      {
+        "type": "exclusion clause and condition table",
+        "description": "Protective safeguards and conditions for loss coverage",
+        "content": "Details on failure to maintain safeguards and the resultant exclusions in coverage."
+      }
+    ],
+    "key_information": {
+      "insured_property": "Protective safeguards applicable to properties included in schedule.",
+      "coverage_details": "Includes exclusions for certain loss types under specific failures.",
+      "dates": "Policy conditions remain unchanged unless another effective date is shown.",
+      "amounts": "Not specifically mentioned.",
+      "addresses": "General coverage for properties as listed in accompanying schedules."
+    },
+    "relationships": {
+      "continues_from_previous": "Conditions of liability coverage from previous endorsements",
+      "continues_to_next": "Continuation of exclusions and conditions related to property coverage",
+      "references": "Refers back to specified conditions in section I - Property"
+    },
+    "document_structure": {
+      "section_title": "EXCLUSIONS AND CONDITIONS",
+      "subsections": [],
+      "page_type": "exclusion clause"
+    }
+  },
+  {
+    "page_number": 15,
+    "summary": "The document defines critical terms related to liability coverage and lists exclusions for various defined substances considered within the policy. Key chemicals like PFAS are explicitly excluded from coverage.",
+    "full_text": "Text will be extracted separately",
+    "tables_and_figures": [
+      {
+        "type": "definition and exclusion table",
+        "description": "Definitions and exclusion of specific substances from coverage",
+        "content": "Detailed chemical definitions and coverage exclusions related to PFAS."
+      }
+    ],
+    "key_information": {
+      "insured_property": "No specific property information linked with PFAS",
+      "coverage_details": "Exclusion affects chemical-related coverage; PFAS substances specifically addressed.",
+      "dates": "Date of exclusion/additions: 12/23",
+      "amounts": "Amounts not directly affected but exclusions apply broadly.",
+      "addresses": "No addresses are specified."
+    },
+    "relationships": {
+      "continues_from_previous": "Following earlier established definitions and exclusions",
+      "continues_to_next": "Continuation of policy terms defining coverage extensions or restrictions",
+      "references": "References new and previous definitions affecting exclusions"
+    },
+    "document_structure": {
+      "section_title": "EXCLUSION – PERFLUOROALKYL AND POLYFLUOROALKYL SUBSTANCES",
+      "subsections": [],
+      "page_type": "exclusion definition"
+    }
+  },
+  {
+    "page_number": 16,
+    "summary": "This section provides a notification about the terrorism insurance coverage exclusions under current federal law. The page also reemphasizes general exclusions that remain unchanged through the complete policy declaration.",
+    "full_text": "Text will be extracted separately",
+    "tables_and_figures": [
+      {
+        "type": "policy exclusion notice",
+        "description": "Notice of exclusion for terrorism-related incidents as per federal act",
+        "content": "Details on exclusion of terrorism coverage unless explicitly purchased."
+      }
+    ],
+    "key_information": {
+      "insured_property": "No property explicitly mentioned",
+      "coverage_details": "Coverage only extended through explicit purchase and forms attached.",
+      "dates": "Policyholder decision deadline: 11/04/2024",
+      "amounts": "No specific amounts affected by decision.",
+      "addresses": "Recipient address is not specified, but applies universally."
+    },
+    "relationships": {
+      "continues_from_previous": "Reiteration of general exclusions from previous policy discussions",
+      "continues_to_next": "Potential continuation into further exclusion details or summaries",
+      "references": "Offers a continuation to federal exclusions affecting existing policy structure"
+    },
+    "document_structure": {
+      "section_title": "DISCLOSURE NOTICE OF TERRORISM INSURANCE COVERAGE",
+      "subsections": [],
+      "page_type": "exclusion notice"
+    }
+  }
+]
